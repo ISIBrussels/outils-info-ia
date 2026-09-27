@@ -11,7 +11,6 @@ footer: "[← Retour à l'accueil](../../index.html)"
 
 LLM vs agentique & synthèse
 
-[→ Tâches évaluées](taches_seance_07.html)
 
 ---
 
@@ -173,3 +172,5 @@ Merci — questions / retours bienvenus.
 Ressources : site du cours (GitHub Pages) + supports de chaque séance.
 
 Contact : [Sylvain Huraux - HE2B - ISIB](mailto:shuraux@he2b.be)
+
+[→ Tâches évaluées](taches_seance_07.html)

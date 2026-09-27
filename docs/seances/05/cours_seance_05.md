@@ -11,7 +11,6 @@ footer: "[← Retour à l'accueil](../../index.html)"
 
 Google Slides
 
-[→ Tâches évaluées](taches_seance_05.html)
 
 ---
 
@@ -142,3 +141,5 @@ Entraînez-vous **avec** les notes, pas en les découvrant en live.
 
 - Préparer 5 slides sur un sujet de cours (message + plan)
 - **Séance 6 :** Gemini & NotebookLM (IA Google pour étudier)
+
+[→ Tâches évaluées](taches_seance_05.html)

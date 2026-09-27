@@ -11,7 +11,6 @@ footer: "[← Retour à l'accueil](../../index.html)"
 
 Agenda & Drive
 
-[→ Tâches évaluées](taches_seance_02.html)
 
 ---
 
@@ -169,3 +168,5 @@ Ainsi, le planning et les fichiers restent connectés.
 
 - Créer l'arborescence `ISIB/` + 3 événements Agenda (cours, deadline, réunion)
 - **Séance 3 :** Google Docs (rédaction, styles, collaboration)
+
+[→ Tâches évaluées](taches_seance_02.html)

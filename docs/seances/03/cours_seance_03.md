@@ -11,7 +11,6 @@ footer: "[← Retour à l'accueil](../../index.html)"
 
 Google Docs
 
-[→ Tâches évaluées](taches_seance_03.html)
 
 ---
 
@@ -157,3 +156,5 @@ Réutilisez un **modèle** Docs dans votre dossier ISIB.
 
 - Rédiger un mini Doc structuré (styles + sommaire + 1 commentaire)
 - **Séance 4 :** Google Sheets (données, formules, graphiques)
+
+[→ Tâches évaluées](taches_seance_03.html)

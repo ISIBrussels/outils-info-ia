@@ -11,7 +11,6 @@ footer: "[← Retour à l'accueil](../../index.html)"
 
 Google Sheets
 
-[→ Tâches évaluées](taches_seance_04.html)
 
 ---
 
@@ -147,3 +146,5 @@ Colonnes : `Matricule | Nom | Labo1 | Labo2 | Labo3 | Moyenne | Statut`
 
 - Construire un petit Sheet de suivi (formules + 1 graphique)
 - **Séance 5 :** Google Slides (structure d'une présentation claire)
+
+[→ Tâches évaluées](taches_seance_04.html)

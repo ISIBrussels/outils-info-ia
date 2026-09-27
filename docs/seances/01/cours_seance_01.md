@@ -1,40 +1,20 @@
 ---
 marp: true
 theme: outils-info-ia
-title: "Séance 1 — Cadre du cours & Gmail"
+title: "Séance 1 — Gmail"
 paginate: true
 header: "Outils Info & IA — Séance 1 [Sylvain Huraux - HE2B - ISIB](mailto:shuraux@he2b.be)"
 footer: "[← Retour à l'accueil](../../index.html)"
 ---
 
-## Cadre général
-
-**Outils informatiques & IA** — 1<sup>e</sup> bachelier ingénieur industriel ISIB
-
-- Maîtriser les **outils Google** utiles aux études et au travail d'équipe
-- Découvrir l'**IA Google** (Gemini, NotebookLM) avec un usage critique
-- Distinguer **LLM** (assistant textuel) et **approche agentique**
-- Format : démo → pratique guidée → **tâches évaluées** à réaliser
-
-| Élément | Détail |
-| --- | --- |
-| Durée | **7 × 1 h 30** (= 10 h 30) |
-| Compte | Google / Workspace étudiant |
-| Langue | français (interfaces souvent en EN) |
-
----
-
 ## Séance 1
 
-Cadre du cours & Gmail
-
-[→ Tâches évaluées](taches_seance_01.html)
+Gmail
 
 ---
 
 ## Objectifs de la séance
 
-- Situer le cours dans le parcours ISIB
 - Se connecter correctement (compte **institutionnel** vs perso)
 - Structurer Gmail : libellés, filtres, recherche
 - Écrire un mail professionnel clair
@@ -183,3 +163,5 @@ En cas de doute : **ne pas cliquer**, vérifier via un autre canal, signaler com
 
 - Appliquer 2 libellés + 1 filtre sur votre boîte ISIB
 - **Séance 2 :** Google Agenda & Drive (organisation du temps et des fichiers)
+
+[→ Tâches évaluées](taches_seance_01.html)

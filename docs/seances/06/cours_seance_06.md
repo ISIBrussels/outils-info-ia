@@ -11,7 +11,6 @@ footer: "[← Retour à l'accueil](../../index.html)"
 
 Gemini & NotebookLM
 
-[→ Tâches évaluées](taches_seance_06.html)
 
 ---
 
@@ -148,3 +147,5 @@ Contre-mesures : demander les sources, vérifier dans le polycopié, tester sur 
 
 - Créer un notebook NotebookLM avec 1–2 sources de cours + 5 questions
 - **Séance 7 :** LLM vs agentique & synthèse du module
+
+[→ Tâches évaluées](taches_seance_06.html)

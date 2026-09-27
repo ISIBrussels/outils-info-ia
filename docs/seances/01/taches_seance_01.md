@@ -1,6 +1,6 @@
 # Séance 1 — Tâches évaluées
 
-**Thème :** Cadre du cours & Gmail  
+**Thème :** Gmail  
 **Objectif :** réaliser des actions concrètes sur votre compte Google étudiant  
 **À rendre / montrer :** captures ou transfert au destinataire indiqué en séance (enseignant ou binôme)
 
