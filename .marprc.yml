@@ -1,0 +1,4 @@
+themeSet:
+  - docs/themes
+theme: outils-info-ia
+html: true
