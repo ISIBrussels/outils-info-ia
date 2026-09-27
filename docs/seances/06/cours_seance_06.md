@@ -93,7 +93,7 @@ Intérêt :
 1. Créer un notebook « TI1 — Bloc boucles »
 2. Ajouter polycopiés / slides / vos notes (droits OK)
 3. Poser des questions ciblées
-4. Demander un quiz ou une fiche
+4. Demander une fiche ou des questions d'auto-test
 5. Recouper avec le cours officiel
 
 Ne televersez pas de documents confidentiels ou non autorisés.
@@ -133,7 +133,7 @@ Contre-mesures : demander les sources, vérifier dans le polycopié, tester sur 
 
 ---
 
-## Exercice mental : bon usage
+## Cas d'usage : bon usage
 
 | Demande | OK ? |
 | --- | --- |
