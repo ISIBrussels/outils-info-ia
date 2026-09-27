@@ -22,20 +22,6 @@ Gmail
 
 ---
 
-## Pourquoi ces outils ?
-
-En école d'ingénieurs, vous allez :
-
-- **communiquer** avec enseignants et groupes de projet
-- **planifier** échéances, labos, examens
-- **produire** des documents, tableaux, présentations
-- **collaborer** en temps réel
-- **utiliser l'IA** sans déléguer votre responsabilité intellectuelle
-
-Ce cours pose les bases pour le reste du cursus (et le stage / métier).
-
----
-
 ## Compte : lequel utiliser ?
 
 | Usage | Compte recommandé |
