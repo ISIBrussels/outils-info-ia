@@ -11,7 +11,7 @@ footer: "[← Retour à l'accueil](../../index.html)"
 
 Agenda & Drive
 
-[→ Tâches](taches_seance_02.html)
+[→ Tâches évaluées](taches_seance_02.html)
 
 ---
 

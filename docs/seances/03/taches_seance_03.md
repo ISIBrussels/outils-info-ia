@@ -1,4 +1,4 @@
-# Séance 3 — Tâches
+# Séance 3 — Tâches évaluées
 
 **Thème :** Google Docs  
 **Objectif :** produire un document structuré et collaboratif prêt à être remis  

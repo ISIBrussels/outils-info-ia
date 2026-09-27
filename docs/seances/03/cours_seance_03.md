@@ -11,7 +11,7 @@ footer: "[← Retour à l'accueil](../../index.html)"
 
 Google Docs
 
-[→ Tâches](taches_seance_03.html)
+[→ Tâches évaluées](taches_seance_03.html)
 
 ---
 

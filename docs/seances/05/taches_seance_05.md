@@ -1,4 +1,4 @@
-# Séance 5 — Tâches
+# Séance 5 — Tâches évaluées
 
 **Thème :** Google Slides  
 **Objectif :** préparer une mini-présentation orale claire (support ≠ document)  

@@ -5,18 +5,18 @@ Bienvenue. Ce site est destiné aux étudiants de l'activité d'apprentissage **
 Vous y trouverez :
 
 - les **slides de cours**
-- les **consignes de tâches** pratiques à réaliser
+- les **consignes de tâches évaluées** à réaliser
 
 ## Tableau des séances
 
-| Séance | Thème | Cours | Tâches |
+| Séance | Thème | Cours | Tâches évaluées |
 | :---: | --- | :---: | :---: |
-| 1 | Cadre du cours & Gmail | [Cours](seances/01/cours_seance_01.md) | [Tâches](seances/01/taches_seance_01.md) |
-| 2 | Agenda & Drive | [Cours](seances/02/cours_seance_02.md) | [Tâches](seances/02/taches_seance_02.md) |
-| 3 | Google Docs | [Cours](seances/03/cours_seance_03.md) | [Tâches](seances/03/taches_seance_03.md) |
-| 4 | Google Sheets | [Cours](seances/04/cours_seance_04.md) | [Tâches](seances/04/taches_seance_04.md) |
-| 5 | Google Slides | [Cours](seances/05/cours_seance_05.md) | [Tâches](seances/05/taches_seance_05.md) |
-| 6 | Gemini & NotebookLM | [Cours](seances/06/cours_seance_06.md) | [Tâches](seances/06/taches_seance_06.md) |
-| 7 | LLM vs agentique & synthèse | [Cours](seances/07/cours_seance_07.md) | [Tâches](seances/07/taches_seance_07.md) |
+| 1 | Cadre du cours & Gmail | [Cours](seances/01/cours_seance_01.md) | [Tâches évaluées](seances/01/taches_seance_01.md) |
+| 2 | Agenda & Drive | [Cours](seances/02/cours_seance_02.md) | [Tâches évaluées](seances/02/taches_seance_02.md) |
+| 3 | Google Docs | [Cours](seances/03/cours_seance_03.md) | [Tâches évaluées](seances/03/taches_seance_03.md) |
+| 4 | Google Sheets | [Cours](seances/04/cours_seance_04.md) | [Tâches évaluées](seances/04/taches_seance_04.md) |
+| 5 | Google Slides | [Cours](seances/05/cours_seance_05.md) | [Tâches évaluées](seances/05/taches_seance_05.md) |
+| 6 | Gemini & NotebookLM | [Cours](seances/06/cours_seance_06.md) | [Tâches évaluées](seances/06/taches_seance_06.md) |
+| 7 | LLM vs agentique & synthèse | [Cours](seances/07/cours_seance_07.md) | [Tâches évaluées](seances/07/taches_seance_07.md) |
 
 <footer class="site-footer"><a href="mailto:shuraux@he2b.be">Sylvain Huraux - HE2B - ISIB</a></footer>

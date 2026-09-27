@@ -1,4 +1,4 @@
-# Séance 4 — Tâches
+# Séance 4 — Tâches évaluées
 
 **Thème :** Google Sheets  
 **Objectif :** construire un tableau de suivi utilisable (pas une grille décorative)  

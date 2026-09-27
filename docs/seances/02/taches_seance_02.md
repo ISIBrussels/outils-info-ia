@@ -1,4 +1,4 @@
-# Séance 2 — Tâches
+# Séance 2 — Tâches évaluées
 
 **Thème :** Agenda & Drive  
 **Objectif :** planifier un créneau et organiser des fichiers partagés  
@@ -20,7 +20,7 @@ L’invité doit recevoir l’invitation Calendar (pas seulement un mail vague �
 
 Créez un second événement **journée entière** :
 
-- Titre : `Deadline — remise tâches séance 2`
+- Titre : `Deadline — remise tâches évaluées séance 2`
 - Rappels : J-1 (et idéalement J-7)
 - Couleur distincte des cours
 

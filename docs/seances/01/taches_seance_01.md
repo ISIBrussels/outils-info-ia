@@ -1,4 +1,4 @@
-# Séance 1 — Tâches
+# Séance 1 — Tâches évaluées
 
 **Thème :** Cadre du cours & Gmail  
 **Objectif :** réaliser des actions concrètes sur votre compte Google étudiant  
@@ -6,7 +6,7 @@
 
 ## Contexte
 
-Vous devez communiquer proprement avec l’école et vos coéquipiers. Ces tâches valident que vous savez **envoyer un mail professionnel** et **organiser votre boîte**.
+Vous devez communiquer proprement avec l’école et vos coéquipiers. Ces tâches évaluées valident que vous savez **envoyer un mail professionnel** et **organiser votre boîte**.
 
 ## Travail 1 — Mail de demande (obligatoire)
 
