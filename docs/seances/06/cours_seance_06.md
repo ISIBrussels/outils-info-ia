@@ -11,7 +11,7 @@ footer: "[← Retour à l'accueil](../../index.html)"
 
 Gemini & NotebookLM
 
-[→ Travaux](travaux_seance_06.html)
+[→ Tâches](taches_seance_06.html)
 
 ---
 
@@ -127,7 +127,7 @@ Contre-mesures : demander les sources, vérifier dans le polycopié, tester sur 
 ## Confidentialité & éthique
 
 - Ne collez pas de données personnelles sensibles de tiers
-- Respectez le règlement des examens / travaux
+- Respectez le règlement des examens / tâches
 - Déclarez l'usage de l'IA si l'enseignant le demande
 - Vous restez **auteur responsable** du rendu
 

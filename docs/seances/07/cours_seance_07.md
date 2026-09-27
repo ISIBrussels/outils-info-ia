@@ -11,7 +11,7 @@ footer: "[← Retour à l'accueil](../../index.html)"
 
 LLM vs agentique & synthèse
 
-[→ Travaux](travaux_seance_07.html)
+[→ Tâches](taches_seance_07.html)
 
 ---
 

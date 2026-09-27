@@ -1,4 +1,4 @@
-# Séance 6 — Travaux
+# Séance 6 — Tâches
 
 **Thème :** Gemini & NotebookLM  
 **Objectif :** utiliser l’IA comme copilote sur une tâche scolaire réelle, avec vérification  

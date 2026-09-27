@@ -1,4 +1,4 @@
-# Séance 7 — Travaux
+# Séance 7 — Tâches
 
 **Thème :** LLM vs agentique & synthèse  
 **Objectif :** montrer que vous distinguez les concepts et que vous avez une méthode de travail durable  

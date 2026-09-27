@@ -14,7 +14,7 @@ footer: "[← Retour à l'accueil](../../index.html)"
 - Maîtriser les **outils Google** utiles aux études et au travail d'équipe
 - Découvrir l'**IA Google** (Gemini, NotebookLM) avec un usage critique
 - Distinguer **LLM** (assistant textuel) et **approche agentique**
-- Format : démo → pratique guidée → **travaux** à réaliser
+- Format : démo → pratique guidée → **tâches** à réaliser
 
 | Élément | Détail |
 | --- | --- |
@@ -28,7 +28,7 @@ footer: "[← Retour à l'accueil](../../index.html)"
 
 Cadre du cours & Gmail
 
-[→ Travaux](travaux_seance_01.html)
+[→ Tâches](taches_seance_01.html)
 
 ---
 
