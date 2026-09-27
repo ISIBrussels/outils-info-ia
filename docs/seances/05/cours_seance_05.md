@@ -11,8 +11,7 @@ footer: "[← Retour à l'accueil](../../index.html)"
 
 Google Slides
 
-[→ Quiz](quiz_seance_05.html)
-[→ Exercices](exercices_seance_05.html)
+[→ Travaux](travaux_seance_05.html)
 
 ---
 

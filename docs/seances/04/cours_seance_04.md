@@ -11,8 +11,7 @@ footer: "[← Retour à l'accueil](../../index.html)"
 
 Google Sheets
 
-[→ Quiz](quiz_seance_04.html)
-[→ Exercices](exercices_seance_04.html)
+[→ Travaux](travaux_seance_04.html)
 
 ---
 

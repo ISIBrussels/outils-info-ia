@@ -11,8 +11,7 @@ footer: "[← Retour à l'accueil](../../index.html)"
 
 Agenda & Drive
 
-[→ Quiz](quiz_seance_02.html)
-[→ Exercices](exercices_seance_02.html)
+[→ Travaux](travaux_seance_02.html)
 
 ---
 

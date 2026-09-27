@@ -11,8 +11,7 @@ footer: "[← Retour à l'accueil](../../index.html)"
 
 Gemini & NotebookLM
 
-[→ Quiz](quiz_seance_06.html)
-[→ Exercices](exercices_seance_06.html)
+[→ Travaux](travaux_seance_06.html)
 
 ---
 
