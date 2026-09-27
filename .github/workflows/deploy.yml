@@ -220,7 +220,7 @@ jobs:
             <head>
               <meta charset="utf-8" />
               <meta name="viewport" content="width=device-width, initial-scale=1" />
-              <title>Outils Info & IA — ISIB</title>
+              <title>Outils informatiques & IA — ISIB</title>
               <style>
                 :root {
                   --color-primary: #0075c9;

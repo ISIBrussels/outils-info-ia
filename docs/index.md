@@ -1,6 +1,6 @@
-# Outils informatique & IA
+# Outils informatiques & IA
 
-Bienvenue. Ce site est destiné aux étudiants de l'activité d'apprentissage **Outils informatique & IA** du **1<sup>e</sup> bachelier** ingénieur industriel à l'**ISIB** (HE2B).
+Bienvenue. Ce site est destiné aux étudiants de l'activité d'apprentissage **Outils informatiques & IA** du **1<sup>e</sup> bachelier** ingénieur industriel à l'**ISIB** (HE2B).
 
 Vous y trouverez :
 

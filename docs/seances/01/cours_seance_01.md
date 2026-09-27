@@ -9,7 +9,7 @@ footer: "[← Retour à l'accueil](../../index.html)"
 
 ## Cadre général
 
-**Outils informatique & IA** — 1<sup>e</sup> bachelier ingénieur industriel ISIB
+**Outils informatiques & IA** — 1<sup>e</sup> bachelier ingénieur industriel ISIB
 
 - Maîtriser les **outils Google** utiles aux études et au travail d'équipe
 - Découvrir l'**IA Google** (Gemini, NotebookLM) avec un usage critique

@@ -1,6 +1,6 @@
-# Outils informatique & IA
+# Outils informatiques & IA
 
-Dépôt du cours **Outils informatique & IA** (1<sup>e</sup> année ingénieur industriel) à l'ISIB - HE2B.
+Dépôt du cours **Outils informatiques & IA** (1<sup>e</sup> année ingénieur industriel) à l'ISIB - HE2B.
 
 - **Durée totale** : 10 h 30
 - **Organisation** : 7 séances de 1 h 30
