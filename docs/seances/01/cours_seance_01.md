@@ -270,3 +270,11 @@ Créez un **événement** Agenda et **invitez l’enseignant**.
 3. **rappel** activé
 
 → [Tâches évaluées](taches_seance_01.html)
+
+---
+
+## Deadline
+
+Remise des deux tâches : **au plus tard la veille de la prochaine séance, à 20:00**.
+
+→ [Tâches évaluées](taches_seance_01.html)
