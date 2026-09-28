@@ -130,6 +130,17 @@ Attention : **répondre à tous** peut envoyer votre réponse à toute une liste
 
 ---
 
+## Google Chat
+
+Google Chat **existe** dans l’écosystème Google (messagerie rapide, liée à Workspace).
+
+- **Pas à privilégier** pour écrire aux **enseignants**, surtout en **Master** (préférez le **mail** institutionnel).
+- En entreprise, on trouve souvent des outils **plus complets** : **Slack**, ou **Teams** si l’organisation est sur Microsoft.
+
+Pour ce cours : Chat = à connaître de nom ; communication scolaire formelle = **Gmail**.
+
+---
+
 ## Pièces jointes et liens Drive
 
 | Situation | Préférer |
