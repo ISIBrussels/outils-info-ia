@@ -39,15 +39,6 @@ Pas de slogans vides : chaque réflexe = une action que vous pouvez faire la sem
 Reprenez / finalisez une charte (6 points minimum), ajoutez votre **nom**, section et date.  
 Partagez le Doc en lecture avec l’enseignant.
 
-## Critères de réussite
-
-| Critère | Attendu |
-| --- | --- |
-| Cartographie | 8 situations classées + 3 justifications |
-| Schéma | Boucle agentique annotée |
-| Réflexes | 10 items concrets |
-| Charte | Signée (nom + date) |
-
 <nav class="page-nav">
   <a href="cours_seance_07.html">← Cours</a>
   <a href="../../index.html">Accueil</a>

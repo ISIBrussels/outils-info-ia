@@ -39,14 +39,6 @@ Avec un binôme (ou l’enseignant si travail solo autorisé) :
 3. Déposez le PDF dans votre dossier Drive de la séance
 4. Vérifiez : sommaire, coupures de page, lisibilité de la figure
 
-## Critères de réussite
-
-| Critère | Attendu |
-| --- | --- |
-| Styles | Titres Docs + sommaire à jour |
-| Collab | Commentaires / suggestion visibles |
-| Remise | PDF nommé + lien Doc accessible |
-
 <nav class="page-nav">
   <a href="cours_seance_03.html">← Cours</a>
   <a href="../../index.html">Accueil</a>

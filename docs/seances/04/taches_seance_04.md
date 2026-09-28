@@ -44,15 +44,6 @@ Consignes :
 
 Partagez le Sheet avec votre binôme en **éditeur** et ajoutez un commentaire sur une cellule suspecte (ex. note hors plage).
 
-## Critères de réussite
-
-| Critère | Attendu |
-| --- | --- |
-| Formules | Moyenne + Statut automatiques |
-| Qualité données | En-têtes, filtre, validation |
-| Graphique | Titré et lisible |
-| Collab | Partage + au moins 1 commentaire |
-
 <nav class="page-nav">
   <a href="cours_seance_04.html">← Cours</a>
   <a href="../../index.html">Accueil</a>

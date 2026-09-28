@@ -26,6 +26,7 @@ Envoyez **un seul mail** depuis votre **compte institutionnel** à l’adresse i
 - Objet vide ou « … » / « question » / « Urgent!!! »
 - Style message instantané (WhatsApp / DM) : fragments sans structure
 - Envoi depuis une boîte **personnelle**
+- Signature incomplète (il manque le nom, le matricule ou l’année/groupe)
 
 ### Grille d’évaluation (mail)
 

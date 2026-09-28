@@ -48,15 +48,6 @@ Remplissez les **notes** pour au moins 3 slides (ce que vous direz, pas le copie
 
 Répartissez les slides, partagez en éditeur, et figez le thème avant la « version remise ».
 
-## Critères de réussite
-
-| Critère | Attendu |
-| --- | --- |
-| Message | Clair dès les 1–2 premières slides |
-| Densité | Pas de mur de texte |
-| Notes | Présentes pour ≥ 3 slides |
-| Secours | PDF déposé + lien Slides accessible |
-
 <nav class="page-nav">
   <a href="cours_seance_05.html">← Cours</a>
   <a href="../../index.html">Accueil</a>

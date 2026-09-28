@@ -29,20 +29,6 @@ Pour chaque prompt : collez la réponse de Gemini (extrait), puis une **vérific
 
 Ajoutez en fin de journal **5 règles personnelles** d’usage de l’IA pour vos études (éthique, vérification, données personnelles, évaluations).
 
-## Interdits explicites
-
-- Faire rédiger un travail noté « clé en main » à rendre tel quel
-- Inventer des références / URLs sans contrôle
-- Coller des données personnelles sensibles de tiers
-
-## Critères de réussite
-
-| Critère | Attendu |
-| --- | --- |
-| Prompts | 3 prompts complets + vérifications |
-| NotebookLM | Sources + 5 questions + fiche réécrite |
-| Éthique | 5 règles personnelles présentes |
-
 <nav class="page-nav">
   <a href="cours_seance_06.html">← Cours</a>
   <a href="../../index.html">Accueil</a>

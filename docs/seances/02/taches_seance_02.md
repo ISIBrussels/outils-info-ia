@@ -40,15 +40,6 @@ Renommez **3 fichiers** (ou créez 3 fichiers modèles) selon une convention sta
 Ajoutez un **raccourci** du dossier ou fichier partagé dans l’arborescence du binôme (sans recopier les fichiers).  
 Expliquez brièvement pourquoi un raccourci évite les versions divergentes.
 
-## Critères de réussite
-
-| Critère | Attendu |
-| --- | --- |
-| Arborescence | `ISIB/` créée avec sous-dossiers |
-| Nommage | Convention appliquée (3 fichiers) |
-| Droits | Commentateur → éditeur compris |
-| Raccourci | Présent, sans copie inutile |
-
 <nav class="page-nav">
   <a href="cours_seance_02.html">← Cours</a>
   <a href="../../index.html">Accueil</a>
