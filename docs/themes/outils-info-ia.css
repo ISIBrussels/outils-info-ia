@@ -168,7 +168,10 @@ table td {
   border-color: var(--color-border);
 }
 
-/* Tableaux denses (ex. Cc/Bcc) : quasi taille d’origine, −2 pt seulement */
+/* compact-table (Cc/Bcc) :
+   - NE JAMAIS mettre font-size sur section.compact-table
+     (Marp le propage en --marpit-root-font-size → header/footer réduits).
+   - Réduire uniquement le tableau (~ −2 pt vs taille d’origine). */
 section.compact-table h2 {
   margin-bottom: 0.35em;
 }
