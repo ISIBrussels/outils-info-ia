@@ -27,7 +27,7 @@ Sur l’événement :
 
 1. un titre clair
 2. l’enseignant est invité
-3. un créneau d’1 h, un samedi ou un dimanche
+3. un créneau d’1 h, le samedi ou le dimanche avant la deuxième séance de cours
 4. un rappel
 
 <nav class="page-nav">

@@ -266,7 +266,7 @@ Créez un **événement** Agenda et **invitez l’enseignant**.
 À vérifier :
 
 1. titre clair
-2. créneau d’**1 h**, un **samedi** ou un **dimanche**
+2. créneau d’**1 h**, le **samedi** ou le **dimanche** avant la **deuxième séance** de cours
 3. **rappel** activé
 
 → [Tâches évaluées](taches_seance_01.html)
