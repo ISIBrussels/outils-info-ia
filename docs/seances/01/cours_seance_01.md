@@ -197,7 +197,7 @@ Un calendrier **synchronisable** suit vos appareils (téléphone, ordi, navigate
 
 Un **événement** = un créneau précis **dans** un calendrier : titre, date/heure, éventuellement lieu, description, invités, rappel.
 
-Zoom : **agenda** (calendrier) → **événement** (ce qui s’y place).
+Un événement est forcément **attaché à un calendrier**, et il est **propre à ce calendrier**.
 
 Exemples : cours, labo, réunion projet, deadline (souvent en **journée entière**).
 
