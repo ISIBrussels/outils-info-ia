@@ -129,7 +129,9 @@ Avant d'envoyer : vérifier **qui peut ouvrir** le lien (restreint / domaine / p
 
 ## Sécurité basique (mail)
 
-Signaux d'alerte (*phishing*) :
+Google dispose en général d'un **bon filtre anti-spam** : beaucoup de messages frauduleux n'arrivent même pas en boîte de réception.
+
+Cela n'élimine pas tout risque. Signaux d'alerte (*phishing*) :
 
 - Urgence artificielle (« compte suspendu dans 1 h »)
 - Expéditeur douteux / adresse ressemblante
@@ -151,15 +153,18 @@ En cas de doute : **ne pas cliquer**, vérifier via un autre canal, signaler com
 
 ---
 
-## Agenda : pourquoi c'est critique
+## Agenda : mieux qu'un PDF d'horaire
 
-Sans agenda fiable :
+Un **PDF d'horaire** est figé : dès qu'un cours change de local, d'heure ou est annulé, le fichier est déjà faux.
 
-- on rate les labos / remises
-- on double-booke les réunions de projet
-- on découvre les deadlines la veille
+**Agenda** reste vivant :
 
-Objectif : **une seule source de vérité** pour votre semaine ISIB (compte institutionnel).
+- changements d'horaire / de salle mis à jour au même endroit
+- **rappels** avant le cours ou une remise
+- **invitations** pour une séance de rattrapage ou une réunion projet
+- vue semaine toujours à jour (compte institutionnel)
+
+Exemple : votre **horaire de cours ISIB** — plutôt l'avoir dans Agenda (ou un agenda partagé) qu'imprimer un PDF une fois pour toutes.
 
 ---
 
