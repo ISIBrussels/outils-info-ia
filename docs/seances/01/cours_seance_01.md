@@ -16,7 +16,7 @@ Gmail, Agenda, (Tasks et Meet)
 ## Objectifs de la séance
 
 - Distinguer compte **institutionnel** et compte **personnel**
-- Utiliser les fonctionnalités Gmail : libellés, filtres, recherche
+- Utiliser les fonctionnalités **Gmail** : libellés, filtres, recherche
 - Écrire un mail professionnel clair
 - Planifier avec **Google Agenda** : vues, événement, invitation, rappels
 
