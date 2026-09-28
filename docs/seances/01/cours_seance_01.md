@@ -117,6 +117,8 @@ Un mail **n'est pas** un message de discussion instantanée (WhatsApp, DM, chat�
 
 ---
 
+<!-- _class: compact-table -->
+
 ## Cc, Bcc, répondre, transférer
 
 | Français | Anglais | À quoi ça sert |

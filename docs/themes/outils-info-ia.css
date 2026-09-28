@@ -168,6 +168,25 @@ table td {
   border-color: var(--color-border);
 }
 
+/* compact-table (Cc/Bcc) :
+   - NE JAMAIS mettre font-size sur section.compact-table
+     (Marp le propage en --marpit-root-font-size → header/footer réduits).
+   - Scale uniquement le tableau (évite un reflow / wrap qui fait déborder). */
+section.compact-table h2 {
+  margin-bottom: 0.3em;
+}
+
+section.compact-table table {
+  margin-bottom: 0;
+  transform: scale(0.95);
+  transform-origin: top center;
+}
+
+section.compact-table table th,
+section.compact-table table td {
+  padding: 0.18em 0.5em;
+}
+
 blockquote {
   color: var(--color-secondary);
   border-left: 4px solid var(--color-primary);
