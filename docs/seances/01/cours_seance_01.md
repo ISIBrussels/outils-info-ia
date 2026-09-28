@@ -274,6 +274,6 @@ Créez un **événement** Agenda et **invitez l’enseignant**.
 
 ## Deadline
 
-Remise des deux tâches : **au plus tard la veille de la prochaine séance, à 20:00**.
+Réalisation des deux tâches : **au plus tard la veille de la prochaine séance, à 20:00**.
 
 → [Tâches évaluées](taches_seance_01.html)
