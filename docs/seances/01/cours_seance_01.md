@@ -224,7 +224,7 @@ Différence clé :
 
 ---
 
-## Google Tasks (en bref)
+## Google Tasks
 
 **Google Tasks** (*Tâches*) = liste de **to-do** (cases à cocher), souvent à côté de Gmail / Agenda.
 
