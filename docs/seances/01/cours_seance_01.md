@@ -235,9 +235,38 @@ Pour planifier un rendez-vous avec quelqu’un → **événement**. Pour une lis
 
 ---
 
-## Pour la prochaine séance
+## Google Meet
 
-- Finaliser mail + invitation à un événement (tâches évaluées)
-- **Séance 2 :** Google Drive (fichiers, arborescence, partage)
+**Google Meet** = visioconférence Google (au même niveau que Gmail / Agenda pour la communication).
 
-[→ Tâches évaluées](taches_seance_01.html)
+- Lien de réunion généré depuis Meet, ou **attaché à un événement** Agenda
+- Utile pour un cours à distance, un labo, une réunion de projet
+- Préférez le compte **institutionnel** quand le rendez-vous est scolaire
+
+---
+
+## Tâche 1 — Mail simple
+
+Envoyez **un seul mail** depuis le compte **institutionnel** à l’enseignant.
+
+À vérifier :
+
+1. objet avec « Outils info » **et** « séance 1 tâche 1 »
+2. salutation + demande claire « pour faire jolie » + formule de politesse
+3. signature : nom + matricule + année avec groupe
+
+→ [Tâches évaluées](taches_seance_01.html)
+
+---
+
+## Tâche 2 — Invitation à un événement
+
+Créez un **événement** Agenda et **invitez l’enseignant**.
+
+À vérifier :
+
+1. titre clair
+2. créneau d’**1 h**, un **samedi** ou un **dimanche**
+3. **rappel** activé
+
+→ [Tâches évaluées](taches_seance_01.html)
