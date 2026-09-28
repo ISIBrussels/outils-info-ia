@@ -1,31 +1,34 @@
 # Séance 1 — Tâches évaluées
 
-**Thème :** Gmail & Agenda  
+Thème : Gmail & Agenda
 
 <nav class="page-nav">
   <a href="cours_seance_01.html">← Cours</a>
   <a href="../../index.html">Accueil</a>
 </nav>
 
-## Travail 1 — Mail simple (obligatoire)
+## Tâche 1 — Mail simple
 
-Envoyez **un seul mail** depuis votre **compte institutionnel** **à l’enseignant**.
+Envoyez un seul mail depuis votre compte institutionnel à l’enseignant.
 
 Le mail doit contenir :
 
-1. un **objet** clair (ex. `[Outils informatiques] Question — séance 1`)
-2. une **formule d’ouverture** (salutation)
-3. un **corps** avec 1–2 phrases de contexte et **une demande claire « pour faire jolie »** — c’est-à-dire une demande **pour l’exercice**, pas une vraie urgence scolaire (ex. demander si la police du polycopié est bien Arial 11, ou une confirmation fictive de format de remise)
-4. une **formule de politesse**
-5. une **signature** avec **nom** + **matricule** + **année avec groupe**
+1. un objet qui contient à la fois « Outils info » et « séance 1 tâche 1 »
+2. une formule d’ouverture (salutation)
+3. un corps avec 1–2 phrases de contexte et une demande claire « pour faire jolie » — c’est-à-dire une demande pour l’exercice, pas une vraie urgence scolaire (ex. demander si la police du polycopié est bien Arial 11, ou une confirmation fictive de format de remise)
+4. une formule de politesse
+5. une signature avec nom + matricule + année avec groupe
 
-## Travail 2 — Invitation à un événement (obligatoire)
+## Tâche 2 — Invitation à un événement
 
-Créez un **événement** dans Google Agenda et envoyez une **invitation à cet événement** **à l’enseignant**.
+Créez un événement dans Google Agenda et envoyez une invitation à cet événement à l’enseignant.
 
-Ce n’est **pas** le partage d’un agenda, ni un simple mail « on se voit mardi ».
+Sur l’événement :
 
-Sur l’événement : un **titre** clair, au moins un **invité**, une **date/heure**, et un **rappel**.
+1. un titre clair
+2. l’enseignant est invité
+3. un créneau d’1 h, un samedi ou un dimanche
+4. un rappel
 
 <nav class="page-nav">
   <a href="cours_seance_01.html">← Cours</a>
