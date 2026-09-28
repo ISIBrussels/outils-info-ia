@@ -1,6 +1,6 @@
 # Séance 1 — Tâches évaluées
 
-Thème : Gmail & Agenda
+Thème : Gmail, Agenda, (Tasks et Meet)
 
 <nav class="page-nav">
   <a href="cours_seance_01.html">← Cours</a>
