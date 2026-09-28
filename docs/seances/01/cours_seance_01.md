@@ -106,7 +106,7 @@ Objectif : boîte de réception ≈ liste de tâches, pas un grenier.
 3. **Contexte** en 1–2 phrases
 4. **Demande** claire (une question principale)
 5. **Infos utiles** : groupe, séance, deadline
-6. **Formule de politesse** + signature (nom, section)
+6. **Formule de politesse** + signature (**nom** + **matricule** + **année avec groupe**)
 
 **Évitez un mail sans objet.**  
 Un mail **n'est pas** un message de discussion instantanée (WhatsApp, DM, chat…) : pas de « salut t'as 2 min ? », pas d'enchaînement de fragments sans contexte.

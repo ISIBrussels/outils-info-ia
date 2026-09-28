@@ -19,7 +19,7 @@ Envoyez **un seul mail** depuis votre **compte institutionnel** à l’adresse i
 | **Formule d’ouverture** | Salutation adaptée (pas « salut », pas vide) |
 | **Corps** | Au moins : 1–2 phrases de contexte + **une** demande claire |
 | **Formule de politesse** | Présente avant la signature |
-| **Signature** | Nom + section (ou groupe) |
+| **Signature** | **Nom** + **matricule** + **année avec groupe** (ex. `Dupont Alice — 12345 — 1e Bac Indu. groupe B`) |
 
 ### Interdits (échec sur le critère concerné)
 
@@ -34,6 +34,7 @@ Envoyez **un seul mail** depuis votre **compte institutionnel** à l’adresse i
 | Compte | L’expéditeur est le compte institutionnel |
 | Objet | Objet renseigné et informatif |
 | Structure | Ouverture + corps + politesse + signature, dans cet ordre |
+| Signature | Nom + matricule + année avec groupe présents |
 | Clarté | La demande est compréhensible sans relance |
 
 ## Travail 2 — Invitation à un événement (obligatoire)
@@ -55,7 +56,7 @@ Ce n’est **pas** : partager un agenda, ni un simple mail « on se voit mardi �
 
 ## Récap — ce qui est noté
 
-1. **Mail simple** (Travail 1) — objet + structure (ouverture, corps, politesse, signature)  
+1. **Mail simple** (Travail 1) — objet + structure (ouverture, corps, politesse, signature : nom + matricule + année/groupe)  
 2. **Invitation à un événement** (Travail 2) — titre, invité(s), date/heure, rappel, invitation reçue
 
 <nav class="page-nav">
