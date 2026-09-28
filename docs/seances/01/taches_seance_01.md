@@ -1,12 +1,12 @@
 # Séance 1 — Tâches évaluées
 
-**Thème :** Gmail  
-**Objectif :** réaliser des actions concrètes sur votre compte Google étudiant  
-**À rendre / montrer :** captures ou transfert au destinataire indiqué en séance (enseignant ou binôme)
+**Thème :** Gmail & Agenda  
+**Objectif :** communiquer par mail et planifier un créneau réel  
+**À rendre / montrer :** mail envoyé + invitation Calendar reçue par l’invité
 
 ## Contexte
 
-Vous devez communiquer proprement avec l’école et vos coéquipiers. Ces tâches évaluées valident que vous savez **envoyer un mail professionnel** et **organiser votre boîte**.
+Vous devez communiquer proprement avec l’école et vos coéquipiers, et fixer des rendez-vous **dans Agenda** (pas seulement par message vague).
 
 ## Travail 1 — Mail de demande (obligatoire)
 
@@ -25,22 +25,36 @@ Consignes :
 2. Créez **1 filtre** qui applique automatiquement un libellé à un critère réaliste (`from:` d’un domaine HE2B, ou `subject:` d’un cours)
 3. Archivez **5 messages** déjà traités (boîte = file d’attente, pas grenier)
 
-## Travail 3 — Recherche (démonstration)
+## Travail 3 — Invitation Google Agenda (obligatoire)
 
-Montrez (à l’écran ou capture) le résultat d’une recherche combinée, par exemple :
+Créez un événement Agenda **réel** :
 
-`has:attachment newer_than:30d`
+1. Titre : `Réunion projet — Outils informatiques — [Vos noms]`
+2. Durée : 30 minutes, dans les 7 prochains jours
+3. **Invitez** au moins une personne (binôme et/ou enseignant selon consignes orales)
+4. Description : lieu ou lien Meet + 3 points d’ordre du jour
+5. **Rappel** notification 10 minutes avant
+6. Vérifiez le **fuseau** (Bruxelles)
 
-Expliquez en une phrase ce que ça filtre.
+L’invité doit recevoir l’invitation Calendar (pas seulement un mail « on se voit »).
+
+## Travail 4 — Deadline dans Agenda
+
+Créez un second événement **journée entière** :
+
+- Titre : `Deadline — remise tâches évaluées séance 1`
+- Rappels : J-1 (et idéalement J-7)
+- Couleur distincte des cours / réunions
 
 ## Critères de réussite
 
 | Critère | Attendu |
 | --- | --- |
 | Compte | Mail parti du compte scolaire |
-| Objet | Identifiable et professionnel |
-| Contenu | Demande claire + signature |
-| Organisation | 2 libellés + 1 filtre créés |
+| Objet / corps | Professionnels et clairs |
+| Organisation mail | 2 libellés + 1 filtre |
+| Invitation | Événement reçu par l’invité |
+| Deadline | Journée entière + rappel |
 
 <nav class="page-nav">
   <a href="cours_seance_01.html">← Cours</a>

@@ -1,7 +1,7 @@
 ---
 marp: true
 theme: outils-info-ia
-title: "Séance 1 — Gmail"
+title: "Séance 1 — Gmail & Agenda"
 paginate: true
 header: "Outils Info & IA — Séance 1 [Sylvain Huraux - HE2B - ISIB](mailto:shuraux@he2b.be)"
 footer: "[← Retour à l'accueil](../../index.html)"
@@ -9,7 +9,7 @@ footer: "[← Retour à l'accueil](../../index.html)"
 
 ## Séance 1
 
-Gmail
+Gmail & Agenda
 
 ---
 
@@ -18,7 +18,8 @@ Gmail
 - Se connecter correctement (compte **institutionnel** vs perso)
 - Structurer Gmail : libellés, filtres, recherche
 - Écrire un mail professionnel clair
-- Éviter les pièges (spam, phishing, pièces jointes)
+- Planifier avec **Google Agenda** : vues, événement, invitation, rappels
+- Éviter les pièges (phishing mail ; double réservation / oubli de fuseau)
 
 ---
 
@@ -121,7 +122,7 @@ Avant d'envoyer : vérifier **qui peut ouvrir** le lien (restreint / domaine / p
 
 ---
 
-## Sécurité basique
+## Sécurité basique (mail)
 
 Signaux d'alerte (*phishing*) :
 
@@ -145,9 +146,102 @@ En cas de doute : **ne pas cliquer**, vérifier via un autre canal, signaler com
 
 ---
 
+## Agenda : pourquoi c'est critique
+
+Sans agenda fiable :
+
+- on rate les labos / remises
+- on double-booke les réunions de projet
+- on découvre les deadlines la veille
+
+Objectif : **une seule source de vérité** pour votre semaine ISIB (compte institutionnel).
+
+---
+
+## Vues Agenda
+
+| Vue | Usage typique |
+| --- | --- |
+| Jour | Détail d'une journée chargée |
+| Semaine | Planification ISIB (recommandée) |
+| Mois | Vision des deadlines / examens |
+| Planning | Liste chronologique |
+
+Astuce : colorer par catégorie (cours / projet / perso / examens).
+
+---
+
+## Types d'événements
+
+| Type | Exemple |
+| --- | --- |
+| Cours / labo récurrent | TI1 chaque lundi 10:30–12:00 |
+| Deadline | Remise rapport — **journée entière** |
+| Réunion projet | Meet + lien dans la description |
+| Bloc focus | 2 h révision (bloquer le créneau) |
+
+---
+
+## Créer un événement utile
+
+Champs essentiels :
+
+1. Titre clair : `Labo TI1 — séances 3–4`
+2. Date / heure / **fuseau** (Bruxelles)
+3. **Lieu** ou lien Meet
+4. Description : consignes, local, lien Drive
+5. **Rappel** (ex. 10 min / 1 jour)
+6. Invités (groupe de projet)
+
+Pour un examen : événement **journée entière** + rappels J-7 et J-1.
+
+---
+
+## Invitation Calendar
+
+Différence importante :
+
+| Approche | Résultat |
+| --- | --- |
+| Mail « on se voit mardi » | Pas dans l'agenda de l'autre |
+| **Invitation Agenda** | Créneau proposé / accepté, rappel possible |
+
+Toujours **inviter** les coéquipiers via Agenda (pas seulement un message Gmail).
+
+---
+
+## Fuseau horaire et récurrence
+
+- Vérifier Paramètres Agenda → **fuseau** (Europe/Brussels)
+- Attention aux événements créés à l'étranger / en voyage
+- Récurrence : cours hebdomadaires — vérifier les exceptions (jours fériés, congés)
+
+---
+
+## Agendas multiples
+
+- Agenda principal (votre boîte)
+- Agenda secondaire : `ISIB — deadlines`, `Projet X`
+- Agendas partagés d'équipe (lecture seule pour certains)
+
+Affichez / masquez les agendas pour alléger la vue semaine.
+
+---
+
+## Bonnes pratiques Agenda (synthèse)
+
+- Compte institutionnel = planning scolaire
+- Titres explicites + rappels
+- Deadlines en **journée entière**
+- Invitations Calendar pour les réunions
+- Couleurs / agendas séparés si besoin
+- Fuseau Bruxelles contrôlé
+
+---
+
 ## Pour la prochaine séance
 
-- Appliquer 2 libellés + 1 filtre sur votre boîte ISIB
-- **Séance 2 :** Google Agenda & Drive (organisation du temps et des fichiers)
+- Finaliser mail + invitation Agenda (tâches évaluées)
+- **Séance 2 :** Google Drive (fichiers, arborescence, partage)
 
 [→ Tâches évaluées](taches_seance_01.html)

@@ -17,8 +17,8 @@ Dépôt du cours **Outils informatiques & IA** (1<sup>e</sup> année ingénieur 
 
 | Séance | Durée | Thème |
 | :---: | :---: | --- |
-| 1 | 1 h 30 | Gmail |
-| 2 | 1 h 30 | Agenda & Drive |
+| 1 | 1 h 30 | Gmail & Agenda |
+| 2 | 1 h 30 | Drive |
 | 3 | 1 h 30 | Google Docs |
 | 4 | 1 h 30 | Google Sheets |
 | 5 | 1 h 30 | Google Slides |
@@ -27,8 +27,8 @@ Dépôt du cours **Outils informatiques & IA** (1<sup>e</sup> année ingénieur 
 
 ## Séances
 
-- **Séance 1 — Gmail** : [Cours](docs/seances/01/cours_seance_01.md) · [Tâches évaluées](docs/seances/01/taches_seance_01.md)
-- **Séance 2 — Agenda & Drive** : [Cours](docs/seances/02/cours_seance_02.md) · [Tâches évaluées](docs/seances/02/taches_seance_02.md)
+- **Séance 1 — Gmail & Agenda** : [Cours](docs/seances/01/cours_seance_01.md) · [Tâches évaluées](docs/seances/01/taches_seance_01.md)
+- **Séance 2 — Drive** : [Cours](docs/seances/02/cours_seance_02.md) · [Tâches évaluées](docs/seances/02/taches_seance_02.md)
 - **Séance 3 — Google Docs** : [Cours](docs/seances/03/cours_seance_03.md) · [Tâches évaluées](docs/seances/03/taches_seance_03.md)
 - **Séance 4 — Google Sheets** : [Cours](docs/seances/04/cours_seance_04.md) · [Tâches évaluées](docs/seances/04/taches_seance_04.md)
 - **Séance 5 — Google Slides** : [Cours](docs/seances/05/cours_seance_05.md) · [Tâches évaluées](docs/seances/05/taches_seance_05.md)

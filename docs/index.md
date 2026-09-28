@@ -19,8 +19,8 @@ Ce cours vise à maîtriser les **outils Google** utiles aux études et au trava
 
 | Séance | Thème | Cours | Tâches évaluées |
 | :---: | --- | :---: | :---: |
-| 1 | Gmail | [Cours](seances/01/cours_seance_01.md) | [Tâches évaluées](seances/01/taches_seance_01.md) |
-| 2 | Agenda & Drive | [Cours](seances/02/cours_seance_02.md) | [Tâches évaluées](seances/02/taches_seance_02.md) |
+| 1 | Gmail & Agenda | [Cours](seances/01/cours_seance_01.md) | [Tâches évaluées](seances/01/taches_seance_01.md) |
+| 2 | Drive | [Cours](seances/02/cours_seance_02.md) | [Tâches évaluées](seances/02/taches_seance_02.md) |
 | 3 | Google Docs | [Cours](seances/03/cours_seance_03.md) | [Tâches évaluées](seances/03/taches_seance_03.md) |
 | 4 | Google Sheets | [Cours](seances/04/cours_seance_04.md) | [Tâches évaluées](seances/04/taches_seance_04.md) |
 | 5 | Google Slides | [Cours](seances/05/cours_seance_05.md) | [Tâches évaluées](seances/05/taches_seance_05.md) |

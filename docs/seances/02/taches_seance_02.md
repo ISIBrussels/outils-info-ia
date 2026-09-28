@@ -1,30 +1,14 @@
 # Séance 2 — Tâches évaluées
 
-**Thème :** Agenda & Drive  
-**Objectif :** planifier un créneau et organiser des fichiers partagés  
-**À rendre / montrer :** événement Agenda créé + dossier Drive partagé selon les consignes
+**Thème :** Drive  
+**Objectif :** organiser des fichiers et partager correctement  
+**À rendre / montrer :** arborescence Drive + dossier/fichier partagé selon les consignes
 
-## Travail 1 — Invitation Google Agenda (obligatoire)
+## Contexte
 
-Créez un événement Agenda **réel** (pas une capture fictive) :
+Après Gmail & Agenda (séance 1), vous structurez **où vivent vos fichiers** scolaires et comment les partager sans perdre le contrôle des versions.
 
-1. Titre : `Réunion projet — Outils informatiques — [Vos noms]`
-2. Durée : 30 minutes, dans les 7 prochains jours
-3. **Invitez** au moins une personne (binôme et/ou enseignant selon consignes orales)
-4. Ajoutez dans la description : lieu ou lien Meet + 3 points d’ordre du jour
-5. Activez un **rappel** (notification) 10 minutes avant
-
-L’invité doit recevoir l’invitation Calendar (pas seulement un mail vague « on se voit »).
-
-## Travail 2 — Deadline dans Agenda
-
-Créez un second événement **journée entière** :
-
-- Titre : `Deadline — remise tâches évaluées séance 2`
-- Rappels : J-1 (et idéalement J-7)
-- Couleur distincte des cours
-
-## Travail 3 — Arborescence Drive
+## Travail 1 — Arborescence Drive (obligatoire)
 
 Dans **Mon Drive**, créez :
 
@@ -35,22 +19,35 @@ ISIB/
   03_Admin/
 ```
 
-Dans `OutilsInformatiquesIA/`, déposez un fichier `README_organisation.txt` listant vos conventions de nommage (3 lignes minimum).
+Dans `OutilsInformatiquesIA/`, déposez un fichier `README_organisation.txt` listant vos conventions de nommage (3 lignes minimum), par ex. `AAAA-MM-JJ_Cours_contenu`.
 
-## Travail 4 — Partage et droits
+## Travail 2 — Nommage
+
+Renommez **3 fichiers** (ou créez 3 fichiers modèles) selon une convention stable du type :
+
+`AAAA-MM-JJ_OutilsInformatiques_Nom_description`
+
+Évitez : `final_final2.docx`, `Document sans titre`.
+
+## Travail 3 — Partage et droits (obligatoire)
 
 1. Partagez le dossier `OutilsInformatiquesIA/` (ou un sous-dossier `Seance02/`) avec votre binôme en **commentaire** d’abord
 2. Passez ensuite le binôme en **éditeur**
-3. Ajoutez un **raccourci** du dossier partagé dans l’arborescence du binôme (sans recopier les fichiers)
+3. Documentez en 2 phrases (dans le README) la différence commentateur / éditeur
+
+## Travail 4 — Raccourci (pas une copie)
+
+Ajoutez un **raccourci** du dossier ou fichier partagé dans l’arborescence du binôme (sans recopier les fichiers).  
+Expliquez brièvement pourquoi un raccourci évite les versions divergentes.
 
 ## Critères de réussite
 
 | Critère | Attendu |
 | --- | --- |
-| Invitation | Événement reçu par l’invité |
-| Deadline | Événement journée entière + rappel |
-| Drive | Arborescence créée + fichier de convention |
-| Droits | Passage commentateur → éditeur compris |
+| Arborescence | `ISIB/` créée avec sous-dossiers |
+| Nommage | Convention appliquée (3 fichiers) |
+| Droits | Commentateur → éditeur compris |
+| Raccourci | Présent, sans copie inutile |
 
 <nav class="page-nav">
   <a href="cours_seance_02.html">← Cours</a>
