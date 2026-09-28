@@ -117,13 +117,10 @@ Un mail **n'est pas** un message de discussion instantanée (WhatsApp, DM, chat�
 
 ---
 
-<!-- _class: compact-table -->
-
 ## Cc, Bcc, répondre, transférer
 
 | Français | Anglais | À quoi ça sert |
 | --- | --- | --- |
-| **À** | *To* | Destinataire principal |
 | **Cc** (*copie carbone*) | *Cc* (*carbon copy*) | Mettre quelqu'un en copie (visible par tous) |
 | **Cci** (*copie carbone invisible*) | *Bcc* (*blind carbon copy*) | Copie **cachée** : les autres ne voient pas cette adresse |
 | **Répondre** | *Reply* | Répondre à l'expéditeur seulement |
