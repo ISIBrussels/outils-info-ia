@@ -9,7 +9,7 @@
 
 ## Travail 1 — Mail simple (obligatoire)
 
-Envoyez **un seul mail** depuis votre **compte institutionnel** à l’adresse indiquée en cours.
+Envoyez **un seul mail** depuis votre **compte institutionnel** **à l’enseignant**.
 
 Le mail doit contenir :
 
@@ -21,7 +21,7 @@ Le mail doit contenir :
 
 ## Travail 2 — Invitation à un événement (obligatoire)
 
-Créez un **événement** dans Google Agenda et envoyez une **invitation à cet événement** à l’enseignant (ou à la personne indiquée en cours).
+Créez un **événement** dans Google Agenda et envoyez une **invitation à cet événement** **à l’enseignant**.
 
 Ce n’est **pas** le partage d’un agenda, ni un simple mail « on se voit mardi ».
 
