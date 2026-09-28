@@ -15,24 +15,23 @@ Gmail & Agenda
 
 ## Objectifs de la séance
 
-- Se connecter correctement (compte **institutionnel** vs perso)
-- Structurer Gmail : libellés, filtres, recherche
+- Distinguer compte **institutionnel** et compte **personnel**
+- Utiliser les fonctionnalités Gmail : libellés, filtres, recherche
 - Écrire un mail professionnel clair
 - Planifier avec **Google Agenda** : vues, événement, invitation, rappels
-- Éviter les pièges (phishing mail ; double réservation / oubli de fuseau)
 
 ---
 
-## Compte : lequel utiliser ?
+## Compte mail pour les cours ISIB
 
-| Usage | Compte recommandé |
+**Ne pas** envoyer de mails de cours / ISIB avec votre boîte **personnelle**.
+
+| Situation | Compte à utiliser |
 | --- | --- |
-| Cours ISIB, mails HE2B, Drive de groupe | **Compte institutionnel** |
+| Mail à un enseignant, secrétariat, groupe de projet ISIB | **Compte institutionnel** |
 | Vie privée | Compte personnel (séparé) |
 
-Règle d'or : **ne pas mélanger** vie perso et vie scolaire dans le même Drive / Agenda.
-
-Vérifiez l'adresse affichée en haut à droite de chaque app Google.
+Vérifiez l'adresse affichée en haut à droite avant d'envoyer.
 
 ---
 
@@ -40,17 +39,20 @@ Vérifiez l'adresse affichée en haut à droite de chaque app Google.
 
 ```mermaid
 flowchart LR
-  M[Gmail] --> D[Drive]
-  A[Agenda] --> D
+  M[Gmail]
+  A[Agenda]
+  Meet[Meet]
+  D[Drive]
+  M --> D
+  A --> D
+  Meet --> D
   D --> Docs[Docs]
   D --> Sheets[Sheets]
   D --> Slides[Slides]
-  Docs --> AI[Gemini / NotebookLM]
-  Sheets --> AI
-  Slides --> AI
 ```
 
-Les fichiers vivent dans **Drive**. Gmail et Agenda **pointent** vers des fichiers / événements.
+**Gmail**, **Agenda** et **Meet** sont au même niveau (communication / rendez-vous).  
+Les fichiers vivent dans **Drive** ; Docs, Sheets et Slides s'y appuient.
 
 ---
 
@@ -106,7 +108,10 @@ Objectif : boîte de réception ≈ liste de tâches, pas un grenier.
 5. **Infos utiles** : groupe, séance, deadline
 6. **Formule de politesse** + signature (nom, section)
 
-Évitez les pavés, les « Urgent!!! », les captures illisibles sans commentaire.
+**Évitez un mail sans objet.**  
+Un mail **n'est pas** un message de discussion instantanée (WhatsApp, DM, chat…) : pas de « salut t'as 2 min ? », pas d'enchaînement de fragments sans contexte.
+
+Évitez aussi les pavés, les « Urgent!!! », les captures illisibles sans commentaire.
 
 ---
 
