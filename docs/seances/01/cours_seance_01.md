@@ -153,18 +153,16 @@ En cas de doute : **ne pas cliquer**, vérifier via un autre canal, signaler com
 
 ---
 
-## Agenda : mieux qu'un PDF d'horaire
+## Google Agenda
 
-Un **PDF d'horaire** est figé : dès qu'un cours change de local, d'heure ou est annulé, le fichier est déjà faux.
+Agenda **se synchronise** (téléphone, ordi, navigateur) : votre planning reste à jour partout.
 
-**Agenda** reste vivant :
+On peut :
 
-- changements d'horaire / de salle mis à jour au même endroit
-- **rappels** avant le cours ou une remise
-- **invitations** pour une séance de rattrapage ou une réunion projet
-- vue semaine toujours à jour (compte institutionnel)
+- **inviter** des personnes sur un événement
+- **partager** un agenda (ex. groupe de projet, lecture seule)
 
-Exemple : votre **horaire de cours ISIB** — plutôt l'avoir dans Agenda (ou un agenda partagé) qu'imprimer un PDF une fois pour toutes.
+Un PDF d'horaire, lui, ne se met pas à jour tout seul.
 
 ---
 
