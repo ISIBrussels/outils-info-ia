@@ -157,17 +157,6 @@ En cas de doute : **ne pas cliquer**, vérifier via un autre canal, signaler com
 
 ---
 
-## Bonnes pratiques Gmail (synthèse)
-
-- Compte institutionnel pour le scolaire
-- Objet clair + corps structuré
-- Libellés + filtres pour classer
-- Recherche par opérateurs
-- Liens Drive plutôt que 5 versions en PJ
-- Vigilance phishing
-
----
-
 ## Google Agenda
 
 Agenda **se synchronise** (téléphone, ordi, navigateur) : votre planning reste à jour partout.
@@ -248,17 +237,6 @@ Toujours **inviter** les coéquipiers via Agenda (pas seulement un message Gmail
 - Agendas partagés d'équipe (lecture seule pour certains)
 
 Affichez / masquez les agendas pour alléger la vue semaine.
-
----
-
-## Bonnes pratiques Agenda (synthèse)
-
-- Compte institutionnel = planning scolaire
-- Titres explicites + rappels
-- Deadlines en **journée entière**
-- Invitations Calendar pour les réunions
-- Couleurs / agendas séparés si besoin
-- Fuseau Bruxelles contrôlé
 
 ---
 
