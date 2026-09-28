@@ -1,7 +1,7 @@
 # Séance 1 — Tâches évaluées
 
 **Thème :** Gmail & Agenda  
-**À rendre :** un mail reçu par l’enseignant (compte institutionnel) — et une invitation Agenda
+**À rendre :** (1) un mail reçu par l’enseignant — (2) une **invitation à un événement** (Google Agenda)
 
 <nav class="page-nav">
   <a href="cours_seance_01.html">← Cours</a>
@@ -10,8 +10,12 @@
 
 ## Contexte
 
-L’évaluation porte sur votre capacité à **envoyer un mail simple et professionnel**.  
-Chaque critère ci-dessous est **observable** sur le livrable reçu (pas de démonstration orale seule).
+Deux livrables **évaluables** (reçus par l’enseignant / la personne indiquée) :
+
+1. un **mail simple** professionnel  
+2. une **invitation à un événement** (pas le partage d’un agenda entier)
+
+Chaque critère est **observable** sur le livrable reçu — pas de démonstration orale seule.
 
 ## Travail 1 — Mail simple (obligatoire)
 
@@ -42,21 +46,27 @@ Envoyez **un seul mail** depuis votre **compte institutionnel** à l’adresse i
 | Structure | Ouverture + corps + politesse + signature, dans cet ordre |
 | Clarté | La demande est compréhensible sans relance |
 
-## Travail 2 — Invitation Agenda (obligatoire)
+## Travail 2 — Invitation à un événement (obligatoire)
 
-Créez un événement et **invitez l’enseignant** (ou la personne indiquée en cours) via Google Agenda.
+Créez un **événement** dans Google Agenda et envoyez une **invitation à cet événement** à l’enseignant (ou à la personne indiquée en cours).
+
+Ce n’est **pas** : partager un agenda, ni un simple mail « on se voit mardi ».
+
+### Grille d’évaluation (événement)
 
 | Critère | Réussi si… |
 | --- | --- |
-| Invitation reçue | L’événement apparaît chez l’invité (pas un simple mail « on se voit ») |
+| Type | C’est une invitation à un **événement** (pas un partage d’agenda) |
+| Invitation reçue | L’invité reçoit / voit l’événement dans son Agenda |
 | Titre | Titre non vide et compréhensible |
-| Créneau | Date/heure dans les 14 prochains jours |
-| Rappel | Au moins un rappel activé |
+| Invité(s) | Au moins la personne indiquée en cours est invitée |
+| Date / heure | Créneau daté (dans les 14 prochains jours) |
+| Rappel | Au moins un rappel activé sur l’événement |
 
 ## Récap — ce qui est noté
 
-1. Le **mail** (Travail 1) — cœur de l’évaluation  
-2. L’**invitation Agenda** (Travail 2) — livrable reçu, pas une capture « pour montrer »
+1. **Mail simple** (Travail 1) — objet + structure (ouverture, corps, politesse, signature)  
+2. **Invitation à un événement** (Travail 2) — titre, invité(s), date/heure, rappel, invitation reçue
 
 <nav class="page-nav">
   <a href="cours_seance_01.html">← Cours</a>

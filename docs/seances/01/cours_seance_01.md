@@ -205,14 +205,14 @@ Pour un examen : événement **journée entière** + rappels J-7 et J-1.
 
 ---
 
-## Invitation Calendar
+## Invitation à un événement
 
 Différence importante :
 
 | Approche | Résultat |
 | --- | --- |
 | Mail « on se voit mardi » | Pas dans l'agenda de l'autre |
-| **Invitation Agenda** | Créneau proposé / accepté, rappel possible |
+| **Invitation à un événement** | Créneau proposé / accepté, rappel possible |
 
 Toujours **inviter** les coéquipiers via Agenda (pas seulement un message Gmail).
 
@@ -249,7 +249,7 @@ Affichez / masquez les agendas pour alléger la vue semaine.
 
 ## Pour la prochaine séance
 
-- Finaliser mail + invitation Agenda (tâches évaluées)
+- Finaliser mail + invitation à un événement (tâches évaluées)
 - **Séance 2 :** Google Drive (fichiers, arborescence, partage)
 
 [→ Tâches évaluées](taches_seance_01.html)
