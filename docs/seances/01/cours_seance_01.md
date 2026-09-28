@@ -205,13 +205,9 @@ Exemples : cours, labo, réunion projet, deadline (souvent en **journée entièr
 
 ## Vues utiles
 
-| Vue | Usage typique |
-| --- | --- |
-| Jour | Détail d’une journée chargée |
-| Semaine | Planification ISIB (souvent la plus pratique) |
-| Mois | Vision des deadlines / examens |
+Modes courants : **jour**, **semaine**, **mois** — la semaine suffit souvent pour l’horaire ISIB.
 
-On peut afficher / masquer plusieurs calendriers dans la même vue.
+Dans la liste des agendas (à gauche), on peut **cocher** ou **décocher** un calendrier pour l’**afficher** ou le **masquer** dans la vue, sans le supprimer.
 
 ---
 
