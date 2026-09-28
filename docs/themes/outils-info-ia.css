@@ -171,20 +171,24 @@ table td {
 /* compact-table (Cc/Bcc) :
    - NE JAMAIS mettre font-size sur section.compact-table
      (Marp le propage en --marpit-root-font-size → header/footer réduits).
-   - Scale uniquement le tableau (évite un reflow / wrap qui fait déborder). */
+   - Scale uniquement le tableau + padding-bottom pour dégager le bouton retour. */
+section.compact-table {
+  padding-bottom: 88px;
+}
+
 section.compact-table h2 {
-  margin-bottom: 0.3em;
+  margin-bottom: 0.28em;
 }
 
 section.compact-table table {
   margin-bottom: 0;
-  transform: scale(0.95);
+  transform: scale(0.88);
   transform-origin: top center;
 }
 
 section.compact-table table th,
 section.compact-table table td {
-  padding: 0.18em 0.5em;
+  padding: 0.16em 0.48em;
 }
 
 blockquote {
