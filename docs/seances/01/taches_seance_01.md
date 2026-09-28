@@ -1,7 +1,7 @@
 # Séance 1 — Tâches évaluées
 
 **Thème :** Gmail & Agenda  
-**À rendre :** un mail reçu par l’enseignant (compte institutionnel) — et, si demandé en séance, une invitation Agenda
+**À rendre :** un mail reçu par l’enseignant (compte institutionnel) — et une invitation Agenda
 
 <nav class="page-nav">
   <a href="cours_seance_01.html">← Cours</a>
@@ -11,7 +11,7 @@
 ## Contexte
 
 L’évaluation porte sur votre capacité à **envoyer un mail simple et professionnel**.  
-Chaque critère ci-dessous est **observable** sur le message reçu (pas de démonstration orale seule).
+Chaque critère ci-dessous est **observable** sur le livrable reçu (pas de démonstration orale seule).
 
 ## Travail 1 — Mail simple (obligatoire)
 
@@ -21,7 +21,7 @@ Envoyez **un seul mail** depuis votre **compte institutionnel** à l’adresse i
 
 | Élément | Exigence |
 | --- | --- |
-| **Objet** | Non vide ; précis ; permet d’identifier le cours / la demande (ex. `[Outils informatiques] Question — séance 1`) |
+| **Objet** | Non vide ; précis ; identifie le cours / la demande (ex. `[Outils informatiques] Question — séance 1`) |
 | **Formule d’ouverture** | Salutation adaptée (pas « salut », pas vide) |
 | **Corps** | Au moins : 1–2 phrases de contexte + **une** demande claire |
 | **Formule de politesse** | Présente avant la signature |
