@@ -168,86 +168,70 @@ En cas de doute : **ne pas cliquer**, vérifier via un autre canal, signaler com
 
 ---
 
-## Google Agenda
+## Google Agenda — le calendrier
 
-Agenda **se synchronise** (téléphone, ordi, navigateur) : votre planning reste à jour partout.
+Un **agenda** (*calendar*) = un calendrier : la vue d’ensemble de votre temps (jours, semaines, mois).
 
-On peut :
+C’est le **contenant**. Les rendez-vous précis viendront ensuite (les **événements**).
 
-- **inviter** des personnes sur un événement
-- **partager** un agenda (ex. groupe de projet, lecture seule)
-
-Un PDF d'horaire, lui, ne se met pas à jour tout seul.
+Un PDF d’horaire, lui, ne se met pas à jour tout seul.
 
 ---
 
-## Vues Agenda
+## Créer ou importer un calendrier
+
+Dans Google Agenda, on peut :
+
+- **créer** un calendrier (ex. `ISIB`, `Projet X`)
+- **importer** / s’**abonner** à un calendrier existant (souvent via un lien **iCal** / `.ics`)
+
+Un calendrier **synchronisable** suit vos appareils (téléphone, ordi, navigateur) — qu’il soit géré **dans Google** ou **à l’extérieur** (abonnement à un horaire diffusé par l’école, un club, etc.).
+
+---
+
+## L’événement (*event*)
+
+Un **événement** = un créneau précis **dans** un calendrier : titre, date/heure, éventuellement lieu, description, invités, rappel.
+
+Zoom : **agenda** (calendrier) → **événement** (ce qui s’y place).
+
+Exemples : cours, labo, réunion projet, deadline (souvent en **journée entière**).
+
+---
+
+## Vues utiles
 
 | Vue | Usage typique |
 | --- | --- |
-| Jour | Détail d'une journée chargée |
-| Semaine | Planification ISIB (recommandée) |
+| Jour | Détail d’une journée chargée |
+| Semaine | Planification ISIB (souvent la plus pratique) |
 | Mois | Vision des deadlines / examens |
-| Planning | Liste chronologique |
 
-Astuce : colorer par catégorie (cours / projet / perso / examens).
-
----
-
-## Types d'événements
-
-| Type | Exemple |
-| --- | --- |
-| Cours / labo récurrent | TI1 chaque lundi 10:30–12:00 |
-| Deadline | Remise rapport — **journée entière** |
-| Réunion projet | Meet + lien dans la description |
-| Bloc focus | 2 h révision (bloquer le créneau) |
+On peut afficher / masquer plusieurs calendriers dans la même vue.
 
 ---
 
-## Créer un événement utile
+## Créer un événement et inviter
 
-Champs essentiels :
+Champs utiles : titre, date/heure (**fuseau** Bruxelles), lieu ou Meet, description, **rappel**, **invités**.
 
-1. Titre clair : `Labo TI1 — séances 3–4`
-2. Date / heure / **fuseau** (Bruxelles)
-3. **Lieu** ou lien Meet
-4. Description : consignes, local, lien Drive
-5. **Rappel** (ex. 10 min / 1 jour)
-6. Invités (groupe de projet)
-
-Pour un examen : événement **journée entière** + rappels J-7 et J-1.
-
----
-
-## Invitation à un événement
-
-Différence importante :
+Différence clé :
 
 | Approche | Résultat |
 | --- | --- |
-| Mail « on se voit mardi » | Pas dans l'agenda de l'autre |
-| **Invitation à un événement** | Créneau proposé / accepté, rappel possible |
-
-Toujours **inviter** les coéquipiers via Agenda (pas seulement un message Gmail).
+| Mail « on se voit mardi » | Pas dans l’agenda de l’autre |
+| **Invitation à un événement** | Créneau chez l’invité, acceptation / rappel possibles |
 
 ---
 
-## Fuseau horaire et récurrence
+## Google Tasks (en bref)
 
-- Vérifier Paramètres Agenda → **fuseau** (Europe/Brussels)
-- Attention aux événements créés à l'étranger / en voyage
-- Récurrence : cours hebdomadaires — vérifier les exceptions (jours fériés, congés)
+**Google Tasks** (*Tâches*) = liste de **to-do** (cases à cocher), souvent à côté de Gmail / Agenda.
 
----
+- Utile pour un rappel « à faire », sans bloquer un créneau horaire
+- Ce n’est **pas** un événement Agenda : pas de réunion / pas d’invitation de calendrier
 
-## Agendas multiples
-
-- Agenda principal (votre boîte)
-- Agenda secondaire : `ISIB — deadlines`, `Projet X`
-- Agendas partagés d'équipe (lecture seule pour certains)
-
-Affichez / masquez les agendas pour alléger la vue semaine.
+Pour planifier un rendez-vous avec quelqu’un → **événement**. Pour une liste perso → **Tasks**.
 
 ---
 
