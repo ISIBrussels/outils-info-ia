@@ -241,7 +241,6 @@ Pour planifier un rendez-vous avec quelqu’un → **événement**. Pour une lis
 
 - Lien de réunion généré depuis Meet, ou **attaché à un événement** Agenda
 - Utile pour un cours à distance, un labo, une réunion de projet
-- Préférez le compte **institutionnel** quand le rendez-vous est scolaire
 
 ---
 
