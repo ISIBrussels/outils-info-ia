@@ -168,18 +168,22 @@ table td {
   border-color: var(--color-border);
 }
 
-/* Tableaux denses (ex. Cc/Bcc) : quasi taille normale, juste assez pour le footer */
+/* Tableaux denses (ex. Cc/Bcc) : juste milieu lisible / footer */
+section.compact-table {
+  font-size: 0.97em;
+}
+
 section.compact-table h2 {
-  margin-bottom: 0.3em;
+  margin-bottom: 0.28em;
 }
 
 section.compact-table table {
-  font-size: 0.96em;
+  font-size: 0.94em;
 }
 
 section.compact-table table th,
 section.compact-table table td {
-  padding: 0.18em 0.5em;
+  padding: 0.15em 0.48em;
 }
 
 section.compact-table > p {

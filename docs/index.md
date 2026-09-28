@@ -10,10 +10,10 @@ Vous y trouverez :
 Ce cours vise à maîtriser les **outils Google** utiles aux études et au travail d'équipe :
 
 - suite Google : Gmail, Agenda, Drive, Docs, Sheets, Slides
-- IA Google : Gemini, NotebookLM — avec un usage **critique**
+- IA Google : Gemini, NotebookLM, avec un usage **critique**
 - introduction : **LLM** (assistant textuel) vs approche **agentique**
 - format : démonstration → pratique guidée → **tâches évaluées**
-- compte **Google / Workspace étudiant** ; explications en **français** (interfaces souvent en anglais)
+- compte **Google / Workspace étudiant**. Explications en **français** (interfaces souvent en anglais)
 
 ## Tableau des séances
 

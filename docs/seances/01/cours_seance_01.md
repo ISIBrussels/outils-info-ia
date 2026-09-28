@@ -28,7 +28,7 @@ Gmail, Agenda, (Tasks et Meet)
 
 | Situation | Compte à utiliser |
 | --- | --- |
-| Mail à un enseignant, secrétariat, groupe de projet ISIB | **Compte institutionnel** |
+| Mail à un enseignant, secrétariat, groupe de projet ISIB | Compte institutionnel |
 | Vie privée | Compte personnel (séparé) |
 
 Vérifiez l'adresse affichée en haut à droite avant d'envoyer.
@@ -53,8 +53,8 @@ flowchart LR
   D --> Slides[Slides]
 ```
 
-**Gmail**, **Agenda** et **Meet** sont au même niveau (communication / rendez-vous) ; la case **Autres…** rappelle qu'il existe encore d'autres outils dans la suite.  
-Les fichiers vivent dans **Drive** ; Docs, Sheets et Slides s'y appuient.
+**Gmail**, **Agenda** et **Meet** sont au même niveau (communication / rendez-vous). La case **Autres…** rappelle qu'il existe encore d'autres outils dans la suite.  
+Les fichiers vivent dans **Drive**. Docs, Sheets et Slides s'y appuient.
 
 ---
 
@@ -62,10 +62,10 @@ Les fichiers vivent dans **Drive** ; Docs, Sheets et Slides s'y appuient.
 
 Zones à connaître :
 
-1. **Boîte de réception** — messages non traités
-2. **Libellés** (*labels*) — organisation (pas des dossiers exclusifs)
-3. **Recherche** — opérateurs puissants
-4. **Étoiles / importance** — priorisation visuelle
+1. **Boîte de réception** : messages non traités
+2. **Libellés** (*labels*) : organisation (pas des dossiers exclusifs)
+3. **Recherche** : opérateurs puissants
+4. **Étoiles / importance** : priorisation visuelle
 5. **Paramètres** → Voir tous les paramètres
 
 Astuce : un message peut avoir **plusieurs libellés** à la fois.
@@ -103,7 +103,7 @@ Objectif : boîte de réception ≈ liste de tâches, pas un grenier.
 
 ## Structure d'un mail professionnel
 
-1. **Objet** précis : `[TI1] Question séance 3 — boucles`
+1. **Objet** précis : `[TI1] Question séance 3, boucles`
 2. **Salutation** adaptée
 3. **Contexte** en 1–2 phrases
 4. **Demande** claire (une question principale)
@@ -130,7 +130,7 @@ Un mail **n'est pas** un message de discussion instantanée (WhatsApp, DM, chat�
 | **Répondre à tous** | *Reply all* | Répondre à l'expéditeur **et** à toutes les personnes en À / Cc |
 | **Transférer** | *Forward* | Envoyer le message (souvent avec PJ) à quelqu'un d'autre |
 
-Attention : **répondre à tous** peut envoyer votre réponse à toute une liste — à utiliser volontairement.
+Attention : **répondre à tous** peut envoyer votre réponse à toute une liste. À utiliser volontairement.
 
 ---
 
@@ -141,7 +141,7 @@ Google Chat **existe** dans l’écosystème Google (messagerie rapide, liée à
 - **Pas à privilégier** pour écrire aux **enseignants**, surtout en **Master** (préférez le **mail** institutionnel).
 - En entreprise, on trouve souvent des outils **plus complets** : **Slack**, ou **Teams** si l’organisation est sur Microsoft.
 
-Pour ce cours : Chat = à connaître de nom ; communication scolaire formelle = **Gmail**.
+Pour ce cours : Chat = à connaître de nom. La communication scolaire formelle passe par **Gmail**.
 
 ---
 
@@ -189,7 +189,7 @@ Dans Google Agenda, on peut :
 - **créer** un calendrier (ex. `ISIB`, `Projet X`)
 - **importer** / s’**abonner** à un calendrier existant (souvent via un lien **iCal** / `.ics`)
 
-Un calendrier **synchronisable** suit vos appareils (téléphone, ordi, navigateur) — qu’il soit géré **dans Google** ou **à l’extérieur** (abonnement à un horaire diffusé par l’école, un club, etc.).
+Un calendrier **synchronisable** suit vos appareils (téléphone, ordi, navigateur), qu’il soit géré **dans Google** ou **à l’extérieur** (abonnement à un horaire diffusé par l’école, un club, etc.).
 
 ---
 
@@ -205,7 +205,7 @@ Exemples : cours, labo, réunion projet, deadline (souvent en **journée entièr
 
 ## Vues utiles
 
-Modes courants : **jour**, **semaine**, **mois** — la semaine suffit souvent pour l’horaire ISIB.
+Modes courants : **jour**, **semaine**, **mois**. La semaine suffit souvent pour l’horaire ISIB.
 
 Dans la liste des agendas (à gauche), on peut **cocher** ou **décocher** un calendrier pour l’**afficher** ou le **masquer** dans la vue, sans le supprimer.
 

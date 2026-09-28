@@ -20,7 +20,7 @@ Contenu minimal :
 2. Au moins **2 titres de niveau 1** et **2 titres de niveau 2** (styles Docs, pas du gras manuel)
 3. Une **table des matières** automatique
 4. Un paragraphe d’introduction (5–8 lignes) : « Comment j’organise mon travail scolaire avec Google »
-5. Une **figure** (schéma ou capture) avec légende `Figure 1 — …`
+5. Une **figure** (schéma ou capture) avec légende `Figure 1 : …`
 6. En-tête (cours + noms) et **numéros de page**
 
 ## Travail 2 — Collaboration

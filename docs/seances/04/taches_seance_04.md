@@ -24,7 +24,7 @@ Consignes :
 1. Au moins **8 lignes** de données fictives mais réalistes (notes /20)
 2. `Moyenne` = formule (`AVERAGE` ou moyenne pondérée si vous allez plus loin)
 3. `Statut` = formule `IF` : `Réussi` si moyenne ≥ 10, sinon `Échoué`
-4. Ligne 1 = en-têtes ; **pas** de fusion dans la zone de données
+4. Ligne 1 = en-têtes. **Pas** de fusion dans la zone de données
 5. Activez un **filtre** sur le tableau
 
 ## Travail 2 — Validation et mise en forme
@@ -36,8 +36,8 @@ Consignes :
 ## Travail 3 — Graphique
 
 1. Créez un graphique (barres ou histogramme) des moyennes
-2. Titre clair : `Distribution des moyennes — groupe [X]`
-3. Axes lisibles ; pas de 3D
+2. Titre clair : `Distribution des moyennes, groupe [X]`
+3. Axes lisibles. Pas de 3D
 4. Placez le graphique dans une feuille `Dashboard` (option recommandée)
 
 ## Travail 4 — Partage

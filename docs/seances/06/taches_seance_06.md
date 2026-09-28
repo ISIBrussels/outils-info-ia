@@ -20,8 +20,8 @@ Pour chaque prompt : collez la réponse de Gemini (extrait), puis une **vérific
 
 ## Travail 2 — NotebookLM sur vos sources
 
-1. Créez un notebook NotebookLM nommé `Outils informatiques — révision`
-2. Ajoutez **1 ou 2 sources autorisées** (slides du cours, vos notes Docs — pas de documents confidentiels tiers)
+1. Créez un notebook NotebookLM nommé `Outils informatiques : révision`
+2. Ajoutez **1 ou 2 sources autorisées** (slides du cours, vos notes Docs, pas de documents confidentiels tiers)
 3. Posez **5 questions ciblées** et notez les réponses dans le journal
 4. Produisez une **fiche de révision** générée, puis **réécrivez-la avec vos mots** (paragraphe ou liste courte)
 

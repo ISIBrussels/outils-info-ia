@@ -15,7 +15,7 @@ Le mail doit contenir :
 
 1. un objet qui contient à la fois « Outils info » et « séance 1 tâche 1 »
 2. une formule d’ouverture (salutation)
-3. un corps avec 1–2 phrases de contexte et une demande claire « pour faire jolie » — c’est-à-dire une demande pour l’exercice, pas une vraie urgence scolaire (ex. demander si la police du polycopié est bien Arial 11, ou une confirmation fictive de format de remise)
+3. un corps avec 1–2 phrases de contexte et une demande claire « pour faire jolie », c’est-à-dire une demande pour l’exercice, pas une vraie urgence scolaire (ex. demander si la police du polycopié est bien Arial 11, ou une confirmation fictive de format de remise)
 4. une formule de politesse
 5. une signature avec nom + matricule + année avec groupe
 
