@@ -4,6 +4,11 @@
 **Objectif :** produire un document structuré et collaboratif prêt à être remis  
 **À rendre :** lien Drive du Doc (droits lecture pour l’enseignant) + export PDF
 
+<nav class="page-nav">
+  <a href="cours_seance_03.html">← Cours</a>
+  <a href="../../index.html">Accueil</a>
+</nav>
+
 ## Travail 1 — Mini-rapport structuré (obligatoire)
 
 Créez un Google Doc nommé :

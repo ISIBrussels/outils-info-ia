@@ -4,6 +4,11 @@
 **Objectif :** montrer que vous distinguez les concepts et que vous avez une méthode de travail durable  
 **À rendre :** un Doc de synthèse + charte d’usage
 
+<nav class="page-nav">
+  <a href="cours_seance_07.html">← Cours</a>
+  <a href="../../index.html">Accueil</a>
+</nav>
+
 ## Travail 1 — Cartographie de situations (obligatoire)
 
 Dans un Doc `AAAA-MM-JJ_OutilsInformatiques_Nom_synthese`, classez **8 situations** (inventez-en de réalistes ou utilisez la liste orale) dans l’une des cases :

@@ -4,6 +4,11 @@
 **Objectif :** préparer une mini-présentation orale claire (support ≠ document)  
 **À rendre :** lien du fichier Slides + PDF de secours
 
+<nav class="page-nav">
+  <a href="cours_seance_05.html">← Cours</a>
+  <a href="../../index.html">Accueil</a>
+</nav>
+
 ## Travail 1 — Présentation 5–6 slides (obligatoire)
 
 Sujet imposé (choisissez-en un) :
