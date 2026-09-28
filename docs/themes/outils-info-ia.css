@@ -168,26 +168,26 @@ table td {
   border-color: var(--color-border);
 }
 
-/* Tableaux denses (ex. Cc/Bcc) : éviter le chevauchement footer */
+/* Tableaux denses (ex. Cc/Bcc) : lisible sans chevaucher le footer */
 section.compact-table {
-  font-size: 0.92em;
+  font-size: 0.98em;
 }
 
 section.compact-table table {
-  font-size: 0.82em;
+  font-size: 0.92em;
 }
 
 section.compact-table table th,
 section.compact-table table td {
-  padding: 0.12em 0.4em;
+  padding: 0.16em 0.45em;
 }
 
 section.compact-table h2 {
-  margin-bottom: 0.25em;
+  margin-bottom: 0.3em;
 }
 
 section.compact-table > p {
-  margin-top: 0.45em;
+  margin-top: 0.5em;
   margin-bottom: 0;
 }
 

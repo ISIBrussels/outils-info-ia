@@ -42,16 +42,18 @@ flowchart LR
   M[Gmail]
   A[Agenda]
   Meet[Meet]
+  Autres[Autres…]
   D[Drive]
   M --> D
   A --> D
   Meet --> D
+  Autres -.-> D
   D --> Docs[Docs]
   D --> Sheets[Sheets]
   D --> Slides[Slides]
 ```
 
-**Gmail**, **Agenda** et **Meet** sont au même niveau (communication / rendez-vous).  
+**Gmail**, **Agenda** et **Meet** sont au même niveau (communication / rendez-vous) ; la case **Autres…** rappelle qu'il existe encore d'autres outils dans la suite.  
 Les fichiers vivent dans **Drive** ; Docs, Sheets et Slides s'y appuient.
 
 ---
