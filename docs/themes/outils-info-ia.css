@@ -168,26 +168,22 @@ table td {
   border-color: var(--color-border);
 }
 
-/* Tableaux denses (ex. Cc/Bcc) : juste milieu lisible / footer */
-section.compact-table {
-  font-size: 0.97em;
-}
-
+/* Tableaux denses (ex. Cc/Bcc) : quasi taille d’origine, −2 pt seulement */
 section.compact-table h2 {
-  margin-bottom: 0.28em;
+  margin-bottom: 0.35em;
 }
 
 section.compact-table table {
-  font-size: 0.94em;
+  font-size: calc(1em - 2pt);
 }
 
 section.compact-table table th,
 section.compact-table table td {
-  padding: 0.15em 0.48em;
+  padding: 0.2em 0.52em;
 }
 
 section.compact-table > p {
-  margin-top: 0.4em;
+  margin-top: 0.45em;
   margin-bottom: 0;
 }
 
