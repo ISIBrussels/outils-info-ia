@@ -2,16 +2,11 @@
 
 **Thème :** Drive  
 **Objectif :** organiser des fichiers et partager correctement  
-**À rendre / montrer :** arborescence Drive + dossier/fichier partagé selon les consignes
 
 <nav class="page-nav">
   <a href="cours_seance_02.html">← Cours</a>
   <a href="../../index.html">Accueil</a>
 </nav>
-
-## Contexte
-
-Après Gmail & Agenda (séance 1), vous structurez **où vivent vos fichiers** scolaires et comment les partager sans perdre le contrôle des versions.
 
 ## Travail 1 — Arborescence Drive (obligatoire)
 

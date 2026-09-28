@@ -2,7 +2,6 @@
 
 **Thème :** LLM vs agentique & synthèse  
 **Objectif :** montrer que vous distinguez les concepts et que vous avez une méthode de travail durable  
-**À rendre :** un Doc de synthèse + charte d’usage
 
 <nav class="page-nav">
   <a href="cours_seance_07.html">← Cours</a>

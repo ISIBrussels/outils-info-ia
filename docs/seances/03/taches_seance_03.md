@@ -2,7 +2,6 @@
 
 **Thème :** Google Docs  
 **Objectif :** produire un document structuré et collaboratif prêt à être remis  
-**À rendre :** lien Drive du Doc (droits lecture pour l’enseignant) + export PDF
 
 <nav class="page-nav">
   <a href="cours_seance_03.html">← Cours</a>

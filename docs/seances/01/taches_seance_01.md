@@ -1,21 +1,11 @@
 # Séance 1 — Tâches évaluées
 
 **Thème :** Gmail & Agenda  
-**À rendre :** (1) un mail reçu par l’enseignant — (2) une **invitation à un événement** (Google Agenda)
 
 <nav class="page-nav">
   <a href="cours_seance_01.html">← Cours</a>
   <a href="../../index.html">Accueil</a>
 </nav>
-
-## Contexte
-
-Deux livrables **évaluables** (reçus par l’enseignant / la personne indiquée) :
-
-1. un **mail simple** professionnel  
-2. une **invitation à un événement** (pas le partage d’un agenda entier)
-
-Chaque critère est **observable** sur le livrable reçu — pas de démonstration orale seule.
 
 ## Travail 1 — Mail simple (obligatoire)
 

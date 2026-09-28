@@ -2,7 +2,6 @@
 
 **Thème :** Gemini & NotebookLM  
 **Objectif :** utiliser l’IA comme copilote sur une tâche scolaire réelle, avec vérification  
-**À rendre :** Doc de journal de bord (prompt → sortie → vérification → version finale)
 
 <nav class="page-nav">
   <a href="cours_seance_06.html">← Cours</a>

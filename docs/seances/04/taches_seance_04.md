@@ -2,7 +2,6 @@
 
 **Thème :** Google Sheets  
 **Objectif :** construire un tableau de suivi utilisable (pas une grille décorative)  
-**À rendre :** lien du Sheet + capture du graphique
 
 <nav class="page-nav">
   <a href="cours_seance_04.html">← Cours</a>

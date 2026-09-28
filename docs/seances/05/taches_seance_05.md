@@ -2,7 +2,6 @@
 
 **Thème :** Google Slides  
 **Objectif :** préparer une mini-présentation orale claire (support ≠ document)  
-**À rendre :** lien du fichier Slides + PDF de secours
 
 <nav class="page-nav">
   <a href="cours_seance_05.html">← Cours</a>
