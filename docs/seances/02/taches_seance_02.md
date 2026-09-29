@@ -1,16 +1,15 @@
 # Séance 2 — Tâches évaluées
 
-**Thème :** Drive  
-**Objectif :** organiser des fichiers et partager correctement  
+Thème : Google Drive
 
 <nav class="page-nav">
   <a href="cours_seance_02.html">← Cours</a>
   <a href="../../index.html">Accueil</a>
 </nav>
 
-## Travail 1 — Arborescence Drive (obligatoire)
+## Tâche 1 — Arborescence et README
 
-Dans **Mon Drive**, créez :
+Depuis votre compte institutionnel, dans **Mon Drive**, créez l’arborescence suivante :
 
 ```text
 ISIB/
@@ -19,26 +18,19 @@ ISIB/
   03_Admin/
 ```
 
-Dans `OutilsInformatiquesIA/`, déposez un fichier `README_organisation.txt` listant vos conventions de nommage (3 lignes minimum), par ex. `AAAA-MM-JJ_Cours_contenu`.
+Dans le dossier `OutilsInformatiquesIA/` :
 
-## Travail 2 — Nommage
+1. créez un fichier Google Docs nommé `README_organisation`
+2. écrivez au moins 3 lignes qui décrivent vos conventions de nommage (ex. `AAAA-MM-JJ_Cours_description`, dossiers par contexte)
+3. partagez le dossier `OutilsInformatiquesIA/` avec l’enseignant en **lecteur**
 
-Renommez **3 fichiers** (ou créez 3 fichiers modèles) selon une convention stable du type :
+## Tâche 2 — Fichier nommé et droits
 
-`AAAA-MM-JJ_OutilsInformatiques_Nom_description`
+Toujours dans `OutilsInformatiquesIA/` :
 
-Évitez : `final_final2.docx`, `Document sans titre`.
-
-## Travail 3 — Partage et droits (obligatoire)
-
-1. Partagez le dossier `OutilsInformatiquesIA/` (ou un sous-dossier `Seance02/`) avec votre binôme en **commentaire** d’abord
-2. Passez ensuite le binôme en **éditeur**
-3. Documentez en 2 phrases (dans le README) la différence commentateur / éditeur
-
-## Travail 4 — Raccourci (pas une copie)
-
-Ajoutez un **raccourci** du dossier ou fichier partagé dans l’arborescence du binôme (sans recopier les fichiers).  
-Expliquez brièvement pourquoi un raccourci évite les versions divergentes.
+1. créez un Google Docs nommé selon votre convention, du type `AAAA-MM-JJ_OutilsInfo_seance02-demo`
+2. ajoutez une courte phrase dans le document (ex. « Démo partage séance 2 »)
+3. partagez **ce fichier** avec l’enseignant en **commentateur** (pas en éditeur)
 
 <nav class="page-nav">
   <a href="cours_seance_02.html">← Cours</a>
