@@ -246,7 +246,7 @@ En pratique, synchroniser Drive est **très conseillé** :
 Dans **Mon Drive** (compte institutionnel) :
 
 1. créez **un dossier** (ex. `OutilsInfo_seance02`)
-2. invitez l’enseignant sur **ce dossier** en **commentateur**
+2. invitez l’enseignant sur **ce dossier** en **lecteur** (*viewer*)
 
 **Dossier partagé** (invitation nominative) — pas un Drive partagé, pas tout Mon Drive.
 

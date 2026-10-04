@@ -12,7 +12,7 @@ Thème : Google Drive
 Depuis votre compte institutionnel, dans **Mon Drive** :
 
 1. créez **un dossier** (nom clair, ex. `OutilsInfo_seance02`)
-2. invitez l’enseignant sur **ce dossier** en **commentateur**
+2. invitez l’enseignant sur **ce dossier** en **lecteur** (*viewer*)
 
 C’est un **dossier partagé** (invitation nominative). **Pas** un Drive partagé (espace d’équipe), et **pas** tout Mon Drive.
 
