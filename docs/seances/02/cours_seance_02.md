@@ -234,7 +234,10 @@ Idée : un dossier sur le PC qui **reflète** (en tout ou en partie) votre Drive
 - Utile **hors ligne** ou avec des apps de bureau (PDF, PAO, etc.)
 - Brancher le bon compte (**pro** pour le travail) ; surveiller l’**espace disque**
 
-Les tâches de cette séance se font dans le **navigateur** ; l’app desktop est un plus pour le quotidien.
+En pratique, synchroniser Drive est **très conseillé** :
+
+1. Travailler **ailleurs** que sur sa machine : tant qu’on a internet, on a ses fichiers
+2. Si l’**ordi de travail meurt**, on ne perd rien
 
 ---
 
