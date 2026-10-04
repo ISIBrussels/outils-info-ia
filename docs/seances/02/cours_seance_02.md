@@ -212,6 +212,32 @@ En cas de disparition : corbeille d’abord, puis historique de versions.
 
 ---
 
+## Google Drive for desktop
+
+App **officielle** Google pour **Windows** et **Mac** (synchronisation PC ↔ cloud).
+
+À quoi ça sert :
+
+- Voir Drive comme un **dossier** dans l’Explorateur / le Finder
+- Ouvrir ou enregistrer depuis vos logiciels de bureau
+- Garder le PC et le cloud **alignés** (même espace, pas un second Drive)
+
+Rappel : dans Drive web, la zone **Ordinateurs** apparaît quand cette sync est active.
+
+---
+
+## Dossier local et synchronisation
+
+Idée : un dossier sur le PC qui **reflète** (en tout ou en partie) votre Drive.
+
+- Modification locale → mise à jour en ligne (et inversement)
+- Utile **hors ligne** ou avec des apps de bureau (PDF, PAO, etc.)
+- Brancher le bon compte (**pro** pour le travail) ; surveiller l’**espace disque**
+
+Les tâches de cette séance se font dans le **navigateur** ; l’app desktop est un plus pour le quotidien.
+
+---
+
 ## Tâche 1 — Arborescence et README
 
 Dans **Mon Drive** (compte institutionnel), créez :
