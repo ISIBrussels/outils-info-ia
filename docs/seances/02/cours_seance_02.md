@@ -241,35 +241,30 @@ En pratique, synchroniser Drive est **très conseillé** :
 
 ---
 
-## Tâche 1 — Arborescence et README
+## Tâche 1 — Dossier partagé
 
-Dans **Mon Drive** (compte institutionnel), créez :
+Dans **Mon Drive** (compte institutionnel) :
 
-```text
-ISIB/
-  01_Cours/OutilsInformatiquesIA/
-  02_Projets/
-  03_Admin/
-```
+1. créez **un dossier** (ex. `OutilsInfo_seance02`)
+2. invitez l’enseignant sur **ce dossier** en **commentateur**
 
-Dans `OutilsInformatiquesIA/`, créez un fichier Google Docs nommé  
-`README_organisation` (3 lignes minimum sur vos conventions de nommage).
-
-Partagez le dossier `OutilsInformatiquesIA/` avec l’enseignant en **lecteur**.
+**Dossier partagé** (invitation nominative) — pas un Drive partagé, pas tout Mon Drive.
 
 → [Tâches évaluées](taches_seance_02.html)
 
 ---
 
-## Tâche 2 — Fichier nommé et droits
+## Tâche 2 — Trois fichiers, trois droits
 
-Dans `OutilsInformatiquesIA/`, créez un Google Docs nommé selon votre convention, du type :
+Dans **ce même dossier**, 3 fichiers ; droits de l’enseignant **par fichier** :
 
-`AAAA-MM-JJ_OutilsInfo_seance02-demo`
+| Fichier | Contenu | Droit |
+| --- | --- | --- |
+| Google **Docs** | vide | **éditeur** |
+| Google **Slides** | vide | **commentateur** |
+| **Tableur** / type Excel (Google **Sheets**) | — | **lecteur** uniquement |
 
-Le document contient une courte phrase (ex. « Démo partage séance 2 »).
-
-Partagez **ce fichier** avec l’enseignant en **commentateur** (pas éditeur).
+Noms lisibles (ex. `AAAA-MM-JJ_OutilsInfo_seance02-docs`).
 
 → [Tâches évaluées](taches_seance_02.html)
 

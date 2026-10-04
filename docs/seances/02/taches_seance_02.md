@@ -7,30 +7,24 @@ Thème : Google Drive
   <a href="../../index.html">Accueil</a>
 </nav>
 
-## Tâche 1 — Arborescence et README
+## Tâche 1 — Dossier partagé
 
-Depuis votre compte institutionnel, dans **Mon Drive**, créez l’arborescence suivante :
+Depuis votre compte institutionnel, dans **Mon Drive** :
 
-```text
-ISIB/
-  01_Cours/OutilsInformatiquesIA/
-  02_Projets/
-  03_Admin/
-```
+1. créez **un dossier** (nom clair, ex. `OutilsInfo_seance02`)
+2. invitez l’enseignant sur **ce dossier** en **commentateur**
 
-Dans le dossier `OutilsInformatiquesIA/` :
+C’est un **dossier partagé** (invitation nominative). **Pas** un Drive partagé (espace d’équipe), et **pas** tout Mon Drive.
 
-1. créez un fichier Google Docs nommé `README_organisation`
-2. écrivez au moins 3 lignes qui décrivent vos conventions de nommage (ex. `AAAA-MM-JJ_Cours_description`, dossiers par contexte)
-3. partagez le dossier `OutilsInformatiquesIA/` avec l’enseignant en **lecteur**
+## Tâche 2 — Trois fichiers, trois droits
 
-## Tâche 2 — Fichier nommé et droits
+Dans **ce même dossier**, créez **3 fichiers** et réglez les droits de l’enseignant **sur chaque fichier** (ne vous fiez pas seulement à l’héritage du dossier) :
 
-Toujours dans `OutilsInformatiquesIA/` :
+1. un Google **Docs** **vide** — enseignant en **éditeur**
+2. un Google **Slides** **vide** — enseignant en **commentateur**
+3. un fichier **tableur** / type Excel (**Google Sheets**) — enseignant en **lecteur** uniquement
 
-1. créez un Google Docs nommé selon votre convention, du type `AAAA-MM-JJ_OutilsInfo_seance02-demo`
-2. ajoutez une courte phrase dans le document (ex. « Démo partage séance 2 »)
-3. partagez **ce fichier** avec l’enseignant en **commentateur** (pas en éditeur)
+Donnez à chaque fichier un nom lisible (convention de la séance, ex. `AAAA-MM-JJ_OutilsInfo_seance02-docs`).
 
 <nav class="page-nav">
   <a href="cours_seance_02.html">← Cours</a>
