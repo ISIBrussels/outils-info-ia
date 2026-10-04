@@ -132,18 +132,24 @@ Avant d’envoyer un lien : vérifier **qui peut ouvrir**.
 
 ---
 
-## Partage pour les études ISIB
+## Partager : dossiers et bonnes pratiques
 
-Situations typiques :
+Après les **droits** et le choix **personnes / lien**, deux gestes utiles :
 
-| Situation | Idée de droits |
+| Cible | Effet typique |
 | --- | --- |
-| Remise à l’enseignant | Lecteur ou commentateur |
-| Travail de groupe actif | Éditeurs = membres du groupe |
-| Polycopié à lire seulement | Lecteur |
-| Relecture avant dépôt | Commentateur |
+| **Fichier** | Accès limité à ce fichier |
+| **Dossier** | Les éléments du dossier **héritent** en général du partage |
 
-**Ne partagez pas** en « tout le monde avec le lien = éditeur » sans raison. Vous perdez le contrôle du fichier.
+Bonnes pratiques :
+
+- Donner le **minimum** de droits (relecture ≠ édition)
+- Préférer un partage **nominatif** à un lien très ouvert, si possible
+- Pour un travail commun durable : un **dossier partagé** + rôles clairs
+- Vérifier **qui peut ouvrir** avant d’envoyer le lien
+- Retirer l’accès quand ce n’est plus nécessaire
+
+**Éviter** « tout le monde avec le lien = éditeur » sans raison : vous perdez le contrôle.
 
 ---
 
@@ -185,14 +191,14 @@ En cas de disparition : corbeille d’abord, puis historique de versions.
 
 ---
 
-## Bonnes pratiques étudiants ISIB
+## Bonnes pratiques (contexte pro)
 
-1. Compte **institutionnel** pour le travail de cours / projets école
-2. Arborescence `ISIB/` dès le début d’année
-3. Noms de fichiers datés et explicites
+1. Compte **pro / institutionnel** pour le travail (séparé du personnel)
+2. Arborescence claire par **projet**, équipe ou dossier dès le départ
+3. Noms de fichiers **datés et explicites**
 4. Partage avec **droits justes** (relecture ≠ édition)
 5. Lien Drive pour le travail commun, pas dix PJ « V3_vraiment_final »
-6. Vérifier le partage **avant** d’envoyer le lien à l’enseignant
+6. Vérifier le partage **avant** d’envoyer le lien (collègue, client, partenaire)
 
 ---
 
