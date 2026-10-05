@@ -26,6 +26,8 @@ Dans **ce même dossier**, créez **3 fichiers** et réglez les droits de l’en
 
 Donnez à chaque fichier un nom lisible (convention de la séance, ex. `AAAA-MM-JJ_OutilsInfo_seance02-docs`).
 
+**Deadline : la veille de la prochaine séance, 20:00**
+
 <nav class="page-nav">
   <a href="cours_seance_02.html">← Cours</a>
   <a href="../../index.html">Accueil</a>

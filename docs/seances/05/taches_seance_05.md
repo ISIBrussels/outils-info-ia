@@ -48,6 +48,8 @@ Remplissez les **notes** pour au moins 3 slides (ce que vous direz, pas le copie
 
 Répartissez les slides, partagez en éditeur, et figez le thème avant la « version remise ».
 
+**Deadline : la veille de la prochaine séance, 20:00**
+
 <nav class="page-nav">
   <a href="cours_seance_05.html">← Cours</a>
   <a href="../../index.html">Accueil</a>

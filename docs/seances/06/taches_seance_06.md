@@ -29,6 +29,8 @@ Pour chaque prompt : collez la réponse de Gemini (extrait), puis une **vérific
 
 Ajoutez en fin de journal **5 règles personnelles** d’usage de l’IA pour vos études (éthique, vérification, données personnelles, évaluations).
 
+**Deadline : la veille de la prochaine séance, 20:00**
+
 <nav class="page-nav">
   <a href="cours_seance_06.html">← Cours</a>
   <a href="../../index.html">Accueil</a>

@@ -44,6 +44,8 @@ Consignes :
 
 Partagez le Sheet avec votre binôme en **éditeur** et ajoutez un commentaire sur une cellule suspecte (ex. note hors plage).
 
+**Deadline : la veille de la prochaine séance, 20:00**
+
 <nav class="page-nav">
   <a href="cours_seance_04.html">← Cours</a>
   <a href="../../index.html">Accueil</a>

@@ -39,6 +39,8 @@ Avec un binôme (ou l’enseignant si travail solo autorisé) :
 3. Déposez le PDF dans votre dossier Drive de la séance
 4. Vérifiez : sommaire, coupures de page, lisibilité de la figure
 
+**Deadline : la veille de la prochaine séance, 20:00**
+
 <nav class="page-nav">
   <a href="cours_seance_03.html">← Cours</a>
   <a href="../../index.html">Accueil</a>

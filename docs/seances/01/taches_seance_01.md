@@ -30,6 +30,8 @@ Sur l’événement :
 3. un créneau d’1 h, le samedi ou le dimanche avant la deuxième séance de cours
 4. un rappel
 
+**Deadline : la veille de la prochaine séance, 20:00**
+
 <nav class="page-nav">
   <a href="cours_seance_01.html">← Cours</a>
   <a href="../../index.html">Accueil</a>

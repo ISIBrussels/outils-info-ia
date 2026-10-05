@@ -39,6 +39,8 @@ Pas de slogans vides : chaque réflexe = une action que vous pouvez faire la sem
 Reprenez / finalisez une charte (6 points minimum), ajoutez votre **nom**, section et date.  
 Partagez le Doc en lecture avec l’enseignant.
 
+**Deadline : la veille de la prochaine séance, 20:00**
+
 <nav class="page-nav">
   <a href="cours_seance_07.html">← Cours</a>
   <a href="../../index.html">Accueil</a>
