@@ -221,43 +221,8 @@ Le PDF est un **instantané** pour remise ou archive. Le Doc Drive reste la vers
 
 ---
 
-## Tâche 1 — Mini-rapport structuré
+## Tâches évaluées
 
-Créez un Google Doc nommé :
-
-`AAAA-MM-JJ_OutilsInformatiques_Nom_minirapport`
-
-À vérifier : page de garde, **styles** Titre 1 / Titre 2, **TdM** auto, intro, **figure** + légende, en-tête et **numéros de page**.
-
-→ [Tâches évaluées](taches_seance_03.html)
-
----
-
-## Tâche 2 — Collaboration
-
-Sur ce Doc :
-
-1. partage adapté (**éditeur** ou **commentateur**)
-2. **2 commentaires** actionnables (pas « ok »)
-3. **1 suggestion** de reformulation
-4. **résoudre** un fil une fois traité
-
-→ [Tâches évaluées](taches_seance_03.html)
-
----
-
-## Tâche 3 — Remise PDF
-
-1. Téléchargez le Doc en **PDF** (nom parallèle au Doc)
-2. Déposez-le dans votre dossier Drive de travail
-3. Contrôlez sommaire, sauts de page, lisibilité de la figure
-
-→ [Tâches évaluées](taches_seance_03.html)
-
----
-
-## Deadline
-
-Réalisation des tâches : **au plus tard la veille de la prochaine séance, à 20:00**.
+**TBA**
 
 → [Tâches évaluées](taches_seance_03.html)

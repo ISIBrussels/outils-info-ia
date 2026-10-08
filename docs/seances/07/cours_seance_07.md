@@ -15,6 +15,12 @@ LLM vs agentique & synthèse
 
 ## Contenu à venir
 
-Contenu pédagogique complet à rédiger (bloc cours, puis tâches évaluées en fin de séance).
+Contenu pédagogique à rédiger.
 
-[→ Tâches évaluées](taches_seance_07.html)
+---
+
+## Tâches évaluées
+
+**TBA**
+
+→ [Tâches évaluées](taches_seance_07.html)
