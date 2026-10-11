@@ -226,17 +226,6 @@ Le PDF est un **instantané** pour remise ou archive. Le Doc Drive reste la vers
 
 ---
 
-## Erreurs fréquentes
-
-- Titres en gras manuel → pas de plan, pas de TdM fiable
-- Des **Entrée** en série pour forcer une nouvelle page (utiliser un **saut de page**)
-- Tout le monde **éditeur** « au cas où »
-- Figure sans légende, ou illisible une fois imprimée
-- Exporter le PDF **avant** d’avoir mis à jour le sommaire
-- Copier le Doc pour chaque relecteur (les versions divergent)
-
----
-
 ## Tâche 1 — Structurer le Doc partagé
 
 Sur le **Doc S2** (enseignant éditeur) :
