@@ -1,34 +1,29 @@
 # Séance 3 — Tâches évaluées
 
-Thème : Google Docs — éditer le Doc déjà partagé en séance 2
+Thème : Google Docs — remplir le Doc déjà partagé en séance 2
 
 <nav class="page-nav">
   <a href="cours_seance_03.html">← Cours</a>
   <a href="../../index.html">Accueil</a>
 </nav>
 
-## Tâche 1 — Structurer le Doc partagé (S2)
+## Tâche — Remplir le Doc partagé (3 points)
 
-Ouvrez le **Google Doc** créé en séance 2 (celui où l’enseignant est déjà **éditeur**). Travaillez **dans ce fichier** — ne créez pas un second Doc.
+Ouvrez le **Google Doc** du dossier partagé en séance 2 (celui où l’enseignant est déjà **éditeur**). Travaillez **dans ce fichier** — ne créez pas un second Doc.
 
-1. Nommez-le clairement s’il est encore générique (ex. `AAAA-MM-JJ_OutilsInfo_seance03-docs`)
-2. Ajoutez une **page de garde** : titre du document, votre nom + matricule, groupe, date, cours (**Outils informatiques & IA**)
-3. Rédigez un corps minimal avec au moins **2 titres de niveau 1** et **2 titres de niveau 2** (styles Docs, pas du gras manuel)
-4. Contenu attendu sous les titres : une courte intro (5–8 lignes) sur « Comment j’organise mon travail scolaire avec Google », plus 1–2 paragraphes utiles (conseils concrets, pas du remplissage)
-5. Insérez une **table des matières** automatique juste après la page de garde
-6. Ajoutez **en-tête** (cours + votre nom) et **numéros de page**
-7. Insérez **une figure** (capture ou schéma simple) avec légende `Figure 1 : …`
+À y mettre (structure minimale vue en cours) :
+
+1. **Nom** clair si besoin (clic sur le titre en haut à gauche) — ex. `AAAA-MM-JJ_OutilsInfo_seance03-docs`
+2. **Page de garde** : titre, votre nom + matricule, groupe, date, cours (**Outils informatiques & IA**) — puis un vrai **saut de page**
+3. **Styles** : au moins **2 titres niveau 1** et **2 titres niveau 2** (pas du gras manuel)
+4. Sous les titres : une courte intro (5–8 lignes) sur « Comment j’organise mon travail scolaire avec Google », plus 1–2 paragraphes utiles ; au moins une **liste** (puces ou numérotée, avec un sous-niveau si pertinent)
+5. **Table des matières** automatique juste après la page de garde
+6. **En-tête** (cours + votre nom) et **numéros de page**
+7. **Une figure** avec légende `Figure 1 : …`
+8. Collaboration sur ce Doc : **2 commentaires** actionnables pour l’enseignant + **1 suggestion** de reformulation
+9. **PDF** exporté (`Fichier` → `Télécharger` → `PDF`), nommé en parallèle, déposé **dans le même dossier** Drive — contrôlez TdM, sauts de page, figure, en-tête / numéros
 
 L’enseignant vérifie directement dans Drive (droits éditeur déjà en place depuis la S2).
-
-## Tâche 2 — Collaboration et PDF de contrôle
-
-Toujours **sur ce même Doc** :
-
-1. Laissez **2 commentaires** actionnables adressés à l’enseignant (sélection d’un passage + commentaire ; pas « ok ») — par ex. une question sur une formulation, ou un point que vous voulez faire valider
-2. Passez en mode **suggestion**, proposez **1 reformulation** d’une phrase, puis revenez en mode modification
-3. Exportez un **PDF** (`Fichier` → `Télécharger` → `PDF`), nommez-le en parallèle du Doc, et déposez-le **dans le même dossier** Drive que le Doc
-4. Contrôlez le PDF : TdM à jour, sauts de page corrects, figure lisible, en-tête / numéros présents
 
 **Deadline : la veille de la prochaine séance, 20:00**
 

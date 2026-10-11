@@ -228,23 +228,9 @@ Le PDF est un **instantané** pour remise ou archive. Le Doc Drive reste la vers
 
 ---
 
-## Tâche 1 — Structurer le Doc partagé
+## Tâche — Remplir le Doc partagé (3 points)
 
-Sur le **Doc S2** (enseignant éditeur) :
-
-page de garde, **styles** Titre 1 / Titre 2, **TdM** auto, intro, **figure** + légende, en-tête et **numéros de page**.
-
-→ [Tâches évaluées](taches_seance_03.html)
-
----
-
-## Tâche 2 — Collaboration et PDF
-
-Sur **ce même Doc** :
-
-1. **2 commentaires** actionnables pour l’enseignant
-2. **1 suggestion** de reformulation
-3. **PDF** déposé dans le même dossier Drive
+Sur le **Doc S2** (enseignant déjà éditeur) : page de garde, **styles**, **listes**, **TdM**, en-tête / numéros, **figure**, commentaires + suggestion, **PDF** dans le même dossier.
 
 → [Tâches évaluées](taches_seance_03.html)
 
@@ -252,6 +238,6 @@ Sur **ce même Doc** :
 
 ## Deadline
 
-Réalisation des deux tâches : **au plus tard la veille de la prochaine séance, à 20:00**.
+**Deadline : la veille de la prochaine séance, 20:00**
 
 → [Tâches évaluées](taches_seance_03.html)
