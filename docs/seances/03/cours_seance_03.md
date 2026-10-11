@@ -116,6 +116,17 @@ Numéros : **Insertion** → **Éléments de page** → **Numéro de page** (opt
 
 ---
 
+## Saut de page (pas Entrée × 20)
+
+Un **saut de page** force le texte suivant à commencer sur une **nouvelle page** : **Insertion** → **Saut** → **Saut de page**.
+
+| Faire | Éviter |
+| --- | --- |
+| Un vrai saut (page de garde → corps, nouvelle section…) | Enchaîner des **Entrée** pour « arriver » sur la page suivante |
+| Reste stable si on modifie le texte au-dessus | Se casse dès qu’on ajoute ou coupe du contenu plus haut |
+
+---
+
 ## Images et légendes
 
 **Insertion** → **Image** (Drive, upload, URL).
@@ -185,16 +196,18 @@ Le PDF est un **instantané** pour remise ou archive. Le Doc Drive reste la vers
 
 1. Un Doc **dans le dossier** du projet, nommé clairement
 2. **Styles** de titres dès la première section
-3. TdM auto + en-tête / numéros **avant** la relecture finale
-4. Relecture : **commentaires** ou **suggestions**, pas un second fichier
-5. Droits **minimum** (relecture ≠ édition)
-6. PDF de remise **après** mise à jour de la TdM
+3. **Saut de page** réel (pas des Entrée) pour séparer page de garde / corps
+4. TdM auto + en-tête / numéros **avant** la relecture finale
+5. Relecture : **commentaires** ou **suggestions**, pas un second fichier
+6. Droits **minimum** (relecture ≠ édition)
+7. PDF de remise **après** mise à jour de la TdM
 
 ---
 
 ## Erreurs fréquentes
 
 - Titres en gras manuel → pas de plan, pas de TdM fiable
+- Des **Entrée** en série pour forcer une nouvelle page (utiliser un **saut de page**)
 - Tout le monde **éditeur** « au cas où »
 - Figure sans légende, ou illisible une fois imprimée
 - Exporter le PDF **avant** d’avoir mis à jour le sommaire
