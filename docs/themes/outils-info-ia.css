@@ -46,12 +46,14 @@ a {
   color: var(--color-primary);
 }
 
-/* Liens de navigation dans le contenu (paragraphes) */
+/* Liens de navigation dans le contenu (paragraphes) —
+   même cadre / police que le bouton footer « Retour à l'accueil »
+   (footer à 0.55em + a à 1em → font-size effectif 0.55em, padding 0.35em 0.75em) */
 section > p > a:not([href^="mailto:"]) {
   display: inline-block;
   margin: 0.15rem 0.35rem 0.15rem 0;
-  padding: 0.3rem 0.7rem;
-  font-size: 0.85em;
+  padding: 0.35em 0.75em;
+  font-size: 0.55em;
   font-weight: 600;
   color: var(--color-primary);
   text-decoration: none;
