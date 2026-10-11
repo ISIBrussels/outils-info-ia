@@ -160,19 +160,7 @@ Un **saut de section** découpe le Doc en **portions** qui peuvent avoir une mis
 
 Pour les voir : **Affichage** → **Afficher les sauts de section**.
 
-Utile dès qu’une règle ne doit pas s’appliquer à tout le fichier (colonnes, en-têtes par portion, etc.).
-
----
-
-## Colonnes sur une portion
-
-Pour mettre **2 colonnes** sur **une partie** seulement (pas tout le Doc) :
-
-1. **Saut de section** avant le passage concerné
-2. **Saut de section** après
-3. Curseur **dans** cette section → **Format** → **Colonnes** → **2**
-
-Sans sauts de section, les colonnes s’appliquent souvent trop large.
+Exemple : **2 colonnes** sur une portion seulement — sauts avant/après, curseur dans la section, puis **Format** → **Colonnes** → **2** (pas tout le Doc).
 
 ---
 
