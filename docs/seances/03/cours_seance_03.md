@@ -130,7 +130,7 @@ Une figure sans légende n’est pas citée dans un rapport.
 
 ## Commentaires
 
-Un **commentaire** porte sur un passage (sélection → icône commentaire, ou `Ctrl`+`Alt`+`M`).
+Un **commentaire** porte sur un passage (sélection → bouton **Commentaire** en **haut à gauche** de l’interface Docs, ou `Ctrl`+`Alt`+`M`).
 
 - Écrire une **demande actionnable** (« préciser la date », pas « ok »)
 - **@nom** pour notifier quelqu’un
