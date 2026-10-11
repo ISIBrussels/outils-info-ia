@@ -319,9 +319,21 @@ jobs:
                   font-size: 0.95rem;
                 }
 
-                tbody td:nth-child(n+3) {
+                /* Cours / Tâches : une ligne (évite « Tâches évaluées » coupé) */
+                thead th:nth-child(3),
+                thead th:nth-child(4),
+                tbody td:nth-child(3),
+                tbody td:nth-child(4) {
                   text-align: center;
-                  width: 7rem;
+                  white-space: nowrap;
+                }
+
+                tbody td:nth-child(3) {
+                  width: 6.5rem;
+                }
+
+                tbody td:nth-child(4) {
+                  width: 12rem;
                 }
 
                 table a {
@@ -333,11 +345,21 @@ jobs:
                   text-decoration: none;
                   background: transparent;
                   border: 1px solid var(--color-primary);
+                  white-space: nowrap;
                 }
 
                 table a:hover {
                   background: var(--color-primary);
                   color: #ffffff;
+                }
+
+                /* Mobile : garder le libellé sur une ligne via scroll horizontal */
+                @media (max-width: 640px) {
+                  table {
+                    display: block;
+                    overflow-x: auto;
+                    -webkit-overflow-scrolling: touch;
+                  }
                 }
 
                 .site-footer {
