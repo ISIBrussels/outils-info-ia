@@ -16,9 +16,9 @@ Ouvrez le **Google Doc** du dossier partagé en séance 2 (enseignant déjà **�
    - Titre : **Outils Info & IA**
    - Sous-titre : **Rapport de travail**
    - Votre nom + matricule, groupe, date
-3. **Styles** : au moins **2 titres niveau 1** et **2 titres niveau 2** (pas du gras manuel)
-4. Corps : courte intro (5–8 lignes) sur « Comment j’organise mon travail scolaire avec Google », 1–2 paragraphes utiles, au moins une **liste** (puces ou numérotée, avec un sous-niveau si pertinent)
-5. **Table des matières** automatique juste après la page de garde
+3. **Styles** : utilisez **Titre 1**, **Titre 2** et **Titre 3** (au moins un de chaque ; pas du gras manuel). Ces 3 niveaux seuls alimentent la TdM — **pas de Titre 4** dans la table des matières
+4. Corps : courte intro (5–8 lignes) sur « Comment j’organise mon travail scolaire avec Google », 1–2 paragraphes utiles, et **une liste numérotée à 4 niveaux** hiérarchiques (`Tab` / `Maj`+`Tab`). Le 4ᵉ niveau reste dans la liste : il n’apparaît **pas** dans la TdM
+5. **Table des matières** automatique juste après la page de garde — **uniquement les niveaux 1 à 3** (Titre 1–3)
 6. **En-tête** : `Outils Info & IA - Rapport` — **pied de page** : **numéro de page** + **votre nom**
 7. **Une figure** avec légende `Figure 1 : …`
 8. **2 commentaires** actionnables pour l’enseignant + **1 suggestion** de reformulation
