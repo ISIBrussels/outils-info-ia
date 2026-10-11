@@ -92,13 +92,14 @@ Pour un livrable paginé : mode **Pages** (pas « sans pages »), sinon le PDF n
 
 ## En-tête, pied de page, numéros
 
-**Insertion** → **En-tête** / **Pied de page** / **Numéros de page**.
+**Insertion** → **En-tête** / **Pied de page** / **Numéros de page** (ou **Éléments de page**).
 
 En pratique :
 
 - En-tête : nom du document ou du projet (court)
-- Pied : **numéro de page** (souvent centré ou à droite)
-- Option : première page **différente** (page de garde sans numéro)
+- Pied : **numéro de page** + éventuellement l’auteur
+
+**Première page différente** : double-clic dans l’en-tête ou le pied → cocher **Première page différente**. La page de garde peut ainsi être **sans** en-tête/pied du corps (ou avec un contenu distinct).
 
 Vérifiez en **aperçu d’impression** avant d’exporter.
 
@@ -122,8 +123,8 @@ Deux menus à connaître tôt :
 
 | Menu | Sert surtout à… |
 | --- | --- |
-| **Insertion** | Ajouter : **image**, **saut** de page, **tableau**, **table des matières**, **éléments de page** (en-tête, pied, numéros)… |
-| **Format** | Soigner le texte : **styles**, alignement, interligne, options de **liste**… |
+| **Insertion** | Ajouter : **image**, **saut** (page / section), **tableau**, **table des matières**, **éléments de page** (en-tête, pied, numéros)… |
+| **Format** | Soigner le texte : **styles**, alignement, interligne, **colonnes**, options de **liste**… |
 
 La barre d’outils reprend les actions du quotidien ; les menus donnent le reste.
 
@@ -148,6 +149,30 @@ Un **saut de page** force le texte suivant à commencer sur une **nouvelle page*
 | --- | --- |
 | Un vrai saut (page de garde → corps, nouvelle section…) | Enchaîner des **Entrée** pour « arriver » sur la page suivante |
 | Reste stable si on modifie le texte au-dessus | Se casse dès qu’on ajoute ou coupe du contenu plus haut |
+
+---
+
+## Sauts de section
+
+Un **saut de section** découpe le Doc en **portions** qui peuvent avoir une mise en forme différente.
+
+**Insertion** → **Saut** → **Saut de section (continu)** ou **Saut de section (page suivante)**.
+
+Pour les voir : **Affichage** → **Afficher les sauts de section**.
+
+Utile dès qu’une règle ne doit pas s’appliquer à tout le fichier (colonnes, en-têtes par portion, etc.).
+
+---
+
+## Colonnes sur une portion
+
+Pour mettre **2 colonnes** sur **une partie** seulement (pas tout le Doc) :
+
+1. **Saut de section** avant le passage concerné
+2. **Saut de section** après
+3. Curseur **dans** cette section → **Format** → **Colonnes** → **2**
+
+Sans sauts de section, les colonnes s’appliquent souvent trop large.
 
 ---
 
@@ -230,7 +255,7 @@ Le PDF est un **instantané** pour remise ou archive. Le Doc Drive reste la vers
 
 ## Tâche — Remplir le Doc partagé (3 points)
 
-Sur le **Doc S2** : nom `YYYY-MM-DD_…` ; page de garde **Outils Info & IA** / **Rapport de travail** ; en-tête / pied imposés ; **liste numérotée à 4 niveaux** ; TdM = **Titre 1–3** seulement ; figure, commentaires + suggestion, **PDF**.
+Sur le **Doc S2** : **4 pages** (garde + 3) ; `YYYY-MM-DD_…` ; garde / en-tête-pied (**1re page différente**) ; liste **4 niveaux** ; TdM Titre 1–3 ; **2 colonnes** sur une sous-section (sauts de section) ; figure, commentaires + suggestion, **PDF**.
 
 → [Tâches évaluées](taches_seance_03.html)
 
