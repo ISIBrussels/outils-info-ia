@@ -198,6 +198,13 @@ blockquote {
   border-left: 4px solid var(--color-primary);
 }
 
+/* Fin de liste à puces : le thème Marp/GitHub laisse souvent un gros blanc
+   après le dernier item de `ul` (pas après `ol`). On annule la marge basse
+   du `ul` sans toucher l’espacement entre items (`li + li`). */
+section ul {
+  margin-bottom: 0;
+}
+
 section .mermaid-diagram {
   display: flex;
   justify-content: center;

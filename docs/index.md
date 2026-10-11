@@ -21,8 +21,8 @@ Ce cours vise à maîtriser les **outils Google** utiles aux études et au trava
 | 1 | Gmail, Agenda, (Tasks et Meet) | [Cours](seances/01/cours_seance_01.md) | [Tâches évaluées](seances/01/taches_seance_01.md) |
 | 2 | Google Drive | [Cours](seances/02/cours_seance_02.md) | [Tâches évaluées](seances/02/taches_seance_02.md) |
 | 3 | Google Docs | [Cours](seances/03/cours_seance_03.md) | [Tâches évaluées](seances/03/taches_seance_03.md) |
-| 4 | Google Sheets 1 | [Cours](seances/04/cours_seance_04.md) | [Tâches évaluées](seances/04/taches_seance_04.md) |
-| 5 | Google Sheets 2 | [Cours](seances/05/cours_seance_05.md) | [Tâches évaluées](seances/05/taches_seance_05.md) |
+| 4 | Google Sheets (1) | [Cours](seances/04/cours_seance_04.md) | [Tâches évaluées](seances/04/taches_seance_04.md) |
+| 5 | Google Sheets (2) | [Cours](seances/05/cours_seance_05.md) | [Tâches évaluées](seances/05/taches_seance_05.md) |
 | 6 | Google Slides | [Cours](seances/06/cours_seance_06.md) | [Tâches évaluées](seances/06/taches_seance_06.md) |
 | 7 | Outils IA (Gemini, NotebookLM, AI Studio) | [Cours](seances/07/cours_seance_07.md) | [Tâches évaluées](seances/07/taches_seance_07.md) |
 

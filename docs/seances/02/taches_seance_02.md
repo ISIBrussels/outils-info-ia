@@ -9,20 +9,20 @@ Thème : Google Drive
 
 ## Tâche 1 — Dossier partagé
 
-Depuis votre compte institutionnel, dans **Mon Drive** :
+Depuis votre compte institutionnel, dans Mon Drive :
 
-1. créez **un dossier** (nom clair, ex. `OutilsInfo_seance02`)
-2. invitez l’enseignant sur **ce dossier** en **lecteur** (*viewer*)
+1. créez un dossier (nom clair, ex. `OutilsInfo_seance02`)
+2. invitez l’enseignant sur ce dossier en lecteur (*viewer*)
 
-C’est un **dossier partagé** (invitation nominative). **Pas** un Drive partagé (espace d’équipe), et **pas** tout Mon Drive.
+C’est un dossier partagé (invitation nominative). Pas un Drive partagé (espace d’équipe), et pas tout Mon Drive.
 
 ## Tâche 2 — Trois fichiers, trois droits
 
-Dans **ce même dossier**, créez **3 fichiers** et réglez les droits de l’enseignant **sur chaque fichier** (ne vous fiez pas seulement à l’héritage du dossier) :
+Dans ce même dossier, créez 3 fichiers et réglez les droits de l’enseignant sur chaque fichier (ne vous fiez pas seulement à l’héritage du dossier) :
 
-1. un Google **Docs** **vide** — enseignant en **éditeur**
-2. un Google **Slides** **vide** — enseignant en **commentateur**
-3. un fichier **tableur** / type Excel (**Google Sheets**) — enseignant en **lecteur** uniquement
+1. un Google Docs vide — enseignant en éditeur
+2. un Google Slides vide — enseignant en commentateur
+3. un fichier tableur / type Excel (Google Sheets) — enseignant en lecteur uniquement
 
 Donnez à chaque fichier un nom lisible (convention de la séance, ex. `AAAA-MM-JJ_OutilsInfo_seance02-docs`).
 
