@@ -55,10 +55,10 @@ Zones à connaître :
 
 1. **Barre de menus** : Fichier, Édition, Insertion, Format…
 2. **Barre d’outils** : gras, listes, liens (raccourcis du quotidien)
-3. **Plan du document** (*outline*, à gauche) : titres cliquables
+3. **Onglets et plan** (icône en haut à gauche) : titres cliquables + onglets du Doc
 4. **Mode** : modification / suggestion / lecture
 
-Affichez le plan : **Affichage** → **Afficher le plan du document**.
+Affichez-les via l’icône **Afficher les onglets et le plan** (haut à gauche). Les **onglets** d’un Doc jouent un rôle proche des **feuilles** dans Sheets : plusieurs sections dans le même fichier.
 
 ---
 
@@ -106,16 +106,13 @@ Vérifiez en **aperçu d’impression** avant d’exporter.
 
 ## Page de garde
 
-Première page = identité du livrable, pas le début du texte.
+Google Docs **n’a pas** de menu Word du type *Insertion → Page de garde* avec modèles prêts. On la construit sur la **1re page** du Doc.
 
-À faire figurer, selon le contexte :
+À y mettre, selon le contexte : **titre**, **auteurs** / équipe, **date**, destinataire ou projet. Éventuellement un logo : **Insertion** → **Image**.
 
-- **Titre** du document
-- **Auteurs** / équipe
-- **Date**
-- Destinataire, projet ou référence
+Ensuite : **Insertion** → **Saut** → **Saut de page** pour que le corps commence page 2. Le titre de garde n’est pas forcément un *Titre 1* du plan.
 
-Laissez le corps commencer **après** (saut de page). Le titre de garde n’est pas forcément un *Titre 1* du plan.
+Numéros : **Insertion** → **Éléments de page** → **Numéro de page** (options pour démarrer après la page de garde / première page différente).
 
 ---
 
@@ -154,22 +151,6 @@ Trois modes en haut à droite :
 | **Lecture** | On lit, on ne casse rien |
 
 Pour une relecture : **suggestion** (ou commentateur au partage). Pour rédiger à deux : **modification**, avec un accord sur qui touche à quoi.
-
----
-
-## Partage : rappel séance 2
-
-Les droits s’appliquent aussi au Doc :
-
-| Rôle | Pour… |
-| --- | --- |
-| **Lecteur** | Consulter / souvent exporter |
-| **Commentateur** | Relire sans réécrire |
-| **Éditeur** | Rédiger ensemble |
-
-Le dossier peut donner un droit **héritage** ; on peut **monter** le rôle sur un fichier (ex. lecteur sur le dossier, éditeur sur ce Doc).
-
-Vérifier **qui peut ouvrir** avant d’envoyer le lien.
 
 ---
 
