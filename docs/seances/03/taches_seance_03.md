@@ -27,7 +27,7 @@ Ouvrez le **Google Doc** du dossier partagé en séance 2 (enseignant déjà **�
 7. Sur **une** sous-section du corps (ex. un chapitre type 3.2.1) : disposition **2 colonnes**, via **sauts de section** avant/après — **pas** tout le Doc en 2 colonnes (`Format` → `Colonnes` → `2` dans la section)
 8. **Une figure** avec légende `Figure 1 : …`
 9. **2 commentaires** actionnables pour l’enseignant + **1 suggestion** de reformulation
-10. **PDF** (`Fichier` → `Télécharger` → `PDF`), nommé en parallèle (aussi avec `YYYY-MM-DD`), déposé **dans le même dossier** Drive
+10. Un **PDF** du Doc, nommé en parallèle (aussi avec `YYYY-MM-DD`), déposé **dans le même dossier** Drive
 
 L’enseignant vérifie dans Drive (droits éditeur déjà en place depuis la S2).
 
