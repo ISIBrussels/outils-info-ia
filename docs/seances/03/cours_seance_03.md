@@ -11,15 +11,31 @@ footer: "[← Retour à l'accueil](../../index.html)"
 
 Google Docs
 
+Éditer le Doc déjà partagé en séance 2
+
 ---
 
 ## Objectifs de la séance
 
-- Créer un **Google Doc** au bon endroit dans Drive
+- Rouvrir le **Google Doc** créé en S2 (enseignant déjà **éditeur**)
 - Structurer avec des **styles** (titres), pas du gras manuel
 - Ajouter **table des matières**, **en-tête**, **numéros de page**, **figures**
 - Collaborer : **commentaires** et **mode suggestion**
 - Exporter un **PDF** lisible (sauts de page, sommaire)
+
+---
+
+## Fil rouge : le Doc de la séance 2
+
+En S2 vous avez créé un **Docs vide** et partagé l’enseignant en **éditeur**.
+
+Aujourd’hui : on **remplit et structure ce même fichier**.
+
+- Pas de second Doc « pour la S3 »
+- Le dossier Drive + les droits restent ceux de la S2
+- L’enseignant voit vos progrès **directement dans Drive**
+
+Rappel S2 : le fichier vit dans Drive ; le lien + les **droits** valent mieux qu’une PJ.
 
 ---
 
@@ -37,15 +53,15 @@ Word reste possible : on peut **importer** / **exporter** `.docx`. Pour collabor
 
 ---
 
-## Créer au bon endroit
+## Ouvrir au bon endroit
 
-Depuis **Drive**, bouton **Nouveau** → **Google Docs**.
+Depuis **Drive**, ouvrez le Doc de la S2 (dossier partagé, pas un fichier orphelin).
 
-- Créez le fichier **dans le dossier** du projet (évite « Documents sans titre » à la racine)
-- Nommez tout de suite : `AAAA-MM-JJ_Projet_description`
-- Un Doc « orphelin » se retrouve souvent dans *Récents*, pas dans votre arborescence
+- Si le titre est encore « Document sans titre » : renommez tout de suite (`AAAA-MM-JJ_…`)
+- Vérifiez que vous êtes bien **dans le dossier** du projet (pas seulement via *Récents*)
+- Contrôlez le partage : l’enseignant doit toujours être **éditeur**
 
-Rappel S2 : le fichier vit dans Drive ; le lien + les **droits** valent mieux qu’une PJ.
+Créer un Doc neuf n’est utile que pour un **nouveau** livrable — pas pour cette séance.
 
 ---
 
@@ -167,9 +183,9 @@ Les droits s’appliquent aussi au Doc :
 | **Commentateur** | Relire sans réécrire |
 | **Éditeur** | Rédiger ensemble |
 
-Le dossier peut donner un droit **héritage** ; on peut **monter** le rôle sur un fichier (ex. lecteur sur le dossier, éditeur sur ce Doc).
+Pour la tâche S3 : l’enseignant est déjà **éditeur** sur votre Doc — inutile de recréer le partage.
 
-Vérifier **qui peut ouvrir** avant d’envoyer le lien.
+Vérifier **qui peut ouvrir** avant d’envoyer un lien à quelqu’un d’autre.
 
 ---
 
@@ -207,12 +223,13 @@ Le PDF est un **instantané** pour remise ou archive. Le Doc Drive reste la vers
 3. TdM auto + en-tête / numéros **avant** la relecture finale
 4. Relecture : **commentaires** ou **suggestions**, pas un second fichier
 5. Droits **minimum** (relecture ≠ édition)
-6. PDF de remise **après** mise à jour de la TdM
+6. PDF de contrôle **après** mise à jour de la TdM
 
 ---
 
 ## Erreurs fréquentes
 
+- Créer un **nouveau** Doc au lieu d’éditer celui de la S2
 - Titres en gras manuel → pas de plan, pas de TdM fiable
 - Tout le monde **éditeur** « au cas où »
 - Figure sans légende, ou illisible une fois imprimée
@@ -221,8 +238,30 @@ Le PDF est un **instantané** pour remise ou archive. Le Doc Drive reste la vers
 
 ---
 
-## Tâches évaluées
+## Tâche 1 — Structurer le Doc partagé
 
-**TBA**
+Sur le **Doc S2** (enseignant éditeur) :
+
+page de garde, **styles** Titre 1 / Titre 2, **TdM** auto, intro, **figure** + légende, en-tête et **numéros de page**.
+
+→ [Tâches évaluées](taches_seance_03.html)
+
+---
+
+## Tâche 2 — Collaboration et PDF
+
+Sur **ce même Doc** :
+
+1. **2 commentaires** actionnables pour l’enseignant
+2. **1 suggestion** de reformulation
+3. **PDF** déposé dans le même dossier Drive
+
+→ [Tâches évaluées](taches_seance_03.html)
+
+---
+
+## Deadline
+
+Réalisation des deux tâches : **au plus tard la veille de la prochaine séance, à 20:00**.
 
 → [Tâches évaluées](taches_seance_03.html)
