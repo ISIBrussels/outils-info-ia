@@ -116,25 +116,27 @@ Numéros : **Insertion** → **Éléments de page** → **Numéro de page** (opt
 
 ---
 
-## Listes : puces et numéros
+## Menus Insertion et Format
 
-Dans la **barre d’outils** Docs :
+Deux menus à connaître tôt :
 
-- **Liste à puces** : points, sans ordre imposé
-- **Liste numérotée** : 1, 2, 3… (ou a, b, c… selon le style)
+| Menu | Sert surtout à… |
+| --- | --- |
+| **Insertion** | Ajouter : **image**, **saut** de page, **tableau**, **table des matières**, **éléments de page** (en-tête, pied, numéros)… |
+| **Format** | Soigner le texte : **styles**, alignement, interligne, options de **liste**… |
 
-Sélectionnez les lignes, puis cliquez l’icône correspondante. Évitez de taper `1.` ou `-` à la main si vous voulez une liste stable.
+La barre d’outils reprend les actions du quotidien ; les menus donnent le reste.
 
 ---
 
-## Listes : niveaux et titres
+## Listes
 
-Dans une liste (surtout **numérotée**) :
+Dans la **barre d’outils** (ou **Format**) :
 
-- **Tab** (ou indent) : descendre d’un **niveau** (sous-point)
-- **Maj**+**Tab** : remonter d’un niveau
+- **Puces** : sans ordre imposé — **numérotées** : 1, 2, 3… (évitez de taper `1.` / `-` à la main)
+- **Tab** / **Maj**+**Tab** (ou indent) : descendre / remonter d’un **niveau** dans la liste
 
-Idée BA1 : **aligner niveau de titre et niveau de liste** — sous un *Titre 1*, items de niveau 1 ; sous un *Titre 2*, sous-liste ; etc. Même hiérarchie partout = document lisible.
+Idée BA1 : **lier niveau de titre ↔ niveau de liste** — *Titre 1* → items niveau 1 ; *Titre 2* → sous-liste ; etc. Même hiérarchie partout.
 
 ---
 
