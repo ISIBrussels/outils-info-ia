@@ -42,7 +42,7 @@ Word reste possible : on peut **importer** / **exporter** `.docx`. Pour collabor
 Depuis **Drive**, bouton **Nouveau** → **Google Docs**.
 
 - Créez le fichier **dans le dossier** du projet (évite « Documents sans titre » à la racine)
-- Nommez tout de suite : `AAAA-MM-JJ_Projet_description`
+- Nommez tout de suite : cliquez le **titre en haut à gauche** du Doc (pas besoin de passer par Drive) — ex. `AAAA-MM-JJ_Projet_description`
 - Un Doc « orphelin » se retrouve souvent dans *Récents*, pas dans votre arborescence
 
 Rappel S2 : le fichier vit dans Drive ; le lien + les **droits** valent mieux qu’une PJ.
