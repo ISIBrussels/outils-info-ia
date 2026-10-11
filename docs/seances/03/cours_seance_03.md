@@ -11,31 +11,15 @@ footer: "[← Retour à l'accueil](../../index.html)"
 
 Google Docs
 
-Éditer le Doc déjà partagé en séance 2
-
 ---
 
 ## Objectifs de la séance
 
-- Rouvrir le **Google Doc** créé en S2 (enseignant déjà **éditeur**)
+- Créer un **Google Doc** au bon endroit dans Drive
 - Structurer avec des **styles** (titres), pas du gras manuel
 - Ajouter **table des matières**, **en-tête**, **numéros de page**, **figures**
 - Collaborer : **commentaires** et **mode suggestion**
 - Exporter un **PDF** lisible (sauts de page, sommaire)
-
----
-
-## Fil rouge : le Doc de la séance 2
-
-En S2 vous avez créé un **Docs vide** et partagé l’enseignant en **éditeur**.
-
-Aujourd’hui : on **remplit et structure ce même fichier**.
-
-- Pas de second Doc « pour la S3 »
-- Le dossier Drive + les droits restent ceux de la S2
-- L’enseignant voit vos progrès **directement dans Drive**
-
-Rappel S2 : le fichier vit dans Drive ; le lien + les **droits** valent mieux qu’une PJ.
 
 ---
 
@@ -53,15 +37,15 @@ Word reste possible : on peut **importer** / **exporter** `.docx`. Pour collabor
 
 ---
 
-## Ouvrir au bon endroit
+## Créer au bon endroit
 
-Depuis **Drive**, ouvrez le Doc de la S2 (dossier partagé, pas un fichier orphelin).
+Depuis **Drive**, bouton **Nouveau** → **Google Docs**.
 
-- Si le titre est encore « Document sans titre » : renommez tout de suite (`AAAA-MM-JJ_…`)
-- Vérifiez que vous êtes bien **dans le dossier** du projet (pas seulement via *Récents*)
-- Contrôlez le partage : l’enseignant doit toujours être **éditeur**
+- Créez le fichier **dans le dossier** du projet (évite « Documents sans titre » à la racine)
+- Nommez tout de suite : `AAAA-MM-JJ_Projet_description`
+- Un Doc « orphelin » se retrouve souvent dans *Récents*, pas dans votre arborescence
 
-Créer un Doc neuf n’est utile que pour un **nouveau** livrable — pas pour cette séance.
+Rappel S2 : le fichier vit dans Drive ; le lien + les **droits** valent mieux qu’une PJ.
 
 ---
 
@@ -183,9 +167,9 @@ Les droits s’appliquent aussi au Doc :
 | **Commentateur** | Relire sans réécrire |
 | **Éditeur** | Rédiger ensemble |
 
-Pour la tâche S3 : l’enseignant est déjà **éditeur** sur votre Doc — inutile de recréer le partage.
+Le dossier peut donner un droit **héritage** ; on peut **monter** le rôle sur un fichier (ex. lecteur sur le dossier, éditeur sur ce Doc).
 
-Vérifier **qui peut ouvrir** avant d’envoyer un lien à quelqu’un d’autre.
+Vérifier **qui peut ouvrir** avant d’envoyer le lien.
 
 ---
 
@@ -216,20 +200,19 @@ Le PDF est un **instantané** pour remise ou archive. Le Doc Drive reste la vers
 
 ---
 
-## Bonnes pratiques (contexte pro)
+## Bonnes pratiques
 
 1. Un Doc **dans le dossier** du projet, nommé clairement
 2. **Styles** de titres dès la première section
 3. TdM auto + en-tête / numéros **avant** la relecture finale
 4. Relecture : **commentaires** ou **suggestions**, pas un second fichier
 5. Droits **minimum** (relecture ≠ édition)
-6. PDF de contrôle **après** mise à jour de la TdM
+6. PDF de remise **après** mise à jour de la TdM
 
 ---
 
 ## Erreurs fréquentes
 
-- Créer un **nouveau** Doc au lieu d’éditer celui de la S2
 - Titres en gras manuel → pas de plan, pas de TdM fiable
 - Tout le monde **éditeur** « au cas où »
 - Figure sans légende, ou illisible une fois imprimée
