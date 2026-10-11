@@ -230,7 +230,7 @@ Le PDF est un **instantané** pour remise ou archive. Le Doc Drive reste la vers
 
 ## Tâche — Remplir le Doc partagé (3 points)
 
-Sur le **Doc S2** (enseignant déjà éditeur) : page de garde, **styles**, **listes**, **TdM**, en-tête / numéros, **figure**, commentaires + suggestion, **PDF** dans le même dossier.
+Sur le **Doc S2** : nom `YYYY-MM-DD_…` ; page de garde **Outils Info & IA** / **Rapport de travail** ; en-tête `Outils Info & IA - Rapport` ; pied = n° de page + nom ; styles, listes, TdM, figure, commentaires + suggestion, **PDF**.
 
 → [Tâches évaluées](taches_seance_03.html)
 

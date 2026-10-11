@@ -9,21 +9,22 @@ Thème : Google Docs — remplir le Doc déjà partagé en séance 2
 
 ## Tâche — Remplir le Doc partagé (3 points)
 
-Ouvrez le **Google Doc** du dossier partagé en séance 2 (celui où l’enseignant est déjà **éditeur**). Travaillez **dans ce fichier** — ne créez pas un second Doc.
+Ouvrez le **Google Doc** du dossier partagé en séance 2 (enseignant déjà **éditeur**). Travaillez **dans ce fichier** — pas de second Doc.
 
-À y mettre (structure minimale vue en cours) :
-
-1. **Nom** clair si besoin (clic sur le titre en haut à gauche) — ex. `AAAA-MM-JJ_OutilsInfo_seance03-docs`
-2. **Page de garde** : titre, votre nom + matricule, groupe, date, cours (**Outils informatiques & IA**) — puis un vrai **saut de page**
+1. **Nom du fichier** (obligatoire) : doit contenir une **date** au format `YYYY-MM-DD_…` (clic sur le titre en haut à gauche) — ex. `2026-10-12_OutilsInfo_rapport-docs`
+2. **Page de garde** puis **saut de page** :
+   - Titre : **Outils Info & IA**
+   - Sous-titre : **Rapport de travail**
+   - Votre nom + matricule, groupe, date
 3. **Styles** : au moins **2 titres niveau 1** et **2 titres niveau 2** (pas du gras manuel)
-4. Sous les titres : une courte intro (5–8 lignes) sur « Comment j’organise mon travail scolaire avec Google », plus 1–2 paragraphes utiles ; au moins une **liste** (puces ou numérotée, avec un sous-niveau si pertinent)
+4. Corps : courte intro (5–8 lignes) sur « Comment j’organise mon travail scolaire avec Google », 1–2 paragraphes utiles, au moins une **liste** (puces ou numérotée, avec un sous-niveau si pertinent)
 5. **Table des matières** automatique juste après la page de garde
-6. **En-tête** (cours + votre nom) et **numéros de page**
+6. **En-tête** : `Outils Info & IA - Rapport` — **pied de page** : **numéro de page** + **votre nom**
 7. **Une figure** avec légende `Figure 1 : …`
-8. Collaboration sur ce Doc : **2 commentaires** actionnables pour l’enseignant + **1 suggestion** de reformulation
-9. **PDF** exporté (`Fichier` → `Télécharger` → `PDF`), nommé en parallèle, déposé **dans le même dossier** Drive — contrôlez TdM, sauts de page, figure, en-tête / numéros
+8. **2 commentaires** actionnables pour l’enseignant + **1 suggestion** de reformulation
+9. **PDF** (`Fichier` → `Télécharger` → `PDF`), nommé en parallèle (aussi avec `YYYY-MM-DD`), déposé **dans le même dossier** Drive
 
-L’enseignant vérifie directement dans Drive (droits éditeur déjà en place depuis la S2).
+L’enseignant vérifie dans Drive (droits éditeur déjà en place depuis la S2).
 
 **Deadline : la veille de la prochaine séance, 20:00**
 
