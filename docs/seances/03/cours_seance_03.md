@@ -116,7 +116,29 @@ Numéros : **Insertion** → **Éléments de page** → **Numéro de page** (opt
 
 ---
 
-## Saut de page (pas Entrée × 20)
+## Listes : puces et numéros
+
+Dans la **barre d’outils** Docs :
+
+- **Liste à puces** : points, sans ordre imposé
+- **Liste numérotée** : 1, 2, 3… (ou a, b, c… selon le style)
+
+Sélectionnez les lignes, puis cliquez l’icône correspondante. Évitez de taper `1.` ou `-` à la main si vous voulez une liste stable.
+
+---
+
+## Listes : niveaux et titres
+
+Dans une liste (surtout **numérotée**) :
+
+- **Tab** (ou indent) : descendre d’un **niveau** (sous-point)
+- **Maj**+**Tab** : remonter d’un niveau
+
+Idée BA1 : **aligner niveau de titre et niveau de liste** — sous un *Titre 1*, items de niveau 1 ; sous un *Titre 2*, sous-liste ; etc. Même hiérarchie partout = document lisible.
+
+---
+
+## Saut de page
 
 Un **saut de page** force le texte suivant à commencer sur une **nouvelle page** : **Insertion** → **Saut** → **Saut de page**.
 
