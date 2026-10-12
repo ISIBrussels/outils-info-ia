@@ -1,4 +1,4 @@
-# Séance 2 — Tâches évaluées
+# Séance 2 : Tâches évaluées
 
 Thème : Google Drive
 
@@ -7,7 +7,7 @@ Thème : Google Drive
   <a href="../../index.html">Accueil</a>
 </nav>
 
-## Tâche 1 — Dossier partagé
+## Tâche 1 : Dossier partagé
 
 Depuis votre compte institutionnel, dans Mon Drive :
 
@@ -16,13 +16,13 @@ Depuis votre compte institutionnel, dans Mon Drive :
 
 C’est un dossier partagé (invitation nominative). Pas un Drive partagé (espace d’équipe), et pas tout Mon Drive.
 
-## Tâche 2 — Trois fichiers, trois droits
+## Tâche 2 : Trois fichiers, trois droits
 
 Dans ce même dossier, créez 3 fichiers et réglez les droits de l’enseignant sur chaque fichier (ne vous fiez pas seulement à l’héritage du dossier) :
 
-1. un Google Docs vide — enseignant en éditeur
-2. un Google Slides vide — enseignant en commentateur
-3. un fichier tableur / type Excel (Google Sheets) — enseignant en lecteur uniquement
+1. un Google Docs vide : enseignant en éditeur
+2. un Google Slides vide : enseignant en commentateur
+3. un fichier tableur / type Excel (Google Sheets) : enseignant en lecteur uniquement
 
 Donnez à chaque fichier un nom lisible (convention de la séance, ex. `AAAA-MM-JJ_OutilsInfo_seance02-docs`).
 

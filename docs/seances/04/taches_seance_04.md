@@ -1,6 +1,6 @@
-# Séance 4 — Tâches évaluées
+# Séance 4 : Tâches évaluées
 
-Thème : Google Sheets (1) — tableaux, formules de base, mise en forme
+Thème : Google Sheets (1) : tableaux, formules de base, mise en forme
 
 <nav class="page-nav">
   <a href="cours_seance_04.html">← Cours</a>

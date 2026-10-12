@@ -1,6 +1,6 @@
-# Séance 5 — Tâches évaluées
+# Séance 5 : Tâches évaluées
 
-Thème : Google Sheets (2) — graphiques, validation / propreté ; Forms → Sheets
+Thème : Google Sheets (2) : graphiques, validation / propreté ; Forms → Sheets
 
 <nav class="page-nav">
   <a href="cours_seance_05.html">← Cours</a>

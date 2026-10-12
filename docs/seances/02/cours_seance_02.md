@@ -1,9 +1,9 @@
 ---
 marp: true
 theme: outils-info-ia
-title: "Séance 2 — Google Drive"
+title: "Séance 2 : Google Drive"
 paginate: true
-header: "Outils Info & IA — Séance 2 [Sylvain Huraux - HE2B - ISIB](mailto:shuraux@he2b.be)"
+header: "Outils Info & IA : Séance 2 [Sylvain Huraux - HE2B - ISIB](mailto:shuraux@he2b.be)"
 footer: "[← Retour à l'accueil](../../index.html)"
 ---
 
@@ -241,20 +241,20 @@ En pratique, synchroniser Drive est **très conseillé** :
 
 ---
 
-## Tâche 1 — Dossier partagé
+## Tâche 1 : Dossier partagé
 
 Dans **Mon Drive** (compte institutionnel) :
 
 1. créez **un dossier** (ex. `OutilsInfo_seance02`)
 2. invitez l’enseignant sur **ce dossier** en **lecteur** (*viewer*)
 
-**Dossier partagé** (invitation nominative) — pas un Drive partagé, pas tout Mon Drive.
+**Dossier partagé** (invitation nominative) : pas un Drive partagé, pas tout Mon Drive.
 
 → [Tâches évaluées](taches_seance_02.html)
 
 ---
 
-## Tâche 2 — Trois fichiers, trois droits
+## Tâche 2 : Trois fichiers, trois droits
 
 Dans **ce même dossier**, 3 fichiers ; droits de l’enseignant **par fichier** :
 
@@ -262,7 +262,7 @@ Dans **ce même dossier**, 3 fichiers ; droits de l’enseignant **par fichier**
 | --- | --- | --- |
 | Google **Docs** | vide | **éditeur** |
 | Google **Slides** | vide | **commentateur** |
-| **Tableur** / type Excel (Google **Sheets**) | — | **lecteur** uniquement |
+| **Tableur** / type Excel (Google **Sheets**) | - | **lecteur** uniquement |
 
 Noms lisibles (ex. `AAAA-MM-JJ_OutilsInfo_seance02-docs`).
 

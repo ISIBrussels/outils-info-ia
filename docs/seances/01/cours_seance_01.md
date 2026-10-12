@@ -1,9 +1,9 @@
 ---
 marp: true
 theme: outils-info-ia
-title: "Séance 1 — Gmail, Agenda, (Tasks et Meet)"
+title: "Séance 1 : Gmail, Agenda, (Tasks et Meet)"
 paginate: true
-header: "Outils Info & IA — Séance 1 [Sylvain Huraux - HE2B - ISIB](mailto:shuraux@he2b.be)"
+header: "Outils Info & IA : Séance 1 [Sylvain Huraux - HE2B - ISIB](mailto:shuraux@he2b.be)"
 footer: "[← Retour à l'accueil](../../index.html)"
 ---
 
@@ -105,7 +105,7 @@ Objectif : boîte de réception ≈ liste de tâches, pas un grenier.
 
 1. **Objet** précis : `[TI1] Question séance 3, boucles`
 2. **Salutation** adaptée
-3. **Contexte** en 1–2 phrases
+3. **Contexte** en 1-2 phrases
 4. **Demande** claire (une question principale)
 5. **Infos utiles** : groupe, séance, deadline
 6. **Formule de politesse** + signature (**nom** + **matricule** + **année avec groupe**)
@@ -170,7 +170,7 @@ En cas de doute : **ne pas cliquer**, vérifier via un autre canal, signaler com
 
 ---
 
-## Google Agenda — le calendrier
+## Google Agenda : le calendrier
 
 Un **agenda** (*calendar*) = un calendrier : la vue d’ensemble de votre temps (jours, semaines, mois).
 
@@ -242,7 +242,7 @@ Pour planifier un rendez-vous avec quelqu’un → **événement**. Pour une lis
 
 ---
 
-## Tâche 1 — Mail simple
+## Tâche 1 : Mail simple
 
 Envoyez **un seul mail** depuis le compte **institutionnel** à l’enseignant.
 
@@ -256,7 +256,7 @@ Envoyez **un seul mail** depuis le compte **institutionnel** à l’enseignant.
 
 ---
 
-## Tâche 2 — Invitation à un événement
+## Tâche 2 : Invitation à un événement
 
 Créez un **événement** Agenda et **invitez l’enseignant**.
 

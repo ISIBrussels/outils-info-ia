@@ -1,6 +1,6 @@
-# Séance 7 — Tâches évaluées
+# Séance 7 : Tâches évaluées
 
-Thème : Outils IA — Gemini + NotebookLM + Google AI Studio
+Thème : Outils IA : Gemini + NotebookLM + Google AI Studio
 
 <nav class="page-nav">
   <a href="cours_seance_07.html">← Cours</a>

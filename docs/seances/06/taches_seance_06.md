@@ -1,6 +1,6 @@
-# Séance 6 — Tâches évaluées
+# Séance 6 : Tâches évaluées
 
-Thème : Google Slides — éditer le Slides déjà partagé en séance 2
+Thème : Google Slides : éditer le Slides déjà partagé en séance 2
 
 <nav class="page-nav">
   <a href="cours_seance_06.html">← Cours</a>
