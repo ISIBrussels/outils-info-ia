@@ -188,14 +188,14 @@ S5 ira plus loin (validation, mise en forme conditionnelle, graphiques).
 
 ## Erreurs fréquentes
 
-| Affichage | Cause typique | Piste |
+| Affichage | Cause | Piste |
 | --- | --- | --- |
-| `#DIV/0!` | Division par zéro (ou cellule vide traitée comme 0) | Vérifier le dénominateur |
-| `#REF!` | Référence vers une cellule **supprimée** | Réécrire la formule |
-| `#VALUE!` / résultat bizarre | **Texte** là où un nombre est attendu | Typer / reformater en nombre |
-| Formule affichée telle quelle | Oubli du `=` ou cellule en format texte | Corriger et valider |
+| `#DIV/0!` | Division par zéro | Vérifier le dénominateur |
+| `#REF!` | Cellule **supprimée** | Réécrire la formule |
+| `#VALUE!` | **Texte** au lieu d’un nombre | Reformater en nombre |
+| Formule visible | Oubli du `=` | Ajouter `=` et valider |
 
-Astuce : alignez une colonne « nombres » : si tout n’est pas à droite, cherchez les textes déguisés.
+Colonne de nombres : si ce n’est pas aligné à droite, cherchez du texte déguisé.
 
 ---
 
