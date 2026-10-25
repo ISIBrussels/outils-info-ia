@@ -14,6 +14,13 @@ Ce cours vise à maîtriser les **outils Google** utiles aux études et au trava
 - format : démonstration → pratique guidée → **tâches évaluées**
 - compte **Google / Workspace étudiant**. Explications en **français** (interfaces souvent en anglais)
 
+<div class="home-list-sep" aria-hidden="true"></div>
+
+<ul class="format-eval">
+<li>Format : 7 séances de 1 heure et demi</li>
+<li>Evaluation : évaluation continue, tâches à effectuer entre chaque séance</li>
+</ul>
+
 ## Tableau des séances
 
 | Séance | Thème | Cours | Tâches évaluées |
