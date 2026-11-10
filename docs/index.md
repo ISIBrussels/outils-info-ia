@@ -1,25 +1,16 @@
 # Outils informatiques & IA
 
-Bienvenue. Ce site est destiné aux étudiants de l'activité d'apprentissage **Outils informatiques & IA** du **1<sup>e</sup> bachelier** ingénieur industriel à l'**ISIB** (HE2B).
+Bienvenue. Ce site est destiné aux étudiants de l'activité d'apprentissage **Outils informatiques & IA** du 1e bachelier à l'ISIB (HE2B).
 
-Vous y trouverez :
+Vous y trouverez l'ensemble des ressources du cours :
 
-- le **cours** sous deux formes : les **slides** (Marp) et un **syllabus** (objectifs, format, évaluation, planning)
-- les **consignes de tâches évaluées** à réaliser
+- le cours sous deux formes : slides et syllabus
+- les consignes de tâches évaluées
 
-Ce cours vise à maîtriser les **outils Google** utiles aux études et au travail d'équipe :
+<!-- sépare les deux listes (sinon Markdown les fusionne) -->
 
-- suite Google : Gmail, Agenda, Drive, Docs, Sheets (×2), Slides
-- IA Google : Gemini, NotebookLM, Google AI Studio : usage **critique** et responsable
-- format : démonstration → pratique guidée → **tâches évaluées**
-- compte **Google / Workspace étudiant**. Explications en **français** (interfaces souvent en anglais)
-
-<div class="home-list-sep" aria-hidden="true"></div>
-
-<ul class="format-eval">
-<li>Format : 7 séances de 1 heure et demi</li>
-<li>Evaluation : évaluation continue, tâches à effectuer entre chaque séance</li>
-</ul>
+- **Format** : 7 séances de 1 heure et demi
+- **Évaluation** : évaluation continue, tâches à effectuer entre chaque séance
 
 ## Tableau des séances
 
