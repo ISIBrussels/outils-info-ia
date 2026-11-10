@@ -208,23 +208,23 @@ pre code {
 }
 
 /*
- * Variante 4 colonnes (outils-info-ia) : Séance | Thème | Cours | Tâches.
+ * Variante outils-info-ia : Séance | Thème | Cours (colspan=2 : Slides + Syllabus) | Tâches.
  * Appliquer `class="home-table--tasks"` sur le <table> (HTML) ou envelopper.
+ * thead : 4 th (Cours en colspan 2) ; tbody : 5 td.
  */
-.page-home table.home-table--tasks thead th:nth-child(3),
-.page-home table.home-table--tasks thead th:nth-child(4),
-.page-home table.home-table--tasks tbody td:nth-child(3),
-.page-home table.home-table--tasks tbody td:nth-child(4) {
+.page-home table.home-table--tasks thead th:nth-child(n + 3),
+.page-home table.home-table--tasks tbody td:nth-child(n + 3) {
   text-align: center;
   white-space: nowrap;
   width: auto;
 }
 
-.page-home table.home-table--tasks tbody td:nth-child(3) {
+.page-home table.home-table--tasks tbody td:nth-child(3),
+.page-home table.home-table--tasks tbody td:nth-child(4) {
   width: 6.5rem;
 }
 
-.page-home table.home-table--tasks tbody td:nth-child(4) {
+.page-home table.home-table--tasks tbody td:nth-child(5) {
   width: 12rem;
 }
 
