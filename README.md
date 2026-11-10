@@ -43,6 +43,6 @@ Alignée sur les dépôts `methodo-algo` et `labo-tech-info-*` :
 - `docs/index.md` : page d'accueil du site GitHub Pages
 - `docs/syllabus.md` : syllabus du module (objectifs, format, évaluation, planning)
 - `docs/seances/NN/` : contenu de chaque séance (`cours_seance_NN.md` Marp, `taches_seance_NN.md`)
-- `docs/themes/` : thème Marp
+- `docs/themes/` : thème Marp canonique ISIB (`isib.css`, `pages.css`) + alias `outils-info-ia.css`
 - `.github/workflows/deploy.yml` : build Marp + déploiement Pages
 - `private-notes/` : notes personnelles (ignorées par git)
