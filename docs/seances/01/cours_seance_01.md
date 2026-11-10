@@ -1,6 +1,6 @@
 ---
 marp: true
-theme: outils-info-ia
+theme: isib
 title: "Séance 1 : Gmail, Agenda, (Tasks et Meet)"
 paginate: true
 header: "Outils Info & IA : Séance 1 [Sylvain Huraux - HE2B - ISIB](mailto:shuraux@he2b.be)"

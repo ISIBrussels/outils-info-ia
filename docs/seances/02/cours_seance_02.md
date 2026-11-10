@@ -1,6 +1,6 @@
 ---
 marp: true
-theme: outils-info-ia
+theme: isib
 title: "Séance 2 : Google Drive"
 paginate: true
 header: "Outils Info & IA : Séance 2 [Sylvain Huraux - HE2B - ISIB](mailto:shuraux@he2b.be)"

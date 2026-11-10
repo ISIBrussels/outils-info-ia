@@ -1,6 +1,6 @@
 ---
 marp: true
-theme: outils-info-ia
+theme: isib
 title: "Séance 6 : Google Slides"
 paginate: true
 header: "Outils Info & IA : Séance 6 [Sylvain Huraux - HE2B - ISIB](mailto:shuraux@he2b.be)"

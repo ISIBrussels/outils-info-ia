@@ -1,6 +1,6 @@
 ---
 marp: true
-theme: outils-info-ia
+theme: isib
 title: "Séance 5 : Google Sheets (2)"
 paginate: true
 header: "Outils Info & IA : Séance 5 [Sylvain Huraux - HE2B - ISIB](mailto:shuraux@he2b.be)"

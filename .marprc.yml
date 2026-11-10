@@ -1,4 +1,5 @@
 themeSet:
-  - docs/themes
-theme: outils-info-ia
+  - docs/themes/isib.css
+  - docs/themes/outils-info-ia.css
+theme: isib
 html: true
