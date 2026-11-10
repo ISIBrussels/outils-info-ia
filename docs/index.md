@@ -4,13 +4,14 @@ Bienvenue. Ce site est destiné aux étudiants de l'activité d'apprentissage **
 
 Vous y trouverez :
 
+- le [**syllabus**](syllabus.md) (objectifs, format, évaluation, planning)
 - les **slides de cours**
 - les **consignes de tâches évaluées** à réaliser
 
 Ce cours vise à maîtriser les **outils Google** utiles aux études et au travail d'équipe :
 
 - suite Google : Gmail, Agenda, Drive, Docs, Sheets (×2), Slides
-- IA Google : Gemini, NotebookLM, Google AI Studio — usage **critique** et responsable
+- IA Google : Gemini, NotebookLM, Google AI Studio : usage **critique** et responsable
 - format : démonstration → pratique guidée → **tâches évaluées**
 - compte **Google / Workspace étudiant**. Explications en **français** (interfaces souvent en anglais)
 

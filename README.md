@@ -11,6 +11,7 @@ Dépôt du cours **Outils informatiques & IA** (1<sup>e</sup> année ingénieur 
 
 - Landing page GitHub Pages : [https://isibrussels.github.io/outils-info-ia/](https://isibrussels.github.io/outils-info-ia/)  
   *(dépôt : [`ISIBrussels/outils-info-ia`](https://github.com/ISIBrussels/outils-info-ia))*
+- Syllabus : [docs/syllabus.md](docs/syllabus.md) · [page live](https://isibrussels.github.io/outils-info-ia/syllabus.html)
 - Slides de cours et tâches évaluées : liens ci-dessous
 
 ## Plan des séances
@@ -39,8 +40,9 @@ Dépôt du cours **Outils informatiques & IA** (1<sup>e</sup> année ingénieur 
 
 Alignée sur les dépôts `methodo-algo` et `labo-tech-info-*` :
 
-- `docs/index.md` — page d'accueil du site GitHub Pages
-- `docs/seances/NN/` — contenu de chaque séance (`cours_seance_NN.md` Marp, `taches_seance_NN.md`)
-- `docs/themes/` — thème Marp
-- `.github/workflows/deploy.yml` — build Marp + déploiement Pages
-- `private-notes/` — notes personnelles (ignorées par git)
+- `docs/index.md` : page d'accueil du site GitHub Pages
+- `docs/syllabus.md` : syllabus du module (objectifs, format, évaluation, planning)
+- `docs/seances/NN/` : contenu de chaque séance (`cours_seance_NN.md` Marp, `taches_seance_NN.md`)
+- `docs/themes/` : thème Marp
+- `.github/workflows/deploy.yml` : build Marp + déploiement Pages
+- `private-notes/` : notes personnelles (ignorées par git)
