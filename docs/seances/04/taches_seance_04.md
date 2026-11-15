@@ -3,8 +3,9 @@
 Thème : Google Sheets (1) : tableaux, formules de base, mise en forme
 
 <nav class="page-nav">
-  <a href="cours_seance_04.html">← Cours</a>
   <a href="../../index.html">Accueil</a>
+  <a href="cours_seance_04.html">Slides</a>
+  <a href="../../syllabus.html">Syllabus</a>
 </nav>
 
 ## Tâche : Remplir le Sheet partagé (2 points)
@@ -23,8 +24,9 @@ L'enseignant vérifie dans Drive (droits éditeur sur ce Sheet, contenu des feui
 **Deadline : la veille de la prochaine séance, 20:00**
 
 <nav class="page-nav">
-  <a href="cours_seance_04.html">← Cours</a>
   <a href="../../index.html">Accueil</a>
+  <a href="cours_seance_04.html">Slides</a>
+  <a href="../../syllabus.html">Syllabus</a>
 </nav>
 
 <footer class="site-footer"><a href="mailto:shuraux@he2b.be">Sylvain Huraux - HE2B - ISIB</a></footer>
