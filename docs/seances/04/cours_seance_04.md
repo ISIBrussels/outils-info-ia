@@ -211,9 +211,9 @@ Colonne de nombres : si ce n’est pas aligné à droite, cherchez du texte dég
 
 ---
 
-## Tâches évaluées
+## Tâche : Remplir le Sheet partagé (2 points)
 
-**TBA**
+Sur le **Sheet S2** : `YYYY-MM-DD_…` ; enseignant **éditeur** (pas propriétaire) ; feuille **Mesures** (en-têtes + ≥12 lignes) ; figer 1re ligne ; **`$`** + poignée pour Valeur corrigée ; feuille **Synthese** (SOMME, MOYENNE, MIN, MAX, NB/NBVAL).
 
 → [Tâches évaluées](taches_seance_04.html)
 
