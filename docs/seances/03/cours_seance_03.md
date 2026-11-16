@@ -4,7 +4,7 @@ theme: isib
 title: "Séance 3 : Google Docs"
 paginate: true
 header: "Outils Info & IA : Séance 3 [Sylvain Huraux - HE2B - ISIB](mailto:shuraux@he2b.be)"
-footer: "[← Retour à l'accueil](../../index.html)"
+footer: "[Accueil](../../index.html)"
 ---
 
 ## Séance 3
@@ -245,7 +245,7 @@ Le PDF est un **instantané** pour remise ou archive. Le Doc Drive reste la vers
 
 Sur le **Doc S2** : **4 pages** (garde + 3) ; `YYYY-MM-DD_…` ; garde / en-tête-pied (**1re page différente**) ; liste **4 niveaux** ; TdM Titre 1-3 ; **2 colonnes** sur une sous-section (sauts de section) ; figure, commentaires + suggestion, **PDF**.
 
-→ [Tâches évaluées](taches_seance_03.html)
+[Tâches évaluées](taches_seance_03.html)
 
 ---
 
@@ -253,4 +253,4 @@ Sur le **Doc S2** : **4 pages** (garde + 3) ; `YYYY-MM-DD_…` ; garde / en-têt
 
 **Deadline : la veille de la prochaine séance, 20:00**
 
-→ [Tâches évaluées](taches_seance_03.html)
+[Tâches évaluées](taches_seance_03.html)

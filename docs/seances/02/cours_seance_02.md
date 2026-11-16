@@ -4,7 +4,7 @@ theme: isib
 title: "Séance 2 : Google Drive"
 paginate: true
 header: "Outils Info & IA : Séance 2 [Sylvain Huraux - HE2B - ISIB](mailto:shuraux@he2b.be)"
-footer: "[← Retour à l'accueil](../../index.html)"
+footer: "[Accueil](../../index.html)"
 ---
 
 ## Séance 2
@@ -250,7 +250,7 @@ Dans **Mon Drive** (compte institutionnel) :
 
 **Dossier partagé** (invitation nominative) : pas un Drive partagé, pas tout Mon Drive.
 
-→ [Tâches évaluées](taches_seance_02.html)
+[Tâches évaluées](taches_seance_02.html)
 
 ---
 
@@ -266,7 +266,7 @@ Dans **ce même dossier**, 3 fichiers ; droits de l’enseignant **par fichier**
 
 Noms lisibles (ex. `AAAA-MM-JJ_OutilsInfo_seance02-docs`).
 
-→ [Tâches évaluées](taches_seance_02.html)
+[Tâches évaluées](taches_seance_02.html)
 
 ---
 
@@ -274,4 +274,4 @@ Noms lisibles (ex. `AAAA-MM-JJ_OutilsInfo_seance02-docs`).
 
 Réalisation des deux tâches : **au plus tard la veille de la prochaine séance, à 20:00**.
 
-→ [Tâches évaluées](taches_seance_02.html)
+[Tâches évaluées](taches_seance_02.html)
