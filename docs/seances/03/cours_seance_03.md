@@ -42,10 +42,10 @@ Word reste possible : on peut **importer** / **exporter** `.docx`. Pour collabor
 Depuis **Drive**, bouton **Nouveau** → **Google Docs**.
 
 - Créez le fichier **dans le dossier** du projet (évite « Documents sans titre » à la racine)
-- Nommez tout de suite : cliquez le **titre en haut à gauche** du Doc (pas besoin de passer par Drive) ; ex. `AAAA-MM-JJ_Projet_description`
+- Nommez tout de suite : cliquez le **titre en haut à gauche** du Doc (pas besoin de passer par Drive), ex. `AAAA-MM-JJ_Projet_description`
 - Un Doc « orphelin » se retrouve souvent dans *Récents*, pas dans votre arborescence
 
-Rappel S2 : le fichier vit dans Drive ; le lien + les **droits** valent mieux qu’une PJ.
+Rappel S2 : le fichier vit dans Drive, le lien + les **droits** valent mieux qu’une PJ.
 
 ---
 
@@ -126,7 +126,7 @@ Deux menus à connaître tôt :
 | **Insertion** | Ajouter : **image**, **saut** (page / section), **tableau**, **table des matières**, **éléments de page** (en-tête, pied, numéros)… |
 | **Format** | Soigner le texte : **styles**, alignement, interligne, **colonnes**, options de **liste**… |
 
-La barre d’outils reprend les actions du quotidien ; les menus donnent le reste.
+La barre d’outils reprend les actions du quotidien, les menus donnent le reste.
 
 ---
 
@@ -134,10 +134,10 @@ La barre d’outils reprend les actions du quotidien ; les menus donnent le rest
 
 Dans la **barre d’outils** (ou **Format**) :
 
-- **Puces** : sans ordre imposé ; **numérotées** : 1, 2, 3… (évitez de taper `1.` / `-` à la main)
+- **Puces** : sans ordre imposé, **numérotées** : 1, 2, 3… (évitez de taper `1.` / `-` à la main)
 - **Tab** / **Maj**+**Tab** (ou indent) : descendre / remonter d’un **niveau** dans la liste
 
-Idée BA1 : **lier niveau de titre ↔ niveau de liste** : *Titre 1* → items niveau 1 ; *Titre 2* → sous-liste ; etc. Même hiérarchie partout.
+Idée BA1 : **lier niveau de titre ↔ niveau de liste** : *Titre 1* → items niveau 1, *Titre 2* → sous-liste, etc. Même hiérarchie partout.
 
 ---
 
@@ -243,7 +243,7 @@ Le PDF est un **instantané** pour remise ou archive. Le Doc Drive reste la vers
 
 ## Tâche : Remplir le Doc partagé (3 points)
 
-Sur le **Doc S2** : **4 pages** (garde + 3) ; `YYYY-MM-DD_…` ; garde / en-tête-pied (**1re page différente**) ; liste **4 niveaux** ; TdM Titre 1-3 ; **2 colonnes** sur une sous-section (sauts de section) ; figure, commentaires + suggestion, **PDF**.
+Sur le **Doc S2** : **4 pages** (garde + 3), `YYYY-MM-DD_…`, garde / en-tête-pied (**1re page différente**), liste **4 niveaux**, TdM Titre 1-3, **2 colonnes** sur une sous-section (sauts de section), figure, commentaires + suggestion, **PDF**.
 
 [Tâches évaluées](taches_seance_03.html)
 

@@ -11,7 +11,7 @@ footer: "[Accueil](../../index.html)"
 
 Google Sheets (2)
 
-Graphiques, validation / propreté ; Forms → Sheets
+Graphiques, validation / propreté, Forms → Sheets
 
 ---
 

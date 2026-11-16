@@ -48,7 +48,7 @@ Zones à connaître :
 3. **Barre de formules** (sous les menus) : contenu exact de la cellule active
 4. **Barre d’outils** : format nombre, gras, bordures, alignement…
 
-Cliquez une cellule pour la sélectionner ; la barre de formules montre ce qui est vraiment stocké (valeur ou formule).
+Cliquez une cellule pour la sélectionner, la barre de formules montre ce qui est vraiment stocké (valeur ou formule).
 
 ---
 
@@ -59,8 +59,8 @@ Sheets interprète ce que vous tapez :
 | Type | Exemples | Remarque |
 | --- | --- | --- |
 | **Texte** | `Pompe P1`, `OK` | Aligné à gauche par défaut |
-| **Nombre** | `12`, `3,14`, `-5` | Calculable ; séparateur décimal selon la locale |
-| **Date** / heure | `18/10/2026`, `14:30` | Stockées comme nombres ; format d’affichage à part |
+| **Nombre** | `12`, `3,14`, `-5` | Calculable, séparateur décimal selon la locale |
+| **Date** / heure | `18/10/2026`, `14:30` | Stockées comme nombres, format d’affichage à part |
 
 Attention : un « nombre » tapé avec une apostrophe (`'12`) ou collé comme texte **ne se calcule pas**. La cellule reste à gauche, souvent signe d’un texte.
 
@@ -71,7 +71,7 @@ Attention : un « nombre » tapé avec une apostrophe (`'12`) ou collé comme te
 Menu **Format** (ou barre d’outils) :
 
 - **Nombre** : décimales, pourcentages, devise, date
-- **Alignement** : horizontal / vertical ; en-têtes souvent centrés
+- **Alignement** : horizontal / vertical, en-têtes souvent centrés
 - **Bordures** et **couleur** de fond : lisibilité, pas décoration
 - **Figer** : **Affichage** → **Figer** → **1 ligne** (les en-têtes restent visibles en scrollant)
 
@@ -121,7 +121,7 @@ Opérateurs courants :
 | `()` | Priorité | `=(A1+A2)/2` |
 | `&` | Coller du texte | `="Mesure "&A1` |
 
-Après Entrée, la cellule **affiche le résultat** ; la barre de formules montre encore la formule.
+Après Entrée, la cellule **affiche le résultat**, la barre de formules montre encore la formule.
 
 Erreur fréquente : oublier le `=` (Sheets traite alors le texte comme du libellé).
 
@@ -139,7 +139,7 @@ Syntaxe : `=NOM(plage_ou_arguments)`.
 | **NB** | Compte les **nombres** | `=NB(B2:B20)` |
 | **NBVAL** | Compte les cellules **non vides** | `=NBVAL(A2:A20)` |
 
-Aide en cours de saisie : après `=SOM`, Sheets propose la fonction ; Tab pour valider.
+Aide en cours de saisie : après `=SOM`, Sheets propose la fonction, Tab pour valider.
 
 ---
 
@@ -164,7 +164,7 @@ Sans `$`, la référence « glisse » et le calcul devient faux.
 Petit carré en bas à droite de la sélection : la **poignée de recopie**.
 
 - Tirez vers le bas / la droite pour étendre une formule
-- Les références **relatives** s’ajustent ; les **`$`** restent fixes
+- Les références **relatives** s’ajustent, les **`$`** restent fixes
 - Double-clic sur la poignée : remplit souvent jusqu’à la fin de la colonne voisine
 
 Contrôlez 2 ou 3 cellules après copie : résultat + formule dans la barre.
@@ -177,7 +177,7 @@ Sur un tableau avec en-têtes :
 
 1. Sélectionnez la plage (ou une cellule dedans)
 2. **Données** → **Créer un filtre** (icônes dans les en-têtes)
-3. Filtrer : n’afficher que certaines valeurs ; **trier** A→Z ou par nombre
+3. Filtrer : n’afficher que certaines valeurs, **trier** A→Z ou par nombre
 
 Le filtre masque des lignes, il ne les efface pas. Désactivez le filtre pour revoir tout le jeu.
 
@@ -200,7 +200,7 @@ Colonne de nombres : si ce n’est pas aligné à droite, cherchez du texte dég
 
 ## Bonnes pratiques
 
-1. Une **feuille** = un sujet clair ; nommez les onglets
+1. Une **feuille** = un sujet clair, nommez les onglets
 2. En-têtes en **ligne 1**, données en dessous, **sans** fusion dans la zone utile
 3. Formules plutôt que calculatrices à côté : le fichier reste à jour
 4. **`$`** dès qu’une cellule doit rester fixe à la recopie
@@ -212,7 +212,7 @@ Colonne de nombres : si ce n’est pas aligné à droite, cherchez du texte dég
 
 ## Tâche : Remplir le Sheet partagé (2 points)
 
-Sur le **Sheet S2** : `YYYY-MM-DD_…` ; enseignant **éditeur** (pas propriétaire) ; feuille **Mesures** (en-têtes + ≥12 lignes) ; figer 1re ligne ; **`$`** + poignée pour Valeur corrigée ; feuille **Synthese** (SOMME, MOYENNE, MIN, MAX, NB/NBVAL).
+Sur le **Sheet S2** : `YYYY-MM-DD_…`, enseignant **éditeur** (pas propriétaire), feuille **Mesures** (en-têtes + ≥12 lignes), figer 1re ligne, **`$`** + poignée pour Valeur corrigée, feuille **Synthese** (SOMME, MOYENNE, MIN, MAX, NB/NBVAL).
 
 [Tâches évaluées](taches_seance_04.html)
 

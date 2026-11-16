@@ -15,16 +15,17 @@ Activité d'apprentissage **Outils informatiques & IA**, 1<sup>e</sup> année in
 | Format | Démonstration + tâches évaluées |
 | Compte | Google / Workspace étudiant |
 | Langue | Explications en français (interfaces souvent en anglais) |
+| Version | 2026-11-16 |
 
 ## Objectifs de fin de module
 
 À l'issue du module, l'étudiant·e est capable de :
 
-- communiquer de façon professionnelle avec Gmail (objet, structure, libellés, vigilance phishing) ;
-- planifier avec Agenda et organiser Drive (arborescence, nommage, droits, sync) ;
-- produire Docs, Sheets et Slides structurés et collaboratifs ;
-- enchaîner Forms → Sheets → graphique (collecte et visualisation) ;
-- utiliser Gemini, NotebookLM et Google AI Studio comme copilotes (prompts, sources, vérification) ;
+- communiquer de façon professionnelle avec Gmail (objet, structure, libellés, vigilance phishing)
+- planifier avec Agenda et organiser Drive (arborescence, nommage, droits, sync)
+- produire Docs, Sheets et Slides structurés et collaboratifs
+- enchaîner Forms → Sheets → graphique (collecte et visualisation)
+- utiliser Gemini, NotebookLM et Google AI Studio comme copilotes (prompts, sources, vérification)
 - appliquer une charte d'usage académique responsable de l'IA.
 
 ## Périmètre
@@ -60,7 +61,7 @@ Pas d'examen écrit pour cette activité : la note repose sur les tâches.
 | 2 | 1 h 30 | Google Drive (arborescence, nommage, partage / droits, sync) |
 | 3 | 1 h 30 | Google Docs |
 | 4 | 1 h 30 | Google Sheets (1) : tableaux, formules de base, mise en forme |
-| 5 | 1 h 30 | Google Sheets (2) : graphiques, validation ; Forms → Sheets |
+| 5 | 1 h 30 | Google Sheets (2) : graphiques, validation, Forms → Sheets |
 | 6 | 1 h 30 | Google Slides |
 | 7 | 1 h 30 | Outils IA : Gemini, NotebookLM, Google AI Studio |
 

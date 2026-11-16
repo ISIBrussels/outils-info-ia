@@ -232,7 +232,7 @@ Idée : un dossier sur le PC qui **reflète** (en tout ou en partie) votre Drive
 
 - Modification locale → mise à jour en ligne (et inversement)
 - Utile **hors ligne** ou avec des apps de bureau (PDF, PAO, etc.)
-- Brancher le bon compte (**pro** pour le travail) ; surveiller l’**espace disque**
+- Brancher le bon compte (**pro** pour le travail), surveiller l’**espace disque**
 
 En pratique, synchroniser Drive est **très conseillé** :
 
@@ -256,7 +256,7 @@ Dans **Mon Drive** (compte institutionnel) :
 
 ## Tâche 2 : Trois fichiers, trois droits
 
-Dans **ce même dossier**, 3 fichiers ; droits de l’enseignant **par fichier** :
+Dans **ce même dossier**, 3 fichiers, droits de l’enseignant **par fichier** :
 
 | Fichier | Contenu | Droit |
 | --- | --- | --- |
