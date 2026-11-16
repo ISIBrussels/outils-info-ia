@@ -1,7 +1,7 @@
 # Syllabus
 
 <nav class="page-nav">
-  <a href="index.html">← Accueil</a>
+  <a href="index.html">Accueil</a>
 </nav>
 
 Activité d'apprentissage **Outils informatiques & IA**, 1<sup>e</sup> année ingénieur industriel, **ISIB** (HE2B).

@@ -4,7 +4,7 @@ theme: isib
 title: "Séance 1 : Gmail, Agenda, (Tasks et Meet)"
 paginate: true
 header: "Outils Info & IA : Séance 1 [Sylvain Huraux - HE2B - ISIB](mailto:shuraux@he2b.be)"
-footer: "[← Retour à l'accueil](../../index.html)"
+footer: "[Accueil](../../index.html)"
 ---
 
 ## Séance 1
@@ -252,7 +252,7 @@ Envoyez **un seul mail** depuis le compte **institutionnel** à l’enseignant.
 2. salutation + demande claire « pour faire jolie » + formule de politesse
 3. signature : nom + matricule + année avec groupe
 
-→ [Tâches évaluées](taches_seance_01.html)
+[Tâches évaluées](taches_seance_01.html)
 
 ---
 
@@ -266,7 +266,7 @@ Créez un **événement** Agenda et **invitez l’enseignant**.
 2. créneau d’**1 h**, le **samedi** ou le **dimanche** avant la **deuxième séance** de cours
 3. **rappel** activé
 
-→ [Tâches évaluées](taches_seance_01.html)
+[Tâches évaluées](taches_seance_01.html)
 
 ---
 
@@ -274,4 +274,4 @@ Créez un **événement** Agenda et **invitez l’enseignant**.
 
 Réalisation des deux tâches : **au plus tard la veille de la prochaine séance, à 20:00**.
 
-→ [Tâches évaluées](taches_seance_01.html)
+[Tâches évaluées](taches_seance_01.html)

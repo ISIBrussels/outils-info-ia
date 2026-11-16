@@ -4,7 +4,7 @@ theme: isib
 title: "Séance 7 : Outils IA"
 paginate: true
 header: "Outils Info & IA : Séance 7 [Sylvain Huraux - HE2B - ISIB](mailto:shuraux@he2b.be)"
-footer: "[← Retour à l'accueil](../../index.html)"
+footer: "[Accueil](../../index.html)"
 ---
 
 ## Séance 7
@@ -25,4 +25,4 @@ Contenu pédagogique à rédiger.
 
 **TBA**
 
-→ [Tâches évaluées](taches_seance_07.html)
+[Tâches évaluées](taches_seance_07.html)

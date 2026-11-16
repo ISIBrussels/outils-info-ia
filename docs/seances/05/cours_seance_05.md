@@ -4,7 +4,7 @@ theme: isib
 title: "Séance 5 : Google Sheets (2)"
 paginate: true
 header: "Outils Info & IA : Séance 5 [Sylvain Huraux - HE2B - ISIB](mailto:shuraux@he2b.be)"
-footer: "[← Retour à l'accueil](../../index.html)"
+footer: "[Accueil](../../index.html)"
 ---
 
 ## Séance 5
@@ -25,4 +25,4 @@ Contenu pédagogique à rédiger.
 
 **TBA**
 
-→ [Tâches évaluées](taches_seance_05.html)
+[Tâches évaluées](taches_seance_05.html)

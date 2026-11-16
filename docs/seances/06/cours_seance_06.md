@@ -4,7 +4,7 @@ theme: isib
 title: "Séance 6 : Google Slides"
 paginate: true
 header: "Outils Info & IA : Séance 6 [Sylvain Huraux - HE2B - ISIB](mailto:shuraux@he2b.be)"
-footer: "[← Retour à l'accueil](../../index.html)"
+footer: "[Accueil](../../index.html)"
 ---
 
 ## Séance 6
@@ -25,4 +25,4 @@ Contenu pédagogique à rédiger.
 
 **TBA**
 
-→ [Tâches évaluées](taches_seance_06.html)
+[Tâches évaluées](taches_seance_06.html)

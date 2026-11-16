@@ -4,7 +4,7 @@ theme: isib
 title: "Séance 4 : Google Sheets (1)"
 paginate: true
 header: "Outils Info & IA : Séance 4 [Sylvain Huraux - HE2B - ISIB](mailto:shuraux@he2b.be)"
-footer: "[← Retour à l'accueil](../../index.html)"
+footer: "[Accueil](../../index.html)"
 ---
 
 ## Séance 4
@@ -215,7 +215,7 @@ Colonne de nombres : si ce n’est pas aligné à droite, cherchez du texte dég
 
 **TBA**
 
-→ [Tâches évaluées](taches_seance_04.html)
+[Tâches évaluées](taches_seance_04.html)
 
 ---
 
@@ -223,4 +223,4 @@ Colonne de nombres : si ce n’est pas aligné à droite, cherchez du texte dég
 
 **Deadline : la veille de la prochaine séance, 20:00**
 
-→ [Tâches évaluées](taches_seance_04.html)
+[Tâches évaluées](taches_seance_04.html)
