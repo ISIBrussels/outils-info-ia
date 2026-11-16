@@ -32,7 +32,6 @@ Tableaux, formules de base, mise en forme
 
 - Calculs et tableaux sans installer Excel
 - Travail à plusieurs sur le **même** fichier
-- Historique des versions (rappel séances 2 et 3)
 
 Utile en ingénierie : relevés de mesures, bilans, plannings chiffrés, listes de matériel, petits jeux de données.
 
