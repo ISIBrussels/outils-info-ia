@@ -1,4 +1,4 @@
-# Séance 1 : Tâches évaluées
+# Séance 1 — Tâches évaluées
 
 Thème : Gmail, Agenda, (Tasks et Meet)
 
