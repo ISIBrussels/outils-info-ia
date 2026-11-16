@@ -1,9 +1,9 @@
 ---
 marp: true
 theme: isib
-title: "Séance 7 : Outils IA"
+title: "Séance 7 — Outils IA"
 paginate: true
-header: "Outils Info & IA : Séance 7 [Sylvain Huraux - HE2B - ISIB](mailto:shuraux@he2b.be)"
+header: "Outils Info & IA — Séance 7 [Sylvain Huraux - HE2B - ISIB](mailto:shuraux@he2b.be)"
 footer: "[Accueil](../../index.html)"
 ---
 

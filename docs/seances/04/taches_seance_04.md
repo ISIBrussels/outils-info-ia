@@ -1,4 +1,4 @@
-# Séance 4 : Tâches évaluées
+# Séance 4 — Tâches évaluées
 
 Thème : Google Sheets (1) : tableaux, formules de base, mise en forme
 

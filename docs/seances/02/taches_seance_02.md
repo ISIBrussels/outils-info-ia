@@ -1,4 +1,4 @@
-# Séance 2 : Tâches évaluées
+# Séance 2 — Tâches évaluées
 
 Thème : Google Drive
 

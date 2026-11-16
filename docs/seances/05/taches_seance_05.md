@@ -1,4 +1,4 @@
-# Séance 5 : Tâches évaluées
+# Séance 5 — Tâches évaluées
 
 Thème : Google Sheets (2) : graphiques, validation / propreté ; Forms → Sheets
 

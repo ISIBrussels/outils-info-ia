@@ -1,4 +1,4 @@
-# Séance 3 : Tâches évaluées
+# Séance 3 — Tâches évaluées
 
 Thème : Google Docs : remplir le Doc déjà partagé en séance 2
 

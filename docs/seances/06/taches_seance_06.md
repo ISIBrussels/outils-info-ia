@@ -1,4 +1,4 @@
-# Séance 6 : Tâches évaluées
+# Séance 6 — Tâches évaluées
 
 Thème : Google Slides : éditer le Slides déjà partagé en séance 2
 
