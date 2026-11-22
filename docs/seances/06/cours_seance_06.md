@@ -62,7 +62,7 @@ Chaque diapo a une **mise en page** : emplacements prêts (titre, corps, deux co
 
 **Diapositive** → **Appliquer la mise en page** (ou menu clic droit sur la diapo).
 
-Layouts utiles BA1 :
+Layouts utiles :
 
 | Layout | Usage |
 | --- | --- |
@@ -82,7 +82,7 @@ Le **thème** fixe polices, couleurs et styles du deck.
 - **Diapositive** → **Changer de thème** : un thème pour tout le fichier
 - Arrière-plan d’une diapo : **Diapositive** → **Changer l’arrière-plan**
 
-Règle BA1 : un thème **lisible** (contraste), pas un fond chargé qui mange le texte.
+Règle : un thème **lisible** (contraste), pas un fond chargé qui mange le texte.
 
 Erreur fréquente : coller du texte blanc sur fond clair (ou l’inverse) après un changement de thème.
 
@@ -101,7 +101,7 @@ Dans l’éditeur :
 - Logo, pied de page ou élément répété sur un masque
 - Ces éléments s’appliquent à **toutes** les diapos du même layout
 
-BA1 : viser la **cohérence** du deck. Pas besoin de créer plein de masques custom.
+Viser la **cohérence** du deck. Pas besoin de créer plein de masques custom.
 
 Erreur fréquente : recopier logo / pied à la main sur chaque diapo au lieu du masque.
 
@@ -182,7 +182,7 @@ Erreur fréquente : tout mettre sur la diapo faute de notes, puis lire à voix h
 **Transition** : effet entre deux diapos.  
 **Animation** : apparition d’un objet sur la diapo.
 
-BA1 : **discret**.
+Restez **discret**.
 
 - Une transition simple sur le deck (ou aucune)
 - Animations : au plus faire apparaître les puces une à une si utile
