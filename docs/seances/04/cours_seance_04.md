@@ -210,7 +210,7 @@ Colonne de nombres : si ce n’est pas aligné à droite, cherchez du texte dég
 
 ---
 
-## Tâche : Remplir le Sheet partagé (2 points)
+## Tâche : Remplir le Sheet partagé (3 points)
 
 Sur le **Sheet S2** : `YYYY-MM-DD_…`, enseignant **éditeur** (pas propriétaire), feuille **Mesures** (en-têtes + ≥12 lignes), figer 1re ligne, **`$`** + poignée pour Valeur corrigée, feuille **Synthese** (SOMME, MOYENNE, MIN, MAX, NB/NBVAL).
 
