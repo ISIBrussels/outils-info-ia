@@ -68,7 +68,7 @@ Vous y trouverez l'ensemble des ressources du cours :
     </tr>
     <tr>
       <td>7</td>
-      <td>Outils IA (Gemini, NotebookLM, AI Studio)</td>
+      <td>Outils IA (Gemini, Gemini Notebook, AI Studio)</td>
       <td><a href="seances/07/cours_seance_07.md">Slides</a></td>
       <td><a href="seances/07/syllabus_seance_07.md">Syllabus</a></td>
       <td><a href="seances/07/taches_seance_07.md">Tâches évaluées</a></td>
