@@ -11,7 +11,7 @@
 - Contrôler la saisie avec la **validation de données** (liste, nombre)
 - Relire un tableau avec **filtres** et un repère visuel (mise en forme conditionnelle)
 - Créer un **graphique** lisible : type adapté, titres, légende
-- Créer un **Google Form** (types utiles BA1) et le **lier** à une feuille
+- Créer un **Google Form** (types utiles) et le **lier** à une feuille
 - Partager le formulaire et lire les réponses dans Sheets
 - Enchaîner mentalement : **Forms → Sheets → graphique**
 
@@ -55,7 +55,7 @@ Menu : sélectionner la plage → **Données** → **Validation des données**.
 
 ## Validation : listes et nombres
 
-Deux cas utiles en BA1 :
+Deux cas utiles :
 
 | Critère | Exemple | Effet |
 | --- | --- | --- |
@@ -128,7 +128,7 @@ Création : [forms.google.com](https://forms.google.com) ou Drive → **Nouveau*
 - Titre + **description** courte
 - Ajouter des questions, choisir le **type**
 
-Types utiles BA1 :
+Types utiles :
 
 | Type | Usage |
 | --- | --- |

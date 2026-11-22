@@ -137,7 +137,7 @@ Dans la **barre d’outils** (ou **Format**) :
 - **Puces** : sans ordre imposé, **numérotées** : 1, 2, 3… (évitez de taper `1.` / `-` à la main)
 - **Tab** / **Maj**+**Tab** (ou indent) : descendre / remonter d’un **niveau** dans la liste
 
-Idée BA1 : **lier niveau de titre ↔ niveau de liste** : *Titre 1* → items niveau 1, *Titre 2* → sous-liste, etc. Même hiérarchie partout.
+Idée : **lier niveau de titre ↔ niveau de liste** : *Titre 1* → items niveau 1, *Titre 2* → sous-liste, etc. Même hiérarchie partout.
 
 ---
 
