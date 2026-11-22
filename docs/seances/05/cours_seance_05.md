@@ -152,8 +152,14 @@ Hors séance : quiz noté complexe, branchements longs, add-ons.
 
 Création : [forms.google.com](https://forms.google.com) ou Drive → **Nouveau** → **Google Forms**.
 
+<div class="two-cols">
+<div>
+
 - Titre + **description** courte
 - Ajouter des questions, choisir le **type**
+
+</div>
+<div>
 
 Types utiles BA1 :
 
@@ -164,6 +170,9 @@ Types utiles BA1 :
 | **Liste déroulante** | Même idée, liste compacte |
 | **Réponse courte** / **paragraphe** | Texte libre |
 | **Nombre** / **échelle** | Quantité ou note subjective |
+
+</div>
+</div>
 
 ---
 

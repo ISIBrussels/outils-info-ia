@@ -54,7 +54,7 @@ Vous y trouverez l'ensemble des ressources du cours :
     </tr>
     <tr>
       <td>5</td>
-      <td>Google Sheets (2)</td>
+      <td>Google Sheets (2), Google Forms</td>
       <td><a href="seances/05/cours_seance_05.md">Slides</a></td>
       <td><a href="seances/05/syllabus_seance_05.md">Syllabus</a></td>
       <td><a href="seances/05/taches_seance_05.md">Tâches évaluées</a></td>
