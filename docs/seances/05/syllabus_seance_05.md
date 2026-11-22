@@ -209,9 +209,9 @@ Enchaînement type :
 
 Objectif de fin de module Sheets/Forms : collecter → stocker → visualiser, dans le même écosystème Drive.
 
-## Tâches évaluées
+## Tâche : Formulaire et analyse sur le Sheet partagé (3 points)
 
-**TBA**
+Sur le **Sheet S4** : Form `YYYY-MM-DD_…` (5 à 7 questions), destination **feuille existante**, ≥5 réponses, feuille **Analyse** (SOMME, NB ou MOYENNE), validation, **MFC** + graphique titré.
 
 [Tâches évaluées](taches_seance_05.html)
 
