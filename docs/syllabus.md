@@ -15,7 +15,7 @@ Activité d'apprentissage **Outils informatiques & IA**, 1<sup>e</sup> année in
 | Format | Démonstration + tâches évaluées |
 | Compte | Google / Workspace étudiant |
 | Langue | Explications en français (interfaces souvent en anglais) |
-| Version | 2026-11-16 |
+| Version | 2026-11-22 |
 
 ## Objectifs de fin de module
 
@@ -49,7 +49,7 @@ Chaque séance (1 h 30) suit en général ce rythme :
 - Les consignes précises (critères, remise, deadline) sont sur la page **Tâches évaluées** de chaque séance
 - Deadline type : la veille de la séance suivante, **20:00** (Europe/Brussels), sauf indication contraire sur la page de tâches
 - Retard : pénalité de **−0,5** par tâche après l'heure limite (plancher 0)
-- Barème global /20 : précisé progressivement au fil des séances (ex. S3 Docs = 3 pts)
+- Barème progressif (indicatif) : S3 Docs = 3 pts, S4 Sheets (1) = 2 pts, S5 Sheets (2) + Forms = 3 pts (énoncé S5 publié quand annoncé en séance)
 
 Pas d'examen écrit pour cette activité : la note repose sur les tâches.
 
@@ -61,7 +61,7 @@ Pas d'examen écrit pour cette activité : la note repose sur les tâches.
 | 2 | 1 h 30 | Google Drive (arborescence, nommage, partage / droits, sync) |
 | 3 | 1 h 30 | Google Docs |
 | 4 | 1 h 30 | Google Sheets (1) : tableaux, formules de base, mise en forme |
-| 5 | 1 h 30 | Google Sheets (2) : graphiques, validation, Forms → Sheets |
+| 5 | 1 h 30 | Google Sheets (2) : filtres, validation, MFC, graphiques, Forms → Sheets |
 | 6 | 1 h 30 | Google Slides |
 | 7 | 1 h 30 | Outils IA : Gemini, NotebookLM, Google AI Studio |
 
