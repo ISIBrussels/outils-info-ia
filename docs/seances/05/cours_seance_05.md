@@ -150,7 +150,7 @@ Hors séance : quiz noté complexe, branchements longs, add-ons.
 
 ## Créer un formulaire et types
 
-Création : [forms.google.com](https://forms.google.com) ou Drive → **Nouveau** → **Google Forms**.
+Création : Drive → **Nouveau** → **Google Forms**.
 
 <div class="two-cols">
 <div>
