@@ -8,7 +8,7 @@ Thème : Google Sheets (1) : tableaux, formules de base, mise en forme
   <a href="syllabus_seance_04.html">Syllabus</a>
 </nav>
 
-## Tâche : Remplir le Sheet partagé (2 points)
+## Tâche : Remplir le Sheet partagé (3 points)
 
 Ouvrez le Google Sheets du dossier partagé en séance 2 (celui où l'enseignant était lecteur). Travaillez dans ce fichier, pas de second Sheet.
 
