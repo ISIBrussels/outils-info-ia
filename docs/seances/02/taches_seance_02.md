@@ -5,7 +5,7 @@ Thème : Google Drive
 <nav class="page-nav">
   <a href="../../index.html">Accueil</a>
   <a href="cours_seance_02.html">Slides</a>
-  <a href="../../syllabus.html">Syllabus</a>
+  <a href="syllabus_seance_02.html">Syllabus</a>
 </nav>
 
 ## Tâche 1 : Dossier partagé
@@ -32,7 +32,7 @@ Donnez à chaque fichier un nom lisible (convention de la séance, ex. `AAAA-MM-
 <nav class="page-nav">
   <a href="../../index.html">Accueil</a>
   <a href="cours_seance_02.html">Slides</a>
-  <a href="../../syllabus.html">Syllabus</a>
+  <a href="syllabus_seance_02.html">Syllabus</a>
 </nav>
 
 <footer class="site-footer"><a href="mailto:shuraux@he2b.be">Sylvain Huraux - HE2B - ISIB</a></footer>
