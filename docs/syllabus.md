@@ -62,7 +62,7 @@ Pas d'examen écrit pour cette activité : la note repose sur les tâches.
 | 3 | 1 h 30 | Google Docs |
 | 4 | 1 h 30 | Google Sheets (1) : tableaux, formules de base, mise en forme |
 | 5 | 1 h 30 | Google Sheets (2) : filtres, validation, MFC, graphiques, Forms → Sheets |
-| 6 | 1 h 30 | Google Slides : layouts, texte, images, notes, présentation, collab |
+| 6 | 1 h 30 | Google Slides : layouts, thème / masque, texte, images, notes, présentation, collab |
 | 7 | 1 h 30 | Outils IA : Gemini, NotebookLM, Google AI Studio |
 
 Les slides et les tâches de chaque séance sont accessibles depuis la [page d'accueil](index.html).

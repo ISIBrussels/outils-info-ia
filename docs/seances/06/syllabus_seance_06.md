@@ -10,6 +10,7 @@
 
 - Créer une **présentation** claire : diapo titre, diapos de contenu
 - Choisir une **mise en page** (layout) adaptée à chaque diapo
+- Harmoniser via le **masque** / **éditeur de thème** (logo, style)
 - Structurer le texte : **titres**, puces, une idée par diapo
 - Insérer **image**, **formes**, éventuellement un **tableau**
 - Préparer l’oral : **notes** du présentateur, mode présentation
@@ -67,6 +68,23 @@ Le **thème** fixe polices, couleurs et styles du deck.
 Règle BA1 : un thème **lisible** (contraste), pas un fond chargé qui mange le texte.
 
 Erreur fréquente : coller du texte blanc sur fond clair (ou l’inverse) après un changement de thème.
+
+## Masque et éditeur de thème
+
+Changer de thème = choisir un **préréglage**.  
+**Modifier le thème** = éditer les **masques** (modèles derrière les layouts).
+
+**Diapositive** → **Modifier le thème** : ouvre l’**éditeur de thème**.
+
+Dans l’éditeur :
+
+- Polices et couleurs du thème
+- Logo, pied de page ou élément répété sur un masque
+- Ces éléments s’appliquent à **toutes** les diapos du même layout
+
+BA1 : viser la **cohérence** du deck. Pas besoin de créer plein de masques custom.
+
+Erreur fréquente : recopier logo / pied à la main sur chaque diapo au lieu du masque.
 
 ## Texte : une idée par diapo
 
@@ -182,7 +200,7 @@ Le lien Drive reste la version de **travail**. Le PDF est un **instantané**.
 
 1. Diapo **titre** claire (sujet, auteur·ice, date / contexte)
 2. **Une idée** par diapo, puces courtes
-3. Thème lisible, contraste texte / fond
+3. Thème lisible, contraste texte / fond, cohérence via le **masque**
 4. Images et schémas **lisibles** en projection
 5. **Notes** pour l’oral, pas un roman sur la diapo
 6. Transitions discrètes, tester le **diaporama** une fois
